@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-02-01T07:59:34+00:00"
 draft = false
 tags = ["música"]
 title = "Track Review: “Summer Sixteen”"
-+++
+---
 L'any passat Drake va fer tot menys el que pensàvem que faria: va llançar un single una matinada que va arribar al #2 de Billboard, va publicar un mixtape comercial de “rap pur” que es va convertir en el projecte preferit de molts, va protagonitzar el beef més rellevant de l'any amb el raper de Filadèlfia Meek Mill, va treure un àlbum col·laboratiu amb el raper de moda del dos-mil-quinze Future, va firmar un acord de diversos milions de dòlars amb Apple i el seu servei de música en streaming... però no va treure el seu esperat àlbum comercial, *Views From The 6*. El 201*6* és l'any. Ara va de debò.
 
 <!-- more -->

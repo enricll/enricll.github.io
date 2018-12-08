@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-04-07T20:33:29+00:00"
 draft = false
 tags = ["música", "Spotify"]
 title = "Les carpetes a Spotify"
-+++
+---
 Ahir vaig descobrir que es poden fer carpetes a [Spotify](http://enricllonch.com/post/93973856861/spotify-es-deu). És una funció que surt a l'aplicació d'escriptori i permet organitzar les llistes de reproducció en carpetes, per tenir-ho tot ben ordenadet. Com és lògic en mi, vaig estar una bona estona arreglant-ho tot i estic bastant orgullós del resultat. Per això he decidit escriure un petit article explicant la meva nova organització de playlists a Spotify — si us servei d'inspiració perfecte, i si només serveix per entretenir-vos amb la meva maníaca organització, doncs també.
 
 <!-- more -->

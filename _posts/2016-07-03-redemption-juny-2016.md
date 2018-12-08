@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-07-03T19:19:42+00:00"
 draft = false
 tags = ["redemption", "música"]
 title = "Redemption: Juny 2016"
-+++
+---
 <!-- more -->
 
 ### Vic Mensa - There's Alot Going On

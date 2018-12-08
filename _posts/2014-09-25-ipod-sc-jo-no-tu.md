@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-09-25T20:29:00+00:00"
 draft = false
 tags = ["iPod", "música"]
 title = "iPod, sóc jo, no tu"
-+++
+---
 Recentment he tornat a l'iPod. Sí, ja sé que vaig ver un post aquí mateix dient que Spotify era Déu, que era el futur a l'hora d'escoltar música i que l'antiga forma de descarregar-te quatre àlbums i escoltar sempre aquests és ineficient. Però què voleu que us digui, també m’agrada fer-ho, i tenia un iPod nano de 3a generació —en tinc un altre de 5a, per mi la millor de totes— abandonat a casa, que he carregat i omplert de discos. *Ready to go*.
 
 <!-- more -->

@@ -1,9 +1,9 @@
-+++
+---
 date = "2017-02-10T09:52:09+00:00"
 draft = false
 tags = ["música"]
 title = "SweetSexySavage"
-+++
+---
 Tot i que *SweetSexySavage* sigui, oficialment, l’àlbum debut de la cantant d’R&B Kehlani, el seu segon mixtape, titulat *You Should Be Here* va ser per a molts la seva carta de presentació al públic general. [En el seu moment](http://enricllonch.com/post/135632908054/els-20-àlbums-del-2015) —fa dos anys— em va agradar moltíssim, per com presentava una “història de reflexió personal i relacions fallides, explicada en primera persona amb melodies atrapants i producció d’escoltar al cotxe amb el volum al màxim creuant la costa oest”. Aquell projecte no acabava de perfilar del tot el que era el “so Kehlani”, però posava sobre la taula els ingredients d’una massa versàtil, tendre i interessant. 
 
 <!-- more -->

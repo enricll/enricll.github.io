@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-02-16T21:19:39+00:00"
 draft = false
 tags = ["música"]
 title = "Majid Jordan"
-+++
+---
 Ara fa tres anys el duo Majid Jordan presentava a Drake el que més tard acabaria sent un dels grans èxits del raper canadenc: “Hold On, We're Going Home”. Fruit d'aquesta col·laboració, Majid Jordan (cantant i productor la major part de les vegades) van signar amb la discogràfica de Drake OVO Sound i des d'aleshores han tret nombrosos singles, un EP comercial i ara el seu àlbum debut homònim.
 
 <!-- more -->

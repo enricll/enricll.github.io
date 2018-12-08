@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-08-06T11:17:40+00:00"
 draft = false
 tags = ["música"]
 title = "Still Brazy"
-+++
+---
 Port&agrave;vem m&eacute;s de mig 2016 i per algun motiu tenia la sensaci&oacute; que no m'havia acabat de conv&egrave;ncer cap &agrave;lbum hip-hop. S&iacute;, *The Life of Pablo* est&agrave; b&eacute;, els EPs de Vic Mensa i Kendrick Lamar tamb&eacute; s&oacute;n decents, el mixtape de Joey Purp t&eacute; molt bons beats, *Bottomless Pit* de Death Grips &eacute;s genial, *Coloring Book* de Chance t&eacute; algunes de les meves can&ccedil;ons preferides de l&rsquo;any&hellip; feia una llista mental de tots els projectes de rap que m&rsquo;havien agradat per&ograve; continuava tenint la mateixa sensaci&oacute;. Fins que va arribar YG.
 
 <!-- more -->

@@ -1,9 +1,9 @@
-+++
+---
 date = "2017-07-24T22:29:06+00:00"
 draft = false
 tags = ["música"]
 title = "Number 1 Angel"
-+++
+---
 <!-- more -->
 
 És possible que ara encara no sigui apreciada com a tal, però la britànica Charli XCX és una de les compositores pop més importants de la nostra generació (i el més proper a Robyn que tenim al 2017). El seu *output* continua sent limitat i escapçat per discogràfiques i models de negoci, que limiten la creativitat d’una artista que amb cada projecte que ha tret ha redefinit el seu so i les seves barrerres. Amb tot, Charli mai ha deixat de fer pop explosiu, hiper conscient que és pop. Parlant del seu futur àlbum —que segurament haurà canviat molt des d’aleshores— l’artista deia que volia fer tot un disc amb cançons de festa. En una època on Katy Perry s’ha de posar 72 hores davant de càmeres de Gran Hermano per vendre el seu disc, Beyoncé ha de fer una pel·lícula per no ser com els artistes que fan “només” videoclips i Miley Cyrus s’ha de reinventar com a cantautora feliç per guanyar la confiança del públic, l’actitud de Charli XCX destaca més que mai.

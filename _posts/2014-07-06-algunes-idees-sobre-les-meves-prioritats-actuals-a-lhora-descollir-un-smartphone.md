@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-07-06T18:35:00+00:00"
 draft = false
 tags = ["mòbils"]
 title = "Algunes idees sobre les meves prioritats actuals a l'hora d'escollir un smartphone"
-+++
+---
 Vinga, titular llarg per equilibrar els titulars curts que proliferen al meu blog. No és així però ja m'enteneu.
 
 Últimament m'he plantejat quines són les parts d'un mòbil que més m'importen. La conclusió és: la bateria. Tots ens queixem que hi ha certs telèfons que els treus de casa i ja estàs patint per saber si tornaràs amb bateria o no. La bateria marca la nostra vida amb un *smartphone* a la mà. És curiós que costa encara més d'administrar correctament quan veus que baixa tan ràpidament.

@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-02-13T12:16:44+00:00"
 draft = false
 tags = ["música"]
 title = "Purple Reign / Evol"
-+++
+---
 <!-- more -->
 
 <img class="pImageFull" src="https://36.media.tumblr.com/fe06f39032f9961269ab1a155c1aef9d/tumblr_o2his9GGm81u00ofno3_1280.png">

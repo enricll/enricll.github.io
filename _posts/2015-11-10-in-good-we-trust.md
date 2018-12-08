@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-11-10T09:59:42+00:00"
 draft = false
 tags = ["música"]
 title = "In G.O.O.D. We Trust"
-+++
+---
 Ahir es va anunciar que Pusha T seria el nou president de G.O.O.D. Music, i no sé exactament per què però em va alegrar el dia. 
 
 <!-- more -->

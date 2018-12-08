@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-08-29T20:27:06+00:00"
 draft = false
 tags = ["música"]
 title = "Emotion Side B"
-+++
+---
 L&rsquo;estiu passat va comen&ccedil;ar un dels fen&ograve;mens m&eacute;s interessants del panorama pop modern. Carly Rae Jepsen, coneguda per l&rsquo;exitosa &ldquo;Call Me Maybe&rdquo;&mdash;una de les millors can&ccedil;ons pop de la d&egrave;cada&mdash;, publicava el seu segon disc d&rsquo;estudi,&nbsp;[_Emotion_](http://enricllonch.com/post/128098849359/emotion) (o _E&bull;MO&bull;TION_), un projecte extremadament enganx&oacute;s, que agafava les influ&egrave;ncies del pop dels vuitanta i les actualitzava al seu gust. La seva qualitat era aparent, i a mi i a molts d&rsquo;altres ens va agafar desprevinguts. L&rsquo;&agrave;lbum no ha estat, sota cap concepte, un &egrave;xit comercial, per&ograve; s&iacute; un de cr&iacute;tica, primer amb ressenyes t&iacute;midament positives i m&eacute;s tard esgarrapant posicions a les llistes de millors discs del 2015. Des d&rsquo;aleshores, Carly ha viatjat pel m&oacute;n en un tour de mides discretes, ha vist com les seves can&ccedil;ons [es convertien en memes a la xarxa](https://www.buzzfeed.com/matwhitehead/run-away-with-meme?utm_term=.paWo8aALe#.gyqx95lMW) i finalment ha tornat, aquest cop amb un nou EP de vuit can&ccedil;ons addicionals, i una promesa d&rsquo;un nou disc en proc&eacute;s. Aquestes vuit peces es van gestar durant les maratonianes sessions d&rsquo;_Emotion_&mdash;es van gravar m&eacute;s de 100 can&ccedil;ons, afirmava&mdash;i que, per algun motiu o un altre, es van quedar fora del disc original (hi ha quatre versions d&rsquo;_Emotion_: l&rsquo;edici&oacute; est&agrave;ndard, l&rsquo;edici&oacute; Deluxe, l&rsquo;edici&oacute; japonesa i una reedici&oacute; de remixos que es va llan&ccedil;ar fa pocs mesos al Jap&oacute;. Amb tot, sigui quina sigui la que vam escoltar l&rsquo;estiu passat, a _Emotion Side B_ trobarem una nova, per&ograve; curta, dosi de Carly Rae Jepsen.)
 <!-- more -->
 

@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-07-16T18:46:00+00:00"
 draft = false
 tags = ["Windows Phone", "Microsoft"]
 title = "Tres mesos amb Windows Phone 8.1"
-+++
+---
 <span class="pDropCap">W</span>indows Phone 8.1 arriba ara oficialment per a tots els consumidors, tot i que des de fa uns mesos ja es podia descarregar entrant en un programa de prova. La versió de fa uns mesos i la que s'ha llançat més recentment és, teòricament, la mateixa, però ara hi hauria d'haver millores en l'enllaç del mòbil amb el sistema operatiu, com millores a la bateria o correcció d'errors. 
 
 Tot plegat em porta a parlar breument de la meva experiència amb Windows Phone 8.1 des del dia que es va fer accessible als registrats com a desenvolupadors, des del dia 14 d'abril. Han estat tres mesos utilitzant **cada dia** la plataforma, perquè després ens venguin *reviews* amb dos dies de prova [^1].

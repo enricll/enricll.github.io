@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-08-06T18:27:55+00:00"
 draft = false
 tags = ["sèries"]
 title = "Looking: The Movie"
-+++
+---
 *Looking* mai ha estat una s&egrave;rie perfecta. Durant les seves dues i curtes temporades &mdash;una de vuit i una de deu cap&iacute;tols, cada un de menys de mitja hora de durada&mdash; la s&egrave;rie creada per Michael Lannan explorava amb m&eacute;s calma que pressa i m&eacute;s quotidianitat que revoluci&oacute; la vida de tres homes gays d&rsquo;entre 29/30 i 39/40 anys a San Francisco. Aquestes dues decisions, f&agrave;cilment atribu&iuml;bles al *showrunner* de la s&egrave;rie Andrew Haigh (*Weekend*), podrien ser les principals causes de la recepci&oacute; t&egrave;bia que va tenir entre p&uacute;blic i premsa. A qui apel&middot;lava *Looking*? A qui podia arribar? El *target* era dif&uacute;s i el perfil dels cr&iacute;tics tamb&eacute;: uns l&rsquo;acusaven de ser avorrida, altres de ser poc atrevida. Finalment, HBO va decidir no renovar-la, per&ograve; va concedir-li un &uacute;ltim detall: la producci&oacute; d&rsquo;un telefilm per recuperar per una &uacute;ltima vegada les vides del Patrick, l&rsquo;Agust&iacute;n, i el Dom, aquest cop nou mesos despr&eacute;s de la *finale* de la segona temporada.
 
 <!-- more -->

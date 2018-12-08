@@ -1,9 +1,9 @@
-+++
+---
 date = "2017-03-16T09:37:28+00:00"
 draft = false
 tags = ["música"]
 title = "Now That The Light Is Fading"
-+++
+---
 D’històries d’èxit com la de Maggie Rogers n’hi ha poques. La de Maryland es va donar a conèixer amb “Alaska”, una peça de pop folk amb influències d’R&B i dance que va escriure en només 15 minuts després d’una *masterclass* amb Pharrell. El productor dels Neptunes va començar a promocionar “Alaska” i Maggie Rogers va aconseguir un contracte amb una discogràfica que més tard li permetria llançar el que tenim ara aquí: el seu primer EP comercial.
 
 <!-- more -->

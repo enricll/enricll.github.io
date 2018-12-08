@@ -1,9 +1,9 @@
-+++
+---
 date = "2017-09-16T09:20:29+00:00"
 draft = false
 tags = ["música"]
 title = "All Your Fault: Pt. 2"
-+++
+---
 Bebe Rexha va decidir separar el seu àlbum *All Your Fault* en dues parts. [La primera meitat va sortir fa uns mesos](http://enricllonch.com/post/161469344789/all-your-fault-pt-1) i em va sorprendre per com de sòlid era de principi a final: petites dosis d’urban pop (si existeix tal cosa) que, en conjunt, demostraven l’habilitat de Bebe Rexha com a compositora de (possibles) èxits. La segona meitat abasta un ventall de gèneres i influències molt més ampli, tot i també contenir només sis cançons. El resultat és una barreja caòtica, que funciona més com a compilació-portfolio que com a cos artístic amb cap i peus.
 
 <!-- more -->

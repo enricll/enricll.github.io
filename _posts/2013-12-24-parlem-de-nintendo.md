@@ -1,9 +1,9 @@
-+++
+---
 date = "2013-12-24T12:38:54+00:00"
 draft = false
 tags = ["Nintendo", "videojocs", "text post"]
 title = "Parlem de Nintendo"
-+++
+---
 Nintendo passa un mal moment en tots als aspectes. No domino el tema econòmic de la marca japonesa per tant m’abstindré de comentar detalls tècnics però és cert que les vendes de Wii U són molt pobres i dubto que puguin aguantar un any més com aquest a nivell de resultats de mercat. En canvi, la 3DS està funcionant prou bé –esperem que així quedi demostrat en la campanya nadalenca del 2013—i aquest any ha tingut un dels millors catàlegs des del seu llançament, amb nombrosos títols d’altíssima qualitat i un bon grapat casuals que, conjuntament amb el llançament i posada a la venda de la 2DS, permetran recuperar mercat casual, més del que està fent Sony amb la Vita ara mateix.
 
 I aquí és on trenquem el primer argument-fal·làcia. Nintendo no ha de fer jocs d’smartphones o tablets perquè, com diuen alguns, “la gent ja no juga a consoles portàtils, sinó a mòbils amb el Candy Crush i el Subway Surfers”. Això últim és cert, però el mercat de les portàtils —i més concretament el mercat de les Nintendos portàtils— aguanta bé i és una de les principals alegries de la corporació japonesa. Així doncs, el problema és al saló i no a la butxaca? Sí i no.

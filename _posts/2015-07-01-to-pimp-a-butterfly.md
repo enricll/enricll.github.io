@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-07-01T22:00:00+00:00"
 draft = false
 tags = ["música"]
 title = "To Pimp A Butterfly"
-+++
+---
 Quan a finals de març em tocava escriure sobre *To Pimp A Butterfly* vaig fer una de les millors decisions dels últims mesos: no escriure’n pràcticament res. Vaig preferir no opinar i equivocar-me, o opinar i repetir el que deien les crítiques, i simplement dir que em semblava un plantejament interessant, frase que pot tenir un “però…” darrere i acabar malament. I ara estic dient que, per mi, és el millor àlbum del que portem del 2015. 
 
 <!-- more -->

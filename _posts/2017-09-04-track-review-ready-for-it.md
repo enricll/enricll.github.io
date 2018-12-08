@@ -1,9 +1,9 @@
-+++
+---
 date = "2017-09-04T17:36:08+00:00"
 draft = false
 tags = ["música", "track review"]
 title = "Track Review: “...Ready For It?”"
-+++
+---
 Un seguit d’apunts ràpids sobre el nou (sí, [el segon nou](http://enricllonch.com/post/164593104564/track-review-look-what-you-made-me-do)) single de Taylor Swift, titulat “...Ready for It?” (segons Spotify la cançó és “... Ready For It?” però l’“àlbum” del single és “...Ready For It?”, el que vindria a ser no tenir-ne ni idea perquè les dues coses van sense espai).
 
 <!-- more -->

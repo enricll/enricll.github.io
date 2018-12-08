@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-11-02T19:16:00+00:00"
 draft = false
 tags = ["Week Pocket"]
 title = "Week Pocket: Harry Potter, nazisme i YouTube"
-+++
+---
 Aquesta setmana hi ha bastants enllaços. Però primer, una petita metareflexió.
 
 <!-- more -->

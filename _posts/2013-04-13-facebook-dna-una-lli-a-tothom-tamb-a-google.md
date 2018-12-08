@@ -1,9 +1,9 @@
-+++
+---
 date = "2013-04-13T13:49:39+00:00"
 draft = false
 tags = ["facebook", "home", "lectura"]
 title = "Facebook dóna una lliçó a tothom, també a Google"
-+++
+---
 *Article publicat el 5 d'abril del 2013 a Paella de Bits*
 
 Facebook la va encertar totalment ahir a la tarda. La companyia de Mark Zuckerberg porta ja tres esdeveniments de premsa aquest any i el d’ahir va valer molt la pena. Concís, ràpid, fluid, amb demostracions en directe, amb dates de llançament. Tot perfecte. La xarxa social va presentar una capa per Android que anomenen Home, i un projecte per llançar terminals mòbils de tercers amb aquesta personalització extremadament social.

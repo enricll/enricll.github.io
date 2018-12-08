@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-05-01T12:25:00+00:00"
 draft = false
 tags = ["Engadget", "AOL", "mitjans", "lectura"]
 title = "Parlem d'Engadget"
-+++
+---
 Ara que ja no estic directament posat en el món de la tecnologia he d'escollir millor quins mitjans trio per informar-me (perquè em continua interessant). Ara sóc el lector, i en aquest mes que porto he continuat triant The Verge per les notícies concretes importants i els vídeos. He deixat de visitar webs que abans llegia, com Engadget, perquè la quantitat de gadgets que ja no m'interessen ha augmentat. Però l'altre dia vaig veure dues notícies que mereixen ser comentades.
 
 La primera és que Engadget té, per fi, un editor en cap. Des de la marxa de Tim Stevens, el mitjà s'havia quedat orfe d'EiC i Marc Perton n'era el màxim responsable amb el títol de Managing Editor. Michael Gorman serà el nou editor-in-chief i Christopher Trout serà l'executive editor. Teniu més informació al post de "[The New Engadget](http://www.engadget.com/2014/04/29/the-new-engadget/)". Els dos són editors de fa temps, gent de la casa. M'ha estranyat que fessin aquesta aposta i no volguessin buscar un gran fitxatge de fora però estaré atent al que vagin fent.

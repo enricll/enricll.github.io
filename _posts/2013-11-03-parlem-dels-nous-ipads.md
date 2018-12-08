@@ -1,9 +1,9 @@
-+++
+---
 date = "2013-11-03T14:42:45+00:00"
 draft = false
 tags = ["Apple", "iPad", "lectura"]
 title = "Parlem dels nous iPads"
-+++
+---
 Fa unes setmanes (el temps passa tan ràpidament), Apple va presentar els nous iPads. Per una banda el mini Retina i per l'altra l'Air. Aquest últim ja es va posar a la venda divendres, conjuntament amb la rebaixa de preu de l'iPad mini sense pantalla Retina. Així doncs, la línia d'iPads d'Apple queda actualment d'aquesta manera (preus de l'Apple Store espanyola):
 
 - **iPad Air**: 9,7" Retina, A7, des de 479 euros

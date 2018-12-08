@@ -1,9 +1,9 @@
-+++
+---
 date = "2018-10-14T21:12:20+00:00"
 draft = false
 tags = ["música"]
 title = "Past Lives"
-+++
+---
 Si alguna cosa he descobert a força de llegir opinions de música a Internet és que la gent odia quan un artista no-pop comença a fer música pop. Especialment si aquest artista era una banda de rock. A mi, òbviament, m’encanta. Aquest any m’he enganxat fort al disc de Now, Now *Saved* i ara us en porto un altre. És la banda Against the Current, coneguts per haver fet pop punk i alternative rock en el passat, i que ara s’enfronten al pop rock.<!-- more -->
 
 Ho fan amb l’ajuda de gent com Tommy English (BØRNS, Dagny, Broods) i Andrew Goldstein (FRND, Blackbear, Britney Spears) en la producció, i Jesse Sant John (Camila Cabello, Charli XCX, Betty Who) i Sarah Hudson (Katy Perry, Dua Lipa, Iggy Azalea) en la composició. A diferència del que podria semblar, però, té tot el sentit del món que aquesta gent estigui treballant amb Against the Current. En primer lloc, alguns d’ells ja ho van fer en el debut de la banda, i en segon lloc, han escrit per projectes similars quant a so. Goldstein, per exemple, va rellançar fa poc 5 Seconds of Summer amb “Want You Back”, mentre que Tommy English va escriure per al debut de la banda australiana a més de demostrar la seva versatilitat amb BØRNS. Tot plegat recorda una mica al que Hey Violet van fer l’any passat amb el meu estimat [*From The Outside*]( http://enricllonch.com/post/164819796349/from-the-outside), i els resultats són igualment satisfactoris.

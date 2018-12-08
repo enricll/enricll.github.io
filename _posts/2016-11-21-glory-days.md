@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-11-21T16:23:01+00:00"
 draft = false
 tags = ["música"]
 title = "Glory Days"
-+++
+---
 El quart disc d’estudi de la *girl band* Little Mix ja és aquí, i ha arribat gairebé un any exacte després de l’anterior, *Get Weird*. Hi ha crítics que les comparen amb One Direction, en sentit negatiu, pel seu cicle de llançaments forçats que només busquen vendre música i no fer alguna cosa especial (segons ells). I sí, mirant els crèdits de *Glory Days* hi ha molts noms que no són els de les quatre integrants del grup, però això passa en molta de la música pop que surt cada any. I sí, els sons que Little Mix exploren a *Glory Days* són poc atrevits i juguen molt amb les tendències actuals, però això passa fins i tot amb les artistes pop més apartades del sistema (ehem Banks ehem). Així doncs, què és el que continua portant èxit a Little Mix, i el que les continua apartant de fer “música pop legítimament bona”?
 
 <!-- more -->

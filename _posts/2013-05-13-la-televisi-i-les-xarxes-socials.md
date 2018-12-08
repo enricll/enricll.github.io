@@ -1,9 +1,9 @@
-+++
+---
 date = "2013-05-13T09:33:00+00:00"
 draft = false
 tags = ["televisió", "xarxes socials", "lectura"]
 title = "La televisió i les xarxes socials"
-+++
+---
 Des de fa un temps, les xarxes socials modernes com Twitter han patit un autèntic boom que ha fet que gent molt diversa entrés en aquest món. Les xarxes socials són mainstream, evidentment, i la televisió ha vist com clarament se'n parla allà. El problema és que no controlen el que es comenta del programa X a la xarxa social Y, sinó que són els usuaris qui decideixen què expliquen i com ho expliquen. 
 
 Amb l'objectiu de dirigir 'el trànsit social' cap a on els responsables de programes de televisió volen, les cadenes s'han vist obligades a afegir 'hashtags' en pantalla. És clar, si jo vull comentar un programa, per exemple 'Un príncipe para Corina' (Cuatro), em puc inventar un hashtag que em sembli més o menys lògic i tirar milles: #príncipeparaCorina. Però si Cuatro m'indica que ha de ser #Corina1, doncs l'utilitzaré. D'aquesta manera, Mediaset ja està controlant el trànsit social. Ara no entraré en el tema de les eleccions de les etiquetes de Twitter, però hi ha dues coses evidents: un hashtag unificat aglutina el trànsit social i dóna més visibilitat a la marca del programa; i dos, un hashtag per cada emissió és tècnicament millor per Twitter.

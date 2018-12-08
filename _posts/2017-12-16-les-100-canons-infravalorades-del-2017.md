@@ -1,9 +1,9 @@
-+++
+---
 date = "2017-12-16T15:55:53+00:00"
 draft = false
 tags = ["2017", "música"]
 title = "Les 100 cançons infravalorades del 2017"
-+++
+---
 <p>Fent la llista dels <a href="http://enricllonch.com/post/168578064154/2017-singles">100 singles del 2017</a>, em frustrava per deixar fora tants singles. Sí, aquest és un problema tant de primer món que només té una solució de primer món: fer una segona llista. Aquesta l’he titulat “100 cançons infravalorades” i són, com la seva descripció indica, 100 cançons d’artistes poc coneguts o en general poc apreciades. Tan poc apreciades que ni jo les vaig posar a l’altra llista. I aviso: són pop. Però també aviso: totes em flipen. En aquest sentit, us diria que la meva llista de “100 singles del 2017” podria ser aquesta i em semblaria més que decent. No l’he ordenada, perquè és impossible i perquè seria estúpid, així que us recomano escoltar la <a href="https://open.spotify.com/user/enricllonch/playlist/22DFuJrRyM89UaR0yaP3Di">playlist a Spotify,</a> en ordre o en aleatori. Si us agrada més o menys el pop, segur que trobareu almenys deu o quinze que us flipen. I si no, sempre us podeu queixar als comentaris (oh, wait). Va bé? Va bé. Recordeu, <a href="https://open.spotify.com/user/enricllonch/playlist/22DFuJrRyM89UaR0yaP3Di"><b>playlist d’Spotify</b></a>.</p>
 
 <p><img class="pImageFull" src="https://78.media.tumblr.com/3ec1e7c2d985a5fef557a3ae034fcc0d/tumblr_p129ibIzEd1u00ofno1_1280.png"><br><!-- more --></p>

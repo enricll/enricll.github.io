@@ -1,9 +1,9 @@
-+++
+---
 date = "2013-09-21T19:20:00+00:00"
 draft = false
 tags = ["lectura", "iOS 7", "Apple", "disseny"]
 title = "Contra el disseny d'iOS 7"
-+++
+---
 iOS 7 és un sistema operatiu mal dissenyat, des del meu punt de vista. I com que criticar-lo és massa *mainstream* (ara menys que durant les betes, tot sigui dit), jo prefereixo fer que altres el critiquin i gaudir-ho. Seriosament, crec que hi ha molta gent criticant el sistema i en algunes coses hi coincideixo, i per això recopilo aquests articles sobre el tema:
 
 **The design of iOS 7: simply confusing**, de [Joshua Topolsky a The Verge](http://www.theverge.com/apple/2013/6/10/4416726/the-design-of-ios-7-simply-confusing)

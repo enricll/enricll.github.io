@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-05-01T17:38:28+00:00"
 draft = false
 tags = ["redemption", "música", "sèries", "disseny"]
 title = "Redemption: Abril 2015"
-+++
+---
 
 Ja &eacute;s maig per&ograve; tocava fer el Redemption del mes passat. No hi ha hagut cap gran llan&ccedil;ament musical (he escoltat una mica els nous discs de Young Thug i Tyler, The Creator per&ograve; poca cosa m&eacute;s nova) i les s&egrave;ries que he comen&ccedil;at a veure s&oacute;n de fa temps. Per&ograve; hi ha alguna coseta interessant.
 

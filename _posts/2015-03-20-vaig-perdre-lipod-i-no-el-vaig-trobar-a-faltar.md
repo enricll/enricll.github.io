@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-03-20T18:04:56+00:00"
 draft = false
 tags = ["iPod", "Spotify", "música"]
 title = "Vaig perdre l’iPod i no el vaig trobar a faltar"
-+++
+---
 Ja vaig dir en [algun article anterior](http://enricllonch.com/post/98412021314/ipod-soc-jo-no-tu) a aquest que recentment havia recuperat el meu antic iPod nano. I no perquè trobés a faltar la rodeta, o la pantalla de poca resolució o la falta d'altaveus. Simplement s'adaptava a la forma que volia escoltar música en aquell moment — de la mateixa manera que a l'estiu [vaig parlar de les meves llistes de reproducció d'Spotify](http://enricllonch.com/post/93973856861/spotify-es-deu). 
 
 <!-- more -->

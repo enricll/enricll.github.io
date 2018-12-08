@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-10-26T23:00:00+00:00"
 draft = false
 tags = ["música"]
 title = "Beauty Behind The Madness"
-+++
+---
 *Beauty Behind The Madness* és un àlbum que difícilment complaurà a algú. El segon àlbum d'estudi de The Weeknd apropa aquest cantautor i productor d'R&B alternatiu a un terreny molt més pop, però no abandona del tot el seu terreny natal, amb lletres sexuals i intoxicades i un estil de cantar sensual i temperamental.
 
 <!-- more -->

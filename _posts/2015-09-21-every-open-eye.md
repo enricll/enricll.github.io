@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-09-21T22:00:00+00:00"
 draft = false
 tags = ["música"]
 title = "Every Open Eye"
-+++
+---
 El primer àlbum d'estudi del trio de synth pop escocès CHVRCHES va ser un fenomen, un d'aquells fenòmens que hi ha cada any. Crítica i públic van lloar el plantejament innovador de *The Bones Of What You Believe*. Aquest disc tenia cançons indubtablement enganxoses però ho combinava amb un toc atrevit i diferent que va conquerir tant els fans del pop com els més indies. Dos anys més tard arriba *Every Open Eye*, una esperadíssima seqüel·la que ho tenia difícil per complaure els fans del primer disc.
 
 <!-- more -->

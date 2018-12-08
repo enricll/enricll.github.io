@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-07-23T14:44:04+00:00"
 draft = false
 tags = ["redemption", "música", "cinema"]
 title = "Redemption: Juliol 2015"
-+++
+---
 
 Aquest mes hi ha un Redemption una mica curtet per&ograve; &eacute;s que no hi havia gaire cosa m&eacute;s a comentar (i aquest mes ja he publicat molts altres articles!). Tenim Meek Mill, Future i Miguel.
 

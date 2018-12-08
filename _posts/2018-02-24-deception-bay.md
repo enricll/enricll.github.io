@@ -1,9 +1,9 @@
-+++
+---
 date = "2018-02-24T12:33:19+00:00"
 draft = false
 tags = ["música"]
 title = "Deception Bay"
-+++
+---
 L’espera entre *Little Mourning* i *Deception Bay*, el primer i segon disc de Milk & Bone respectivament, s’ha fet eterna i solitària. El duo quebequès (però musicalment angloparlant) ha trigat tres anys (no és tant!) a treure la continuació d’un dels [meus àlbums preferits d’aquesta segona meitat de dècada](http://enricllonch.com/post/135632908054/els-20-%C3%A0lbums-del-2015). La seva barreja idiosincràtica de dream pop, bedroom pop, electrònica i r&b contemporani les van convertir en un grup a seguir de molt a prop. Tant bon gust i tanta sensibilitat melòdica es reflectien en autèntiques joies com [“New York”](https://www.youtube.com/watch?v=BPb3j7Dkn5o) (un dels singles més populars del primer àlbum) o [“Coconut Water”](https://www.youtube.com/watch?v=r4ygYkDYU0Q). Des d’aleshores, Milk & Bone han tret un parell de cançons soltes, com [“Poison”](https://www.youtube.com/watch?v=iPqo2h-8wY0) o [“Natalie”](https://www.youtube.com/watch?v=DzyocPQvfEU), però a finals de l’any passat van donar el tret de sortida del segon disc amb el senzill “Daydream”, una de les seves cançons més enganxoses. Aquest i conseqüents singles donaven la impressió que el futur disc seria més ambiciós i més pop (el que en anglès resumirien amb “bold”.) I així ha estat.
 
 <!-- more -->

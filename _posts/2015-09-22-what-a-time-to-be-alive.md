@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-09-22T16:39:45+00:00"
 draft = false
 tags = ["música"]
 title = "What A Time To Be Alive"
-+++
+---
 Va començar com un rumor i ha acabat amb una posada d'escena que han tingut pocs projectes aquest any. El mixtape/àlbum col·laboratiu de Drake i Future es diu *What A Time To Be Alive* i està format per 9 cançons on els dos rapers apareixen i dues peces individuals, una per a cadascú.
 
 <!-- more -->

@@ -1,9 +1,9 @@
-+++
+---
 date = "2017-01-06T19:36:07+00:00"
 draft = false
 tags = ["2016", "música"]
 title = "El meu any en música (2016)"
-+++
+---
 Gràcies a la màgia (i dedicació) de [Last.fm](http://www.last.fm/user/enricll) tinc les estadístiques de tota la música que vaig escoltar el 2016, i *let me tell ya*, va ser bastanta.
 
 <!-- more -->

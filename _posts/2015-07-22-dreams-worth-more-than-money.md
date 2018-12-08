@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-07-22T22:00:00+00:00"
 draft = false
 tags = ["música"]
 title = "Dreams Worth More Than Money"
-+++
+---
 Després d’una aturada considerable en la seva carrera (ha passat per presó i tot), Meek Mill torna amb un nou àlbum d'estudi. *Dreams Worth More Than Money* és un projecte comercial de cap a peus, ben pensat i ben produït, amb aparicions dels artistes del moment (The Weeknd, Chris Brown, Drake, Future, Nicki Minaj —ara la parella del Meek—), però tot i així no abandona l'estil que caracteritza el raper de Filadèlfia. El seu ritme, la seva empenta, el seu carisme, és una de les raons que el fan tan atractiu. Sota aquesta força hi ha lletres sobre violència, fama, diners i dones, però sense caure en mal gustos ni jocs de paraules dolents. 
 
 <!-- more -->

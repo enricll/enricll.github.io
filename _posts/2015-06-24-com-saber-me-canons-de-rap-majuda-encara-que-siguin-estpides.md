@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-06-24T20:25:13+00:00"
 draft = false
 tags = ["música"]
 title = "Com saber-me cançons de rap m’ajuda encara que siguin estúpides"
-+++
+---
 M'hauria de fer una llista de reproducció amb les cançons de hip hop / rap que em sé de memòria, perquè sempre les he d'anar a repescar per llocs diferents. Tampoc m'estalvaria gaire temps, perquè sé cada una on és i les trobo en un instant. «Feeling Myself» a la playlist de la Nicki, «You See Me» a la del Gambino, «New Slaves» a la del Kanye, i així anar fent. Més o menys cada dia funciona igual. En algun moment de la meva existència estic estressat, o decaigut, o amb ganes d'escoltar música i de demostrar que, d’alguna remota forma, en sé. És quan recorro a aquestes cançons.
 
 <!-- more -->

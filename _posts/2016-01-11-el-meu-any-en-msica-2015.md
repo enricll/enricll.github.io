@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-01-11T21:02:10+00:00"
 draft = false
 tags = ["dos mil quinze", "música"]
 title = "El meu any en música (2015)"
-+++
+---
 Quan va sortir [el resum anual d’Spotify del 2014](http://enricllonch.com/post/104256864524/el-meu-any-en-música-a-spotify) em va sorprendre i  avergonyir una mica. Perquè, ens agradi o no, la càrrega emocial que tenen els *nostres* gustos (musicals) és enorme, i l’ego i la imatge de nosaltres mateixos en molts casos també. I que Spotify et digui que t’has passat els últims 365 dies escoltant cançons com “Best Day of My Life” —quina mena de màgia negre van utilitzar per crear aquest *hit* tan genial, per cert—, “Bailando” o “Kickstarts”, doncs no agrada. Per això vaig emprendre la brillant (i tediosa, puc afegir ara) tasca de comptabilitzar els meus hàbits musicals amb una eina com Last.fm. Aquests en són els resultats.
 
 <!-- more -->

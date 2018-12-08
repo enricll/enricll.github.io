@@ -1,9 +1,9 @@
-+++
+---
 date = "2013-10-19T21:03:00+00:00"
 draft = false
 tags = ["lectura", "iPad", "Apple"]
 title = "El que Apple ha de fer amb els iPads"
-+++
+---
 Actualment hi ha tres models a la venda d'iPads, de la mateixa manera que també hi ha (o hi haurà en el cas d'alguns països) tres iPhones a la venda: el 5s, el 5c i el 4s. Apple actualment té a la venda a l'Apple Store espanyola tres models d'iPad: el mini, que comença als 329 €; l'iPad 2, des de 399 €; i finalment l'iPad amb pantalla Retina de quarta generació, des de 499 €. Si apliquem la mateixa estratègia dels nous iPhones a la línia d'iPad ens quedaria una cosa com aquesta [^1]
 
 - iPad S — 499 €

@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-08-07T10:01:00+00:00"
 draft = false
 tags = ["Spotify", "música"]
 title = "Les 20 cançons que em molen més"
-+++
+---
 Ho pensava posar al final d'un article lloant Spotify però al final m'ha anat tan bé que ho he decidit publicar en un post a part. 
 
 He escollit 21 cançons que últimament escolto força. No és el Top de les que m'agraden més ni de les que considero millors, simplement cançons que a dia d'avui escolto força i m'encanten.

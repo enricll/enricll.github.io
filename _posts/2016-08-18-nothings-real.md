@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-08-18T16:30:43+00:00"
 draft = false
 tags = ["música"]
 title = "Nothing’s Real"
-+++
+---
 El primer disc de Shura &eacute;s com aquell nen de la classe que mai diu res, que observa i escolta, que mai has vist que aixequi la m&agrave; a classe per&ograve; tot i aix&iacute; saps que arriba cada dia a casa amb dubtes de l&rsquo;exercici de mates, i potser te&rsquo;ls pregunta l&rsquo;endem&agrave; a l&rsquo;hora del pati mentre mengeu l&rsquo;entrep&agrave; en silenci, i potser no. Li perds la pista durant uns anys i un dia te&rsquo;l trobes a la parada del bus, amb el mateix aspecte de silenci i calma, per&ograve; amb una mirada d&rsquo;alguna manera m&eacute;s madura i coneixedora, d&rsquo;aquelles que, tot i no treure&rsquo;t l&rsquo;aire dels pulmons pel seu blau n&ograve;rdic, et fascinen i et meravellen a parts iguals. Saps que, si no fos perqu&egrave; el bus &eacute;s a punt d&rsquo;arribar, diries m&eacute;s que un &laquo;hola, quan de temps&raquo; i probablement comen&ccedil;ar&iacute;eu una de les converses m&eacute;s interessants dels &uacute;ltims i mon&ograve;tons mesos. Saps que, aquell cos petit i avorrit amaga alguna cosa m&eacute;s que serenor i frases a mitja veu. *Nothing&rsquo;s Real* &eacute;s una mica aix&iacute;. O no. Segurament no.
 
 <!-- more -->

@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-10-26T16:06:00+00:00"
 draft = false
 tags = ["música"]
 title = "La música s'entén"
-+++
+---
 Us volia recomanar un [article del Ryan Gantz](https://medium.com/@sixfoot6/getting-out-of-the-woods-a-primer-on-not-being-a-music-hater-fc4c46d4dde0) (dissenyador, no crític ni res similar) sobre els gustos musicals que tenim.
 
 <!-- more -->

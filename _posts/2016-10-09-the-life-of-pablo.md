@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-10-09T18:38:24+00:00"
 draft = false
 tags = ["música"]
 title = "The Life of Pablo"
-+++
+---
 He fet coses molt estúpides per a un disc. El juny de l’any passat, per exemple, vaig despertar-me gairebé cada dia a les cinc de la matinada perquè havia de comprovar si el nou disc de Frank Ocean havia sortit —no hi havia confirmació que el disc sortiria al juny, ni tan sols a les cinc de la matinada (l’hora que s’actualitza la iTunes Store nord-americana), però ho vaig fer igualment. Per molt extrema que fos aquesta experiència, en el fons era més o menys tradicional, o modernament tradicional: estava esperant que un disc simplement sortís i el pogués escoltar. Pagar per veure l’estrena d’un disc i una col·lecció de roba a una sala de cine va ser un pèl més estrany… i estúpid, perquè l’àlbum en qüestió, _The Life of Pablo_ de Kanye West, no va sortir realment fins al cap d’un dia, i quan va fer-ho era una versió “inacabada”.
 
 <!-- more -->

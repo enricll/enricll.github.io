@@ -1,9 +1,9 @@
-+++
+---
 date = "2013-10-30T19:46:30+00:00"
 draft = false
 tags = ["lectura"]
 title = "Egoisme qualitatiu"
-+++
+---
 Aquest és un dels posts més difícils que he escrit, o almenys un dels que m'ha costat més decidir-me per parlar-ne aquí. Finalment, avui, per "culpa" d'una conversa amb el @futurepastori, el tractaré, i ho faig també perquè crec que és un tema molt interessant i que jo no comprenc en la seva totalitat.
 
 El fet és que comparteixo habitualment un bon grapat d'enllaços, vídeos, articles interessants, reportatges i altres continguts al meu compte de Twitter i similars. Però des de fa molt temps faig una selecció molt rigorosa i no comparteixo mai (99% de les vegades) continguts o coses amb els quals tinc una relació emocional, és a dir, coses amb què em sento identificat o que m'encanten fins a nivells extrems. El millor de tot el que trobo mai ho comparteixo. 

@@ -1,9 +1,9 @@
-+++
+---
 date = "2018-08-15T10:07:15+00:00"
 draft = false
 tags = ["música"]
 title = "Astroworld"
-+++
+---
 *Rodeo* em va agafar una mica per sorpresa. El primer disc d’estudi del raper de Houston Travis Scott havia de superar moltes expectatives: les associades a un debut, les del mixtape debut de l’artista *Old Pharaoh*, les del mixtape-avançament *Days Before Rodeo*, i les que les seves associacions amb figures potents del gènere (Kanye West i el seu *Yeezus*, la narració de T.I.) havien creat. El disc, una barreja de trap intoxicat i maximalista melòdic, començava a canviar la narrativa d’Scott — de raper/productor a una mena de curador d’artistes i *mood* que s’avançava al que Kanye, Drake i Dre farien després a *The Life of Pablo*, *More Life* i *Compton*. Un projecte que va guanyar-li una gran quantitat de fans per ser eclèctic, dens i enganxós — tres característiques que costaven de trobar al seu successor, *Birds In The Trap…*, i encara menys a la seva col·laboració amb Quavo *Huncho Jack*. La fórmula *Rodeo* s’havia convertit en fórmula Travis i el que quedava era una barreja diluïda d’autotune, melodies repetides sense variació i una definició de *mood* més tirant a ambient que a estat d’ànim. 
 
 Però similar al que va fer amb *Rodeo*, Travis porta ja uns anys promocionant la marca *Astroworld*. Ara, materialitzada en un disc nou llançat sense gairebé promoció prèvia, entenem per què. És, en molts sentits, un retorn a la fórmula *Rodeo*, aplicant el que Travis ha après en els darrers anys. No ens enganyarem: és pitjor que el seu precursor, i no és igual de consistent, però tot i així és un esforç admirable per una de les figures més interessants (un altre cop) del panorama hip-hop actual.<!-- more --> 

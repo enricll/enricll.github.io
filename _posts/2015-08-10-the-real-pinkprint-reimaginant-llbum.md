@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-08-10T15:18:52+00:00"
 draft = false
 tags = ["música", "nicki minaj"]
 title = "The Real Pinkprint: reimaginant l’àlbum"
-+++
+---
 
 He estat pensant molt en _The Pinkprint_, l’últim disc de Nicki Minaj. Segons el meu last.fm és el disc que he escoltat més en el que portem de 2015. Això sumat a les crítiques i articles que he llegit sobre l’àlbum m’ha fet arribar a la conclusió que és un disc complicat, i que sí, podria ser millor.
 

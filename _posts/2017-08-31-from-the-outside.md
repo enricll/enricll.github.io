@@ -1,9 +1,9 @@
-+++
+---
 date = "2017-08-31T09:58:10+00:00"
 draft = false
 tags = ["música"]
 title = "From The Outside"
-+++
+---
 He tingut una mica de dilema amb aquest disc. Hey Violet és una banda que va néixer el 2008 sota el nom de Cherri Bomb i amb un so molt més agressiu i rocker. Al 2015 van canviar d’estètica i nom i van signar amb la discogràfica de 5 Seconds of Summer (que és una boy band de pop punk), la qual cosa significa que també estan dins d’una gran discogràfica com és Capitol/Hollywood. Des d’aleshores han estat preparant *From The Outside*, el seu nou àlbum d’estudi, produït executivament per Julian Bunetta. <!-- more -->
 
 Parlo de dilema perquè és evident que la nova reencarnació de Hey Violet, amb canvi de membres inclòs, intenta atrapar un públic molt més generalista, més pop. Per això s’han ajuntat amb el productor executiu dels darrers àlbums de One Direction, i un grapat d’altres compositors d’èxits com Jason Evigan, Ross Golan, John Ryan, Ammar Malik o Jacob Kasher. Si sou habituals de les línies de crèdits del pop contemporani estareu familiaritzats amb la majoria d’aquests noms. Són els noms que una discogràfica portaria a l’estudi si volgués convertir un grup que ningú coneix en una màquina d’èxits. Però, per altra banda, llegint la història de Hey Violet i escoltant la seva música no podia deixar de pensar que tot plegat té sentit. El caràcter desenfadat, molt juvenil de la cantant Rena Lovelis (aquest any ha fet 19 anys) és perfecte per al tipus de pop sofisticat però juganer que el grup posa en pràctica a *From The Outside*; mentre que el passat rocker de Hey Violet aporta una perspectiva alternativa al típic pop de sintetitzadors cristal·lins d’Spotify, i alhora encaixa amb la feina d’un productor com Julian Bunetta. Potser el dilema és més una sorpresa de com un gir tan sobtat cap al pop pot ser no només la decisió correcta des d’un punt de vista de negoci sinó també la decisió que artísticament té més sentit. 

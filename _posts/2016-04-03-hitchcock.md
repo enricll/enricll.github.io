@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-04-03T10:34:09+00:00"
 draft = false
 tags = ["cinema"]
 title = "Hitchcock"
-+++
+---
 “Entonces Ventigmilia [operador] me dice: «Tenga mucho cuidado, porque llevamos la cámara, pero de ninguna manera debemos declararla; si no, nos exigirán los derechos por cada objetivo. —¿Pero por qué, cómo?— La compafíía alemana nos ha recomendado que pasáramos la cámara de contrabando.» Entonces pregunto «¿Dónde está la cámara?» Él me responde: «Debajo de su litera.» Como sabe, siempre he tenido miedo de los policías; entonces empiezo a sudar y me entero a la vez de que hay diez mil pies de película virgen en nuestros equipajes y que tampoco hay que declararlos... Aparecen los aduaneros y se crea un enorme suspense para mí. No encuentran la cámara, pero descubren la película y, como no la habíamos declarado, la confiscan.”
 
 <!-- more -->

@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-11-24T18:22:32+00:00"
 draft = false
 tags = ["música", "One Direction"]
 title = "Made In The A.M."
-+++
+---
 Hi ha un debat omnipresent en la crítica que planteja si hauríem de prendre'ns cada disc de què escric com un disc qualsevol, i per tant valorar-lo “objectivament” — la qual cosa és impossible; si algú us demana una “crítica objectiva” camineu cap a l'altra banda com si no hagués passat res — o si l'hauríem de valorar pel seu context, d'on ve i què pretén. Segurament l'opció més sensata és sospesar les dues bandes i treure'n una opinió equitativa.
 
 <!-- more -->

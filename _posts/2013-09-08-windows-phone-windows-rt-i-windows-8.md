@@ -1,9 +1,9 @@
-+++
+---
 date = "2013-09-08T14:07:52+00:00"
 draft = false
 tags = ["lectura"]
 title = "Windows Phone, Windows RT i Windows 8"
-+++
+---
 Ho comento regularment a Twitter perquè contínuament surten notícies sobre el desenvolupament de Windows Phone, el fracàs de Windows RT, i l'arribada de Windows 8.1. Aquests tres conceptes són com una roda, unida, però que Microsoft no sap gestionar correctament des del meu punt de vista — que no té res d'humil.
 
 Primer de tot anem a repassar què ha fet Microsoft amb Windows Phone 8 des del seu llançament la tardor passada. A finals del 2012 van llançar la primera GDR, Portico, que corregia errors i millorava el rendiment i estabilitat de la plataforma. També afegia una funció molt esperada: que el sistema es pogués connectar al WiFi encara que tinguéssim el dispositiu bloquejat.

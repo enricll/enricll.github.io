@@ -1,9 +1,9 @@
-+++
+---
 date = "2017-07-01T10:20:16+00:00"
 draft = false
 tags = ["música"]
 title = "hopeless fountain kingdom"
-+++
+---
 No és cap secret que vaig odiar una mica *Badlands*. El primer disc d’estudi de Halsey (nom artístic de la nord-americana Ashley Nicolette Frangipane) seguia la proposta del seu anterior EP: projecte amb concepte ambiciós darrere però cançons pop que es conformaven amb lletres tòpiques i melodies poc originals. Amb els mesos, vaig arribar a apreciar algunes cançons de *Badlands*, bàsicament perquè van acabar sent enganxoses (des de l’odiada ‘New Americana’ fins a la Taylor Swift-inspirada ‘Colors’), però el contrast entre la idea i l’execució continuava sent imperdonable.
 
 <!-- more -->

@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-08-16T17:05:00+00:00"
 draft = false
 tags = ["música"]
 title = "Parlem de \"Trxye\", el nou disc de Troye Sivan"
-+++
+---
 El primer EP de Troye Sivan [^1] ja es pot escoltar a Spotify i comprar a iTunes. Com que m'havia agradat la primera cançó del disc —la va llançar fa unes setmanes i fins i tot la vaig afegir a [la meva llista de cançons que em molen](http://enricllonch.com/post/94055052088/les-20-cancons-que-em-molen-mes)—, vaig donar-li una oportunitat i he pensat que en podria escriure alguna cosa aquí.
 
 <!-- more -->

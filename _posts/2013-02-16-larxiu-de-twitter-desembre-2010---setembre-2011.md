@@ -1,9 +1,9 @@
-+++
+---
 date = "2013-02-16T11:39:00+00:00"
 draft = false
 tags = ["twitter", "lectura"]
 title = "L'arxiu de Twitter, Desembre 2010 - Setembre 2011"
-+++
+---
 Recentment he pogut activar l'arxiu de Twitter. Me l'he descarregat i he repassat els tuits més destacats des que vaig crear-me un compte (desembre del 2010) fins el setembre del 2011, quan vam llançar Paella de Bits. Per no contaminar el timeline de tots els meus seguidors amb parides que només em fan gràcia a mi, he decidit fer diversos pots en què enllaço el tuit original i hi afegeixo un petit comentari per entrar en context. Ready?
 
 [En el meu primer tuit feia publicitat d'Adobe](http://j.mp/11L6zu2)

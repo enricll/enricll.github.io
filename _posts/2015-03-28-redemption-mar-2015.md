@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-03-28T18:09:53+00:00"
 draft = false
 tags = ["música", "redemption"]
 title = "Redemption: Març 2015"
-+++
+---
 
 Aquest mes he fet moltes coses per&ograve;, repassant la meva llibreta, no tantes com em pensava. 
 

@@ -1,9 +1,9 @@
-+++
+---
 date = "2017-12-22T18:41:18+00:00"
 draft = false
 tags = ["música"]
 title = "Saturation II"
-+++
+---
 Quan BROCKHAMPTON va treure [el primer *Saturation*](http://enricllonch.com/post/164526467189/saturation) encara no enteníem exactament a què es referien amb aquest títol, però ara amb *Saturation II* i *Saturation III* la paraula “saturació” cobra un nou sentit. La boyband ha revolucionat el panorama hip-hop amb no un sinó tres àlbums en menys d’un any.<!-- more -->
 
 Els tres Saturation comparteixen, a part del títol i els membres que hi apareixen produint, rapejant o cantant, certs elements. El més evident és que els títols de les cançons tenen un nombre de lletres determinats (4 pel primer, 5 pel segon, 6 pel tercer — amb l’excepció de la darrera cançó, cantada per [bearface](https://soundcloud.com/helloyesthisisbearface) sempre, que té 5 en el primer, 6 en el segon i 4 en el tercer i últim, tancant el cercle). Però aprofundint-hi una mica també veurem que s’hi tracten temes comuns com la sexualitat, la salut mental,el racisme, sentiment d’alienació, exclusió i incomprensió, i assumptes socials en general. Musicalment també tenen una connexió molt forta: la fórmula BROCKHAMPTON és una barreja d’estils i influències evidents, però sempre prioritzant el bon gust, la creativitat, l’atreviment i la instantaneïtat. 

@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-08-11T18:23:00+00:00"
 draft = false
 tags = 
 title = "Coses que no sé fer"
-+++
+---
 Com que estem en plena temporada estiuenca i normalment és època de relax i felicitat (*aish*), he volgut fer una cosa una mica diferent i explicar-vos en forma de punts algunes de les coses que no sé fer. He intentat ser sincer i crec que només me n'he deixat (expressament) una. Aquí va – ah, i si vosaltres també us voleu alliberar i dir-me'n alguna per Twitter no em farà res, per la vostra autoestima i tal.
 
 <!-- more -->

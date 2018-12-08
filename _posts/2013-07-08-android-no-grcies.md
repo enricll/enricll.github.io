@@ -1,9 +1,9 @@
-+++
+---
 date = "2013-07-08T21:37:00+00:00"
 draft = false
 tags = ["Android", "lectura", "disseny"]
 title = "Android, no gràcies"
-+++
+---
 Recentment Android ha millorat molt en usabilitat, però en disseny continua sent inconsistent i massa dispers des del meu punt de vista. 
 
 Matias Duarte, que havia treballat anteriorment a webOS, ha portat funcionalitats extremadament útils, com la potent barra de notificacions d'Ice Cream Sandwich i Jellybean que ara intenten copiar tots els sistemes operatius, la multitasca fluïda i ràpida (iOS 7, us sona?), i molts altres detalls. 

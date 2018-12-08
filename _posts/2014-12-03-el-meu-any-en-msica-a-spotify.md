@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-12-03T18:12:00+00:00"
 draft = false
 tags = ["Spotify", "música"]
 title = "El meu any en música a Spotify"
-+++
+---
 Spotify ha publicat el seu Year in Music, i una eina que permet obtenir les teves pròpies estadístiques. Les escric a continuació sense cap mena de canvi per guardar-les per la posterioritat.
 
 <!-- more -->

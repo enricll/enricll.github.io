@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-10-05T12:07:23+00:00"
 draft = false
 tags = ["Week Pocket"]
 title = "Week Pocket: Clickbait, barres laterals i Oculus"
-+++
+---
 <!-- more -->
 
 - [Keep Talking and Nobody Explodes: Oculus Rift se une al juego de mesa](http://www.anaitgames.com/articulos/keep-talking-and-nobody-explodes-oculus-rift)

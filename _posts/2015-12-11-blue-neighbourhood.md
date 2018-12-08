@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-12-11T11:06:40+00:00"
 draft = false
 tags = ["música"]
 title = "Blue Neighbourhood"
-+++
+---
 Una de les primeres reviews musicals que vaig publicar aquí va ser la de *TRXYE*, el primer EP comercial de Troye Sivan, youtuber, actor i cantautor australià. Després d'aquell projecte, el Troye va llançar ara fa tot just uns mesos *WILD*, un segon EP que contenia un tastet del que trobem, ara sí, al seu primer àlbum d'estudi: *Blue Neighbourhood*.
 
 <!-- more -->

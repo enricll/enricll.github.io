@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-11-15T15:53:32+00:00"
 draft = false
 tags = ["música"]
 title = "“Higher”, “Into You” i l’autoreferència a la música pop"
-+++
+---
 <span class="pDropCap">A</span> l’[últim article](https://medium.com/cuepoint-es/por-qué-la-música-pop-conecta-contigo-aunque-no-hables-inglés-9b189daca6b1#.5k14n0f8f) que vaig escriure sobre mecanismes que fa servir la música pop per connectar més fàcilment amb nosaltres, mencionava l’ús del silenci —el “blank space”— a un dels darrers singles de Taylor Swift. Aquest mecanisme, la referència sonora a una cosa lírica, i viceversa, pot arribar a un punt més alt de manierisme quan el que referencia no és una cosa de la narrativa, la història, de la cançó sinó la pròpia música en si.
 
 <!-- more -->

@@ -1,9 +1,9 @@
-+++
+---
 date = "2018-03-12T10:59:26+00:00"
 draft = false
 tags = ["música"]
 title = "Heavy Rules Mixtape"
-+++
+---
 Si heu mantingut una conversa amb mi sobre pop escandinau en els darrers dos anys, és molt difícil que no hagi mencionat el nom d’ALMA. La finlandesa (una de les poques *popstars* actuals d’aquest país) em va captivar des del seu primer single, la impressionant “Karma”. El seu bon gust pel tropical pop addictiu es va estendre a senzills posteriors, com “Dye My Hair” o “Chasing Highs”. Fins i tot a la col·laboració amb Felix Jaehn (“Bonfire”), les melodies d’ALMA s’emportaven el protagonisme i sonaven sorprenentment seves i úniques. El seu so ve molt marcat per la veu greu i potent que té, que li ha guanyat comparacions amb artistes com Adele, però la sensibilitat pop que demostren les seves composicions l’ha portat a escriure amb gent com Charli XCX i Noonie Bao. Ara, seguint una mica el model de la primera, ha llançat el seu primer mixtape, una col·lecció de 6 cançons completament noves que demostren que ALMA és el futur (o un dels futurs) del pop del nord.
 
 <!-- more -->

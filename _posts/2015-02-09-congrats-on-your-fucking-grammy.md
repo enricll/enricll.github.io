@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-02-09T18:48:00+00:00"
 draft = false
 tags = ["música"]
 title = "Congrats on your fucking Grammy"
-+++
+---
 A la cerimònia dels Grammy 2015 va tornar a haver-hi polèmica. Els Grammy són els premis més importants de la indústria de la música, i tot i que [cada vegada sigui menys important guanyar-ne un](http://www.vox.com/2015/2/7/7993527/grammy-winners-performance), continua sent un aparador comercial fantàstic per a nous i vells artistes.
 
 Un dels premis més importants és el de *Best Album of the Year*, o Millor Àlbum de l'Any. Entre els nominats, el que tenia més paperetes per endur-se'l (i el que pràcticament tothom volia que se l'endugués) era *Beyoncé*, el disc homònim. Dona, negra, R&B amb col·laboracions de rap. Ugh. Massa per l'Acadèmia. Va guanyar Beck.

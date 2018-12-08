@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-01-22T12:40:29+00:00"
 draft = false
 tags = ["pocket", "lectura", "feedly"]
 title = "De Feedly a Pocket"
-+++
+---
 ![](https://31.media.tumblr.com/349c276b5ae2a9826950c374bf8214d8/tumblr_inline_mzrwflUxUg1rf46cf.png)
 
 Fins ara utilitzava [Digg Reader](http://digg.com/reader) per estar subscrit a certs blogs (no els que consumeixo diàriament per les notícies, sinó els blogs personals i de contingut més escàs) i de tant en tant hi entrava per afegir-los a la meva llista de lectura pendent a Pocket.

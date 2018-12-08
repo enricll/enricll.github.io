@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-04-03T21:24:54+00:00"
 draft = false
 tags = 
 title = "Coses que no molen"
-+++
+---
 Tots tenim coses que no ens agraden. Ahir a la matinada se-me'n van anar acudint algunes. No espero que compartim totes les de la llista, perquè n'hi ha alguna de còmica per arribar a tothom, però crec que ens hi podem sentir identificats. Ja em direu.
 
 <!-- more -->

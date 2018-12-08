@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-05-05T19:43:46+00:00"
 draft = false
 tags = ["música", "nicki minaj"]
 title = "Pink Friday"
-+++
+---
 El primer àlbum de Nicki Minaj es va llançar el 2010 i cinc anys després molts encara el consideren el seu millor disc. Molt probablement ho és, lluitant de tu a tu amb *The Pinkprint*, el més recent. 
 
 <!-- more -->

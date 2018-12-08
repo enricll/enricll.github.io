@@ -1,9 +1,9 @@
-+++
+---
 date = "2017-05-26T17:14:49+00:00"
 draft = false
 tags = ["música", "track review"]
 title = "Track Review: “Cut To The Feeling”"
-+++
+---
 Una nit d’agost que m’avorria vaig baixar-me el nou disc de Carly Rae Jepsen. D’això ja en farà gairebé dos anys, i l’àlbum no va arribar a Europa fins al cap d’uns mesos (part del fracàs estratègic que va suposar el llançament). Tenia expectatives zero, havia de sortir de festa al cap d’unes hores i havia de matar hores. Vaig acabar quedant-me a casa aquella nit, i potser vaig escoltar el disc sencer —en la seva versió japonesa, de més de vint cançons— tres o quatre cops seguits. [*E•MO•TION*](http://enricllonch.com/post/128098849359/emotion) s’acabaria convertint en un meme, en una divinitat de “gay twitter”, en un salvador del pop infravalorat, però en primer lloc era un disc genial. Amb el temps vam descobrir que no només era un àlbum genial, sinó també un EP genial. Carly va treure l’any següent [*Emotion Side B*](http://enricllonch.com/post/149665099694/emotion-side-b), unes 8 cançons que no havien entrat a l’àlbum original però que mereixien ser escoltades. I ara, ja en ple 2017, surt una cançó que no va entrar a *E•MO•TION*, però tampoc a *Side B*… i, sorpresa, és genial.
 
 <!-- more -->

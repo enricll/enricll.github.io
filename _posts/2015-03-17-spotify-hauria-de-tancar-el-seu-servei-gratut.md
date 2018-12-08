@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-03-17T18:47:47+00:00"
 draft = false
 tags = ["música", "spotify"]
 title = "Spotify hauria de tancar el seu servei gratuït"
-+++
+---
 <p>No és ni de bon tros una cosa massiva ni preocupant (tot i que m’ajudaria força per
 radicalitzar la situació i que el meu argument tingués més pes i sentit), però
 alguns artistes han decidit anar-se’n d’Spotify.&nbsp;</p><!-- more --><p>El més destacat és el cas de

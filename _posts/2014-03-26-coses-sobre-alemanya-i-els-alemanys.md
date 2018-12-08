@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-03-26T18:39:00+00:00"
 draft = false
 tags = ["Alemanya", "lectura"]
 title = "Coses sobre Alemanya i els alemanys"
-+++
+---
 He estat una setmana d'intercanvi a Oldenburg i he apuntat sense ordre ni gaire sentit unes quantes coses que m'han cridat l'atenció d'Alemanya i els alemanys. Simplement això (no em critiqueu per ignorant i haver viatjat poc, sisplau):
 
 - No es veuen gaires (per no dir gens) cotxets ni gossos per Oldenburg

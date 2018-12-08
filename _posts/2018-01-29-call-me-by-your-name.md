@@ -1,9 +1,9 @@
-+++
+---
 date = "2018-01-29T14:24:08+00:00"
 draft = false
 tags = ["cinema"]
 title = "Call Me By Your Name"
-+++
+---
 Ja he vist *Call Me By Your Name*, l’esperadíssima adaptació que Luca Guadagnino (*A Bigger Splash*) ha fet de la novel·la del 2007 homònima d’André Aciman. Aquests són alguns dels pensaments sobre el film tres dies després de veure-la.
 
 <!-- more -->

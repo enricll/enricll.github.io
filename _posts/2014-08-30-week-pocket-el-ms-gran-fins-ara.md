@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-08-30T22:09:51+00:00"
 draft = false
 tags = ["Week Pocket"]
 title = "Week Pocket: el més gran fins ara"
-+++
+---
 Durant les últimes setmanes he pogut provar la versió responsive de The Verge i ha donat la casualitat que us porto un parell [^1] d'articles recomanats d'aquesta web. Les últimes setmanes eren, la majoria, en espanyol, però això va com va; llegeixo en tres idiomes i recomano el que més m'agrada, sense pensar en quina llengua han estat escrits. 
 
 <!-- more -->

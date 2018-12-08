@@ -1,9 +1,9 @@
-+++
+---
 date = "2017-07-04T09:18:51+00:00"
 draft = false
 tags = ["música"]
 title = "Melodrama"
-+++
+---
 És difícil fer el que ha fet Ella Yelich-O’Connor. Tornar després de quatre anys amb un *single* genial, un àlbum excel·lent i l’actitud adorable de sempre. Que et trenquin el cor per primera vegada, aprendre’n (encara que sigui a costa de l’altre) i sortir-ne tot el bé que se’n pot sortir. Ella Yelich-O’Connor no només ha fet les dues coses sinó que a més les ha fet simultàniament, convertint *Melodrama*, el segon àlbum d’estudi de Lorde, en una autèntica obra mestra.
 
 <!-- more -->

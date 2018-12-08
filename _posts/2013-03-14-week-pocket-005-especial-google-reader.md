@@ -1,9 +1,9 @@
-+++
+---
 date = "2013-03-14T21:20:24+00:00"
 draft = false
 tags = ["week pocket", "good reads", "long reads", "google", "reader", "lectura"]
 title = "Week Pocket 005 (Especial Google Reader)"
-+++
+---
 Dijous al vespre. Moment de sopar, o bé de mirar què fan a la tele. Coca Cola Light a la mà esquerra, iPad a la dreta. Insult a Google. Beguda. Insult a Google. Lectura. Beguda.
 
 - [Why RSS still matters: Think that Twitter can replace RSS? Think again](http://www.theverge.com/2013/3/14/4105006/why-rss-still-matters)

@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-07-11T22:00:00+00:00"
 draft = false
 tags = ["música"]
 title = "Tetsuo & Youth"
-+++
+---
 Vaig descobrir Lupe Fiasco a través de *Shameless* 02x09, on posen «The Show Goes On». Lamentablement aquesta cançó ve del que es considera el seu pitjor àlbum, però em va permetre conèixer-lo. El seu últim projecte es va publicar a finals d’aquest gener i retorna als orígens dels seus dos primers àlbums, a la vegada que tanca la seva etapa contractual amb la discogràfica Atlantic Records, protagonista de maldecaps per suposades pressions i manipulacions cap a un tipus de música que no afavoria en absolut el talent de Lupe, tal com es va veure a *Lasers* i *Food & Liquor 2*.
 
 <!-- more -->

@@ -1,9 +1,9 @@
-+++
+---
 date = "2017-08-24T07:15:16+00:00"
 draft = false
 tags = ["meta"]
 title = "Ha abandonat la mètrica, el seu és un amor sexagesimal"
-+++
+---
 <p>“La gent diu que estant trist escrius més i millor però és mentida. Estic feliç i mai havia escrit tant com ara”, deia a l’octubre. Posava la felicitat com a causa de la meva sobtada inspiració, obviant que el que em feia escriure més era estar enamorat.</p>
 
 <p><!-- more --></p>

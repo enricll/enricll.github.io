@@ -1,9 +1,9 @@
-+++
+---
 date = "2013-12-26T11:57:00+00:00"
 draft = false
 tags = ["lectura"]
 title = "Els meus premis"
-+++
+---
 Aquests premis no tenen cap mena de censura. He anat fent la llista durant 10 minuts fins que m'he quedat sense idees. Si algú em vol preguntar per què algun "millor" ho pot fer a Twitter i m'agradaria molt que ho féssiu. 
 
 Aniré actualitzant els premis si vull.

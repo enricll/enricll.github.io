@@ -1,9 +1,9 @@
-+++
+---
 date = "2017-04-30T10:11:16+00:00"
 draft = false
 tags = ["música"]
 title = "digital druglord"
-+++
+---
 Si habitueu les playlists d’Spotify, segurament us sonarà el nom de blackbear. Aquest artista nord-americà de 26 anys porta des del 2012 llançant música d’R&B-alternatiu i arreplegant milions de reproduccions al servei d’streaming. En poc temps s’ha convertit en una de les veus més infravalorades però més populars d’aquest nou monogènere d’Spotify que, irònicament, és una barreja de gèneres extremadament populars: R&B-alternatiu amb una fortíssima sensibilitat pop, producció electrònica i restes de trap en forma de tambors i ritmes.
 
 <!-- more -->

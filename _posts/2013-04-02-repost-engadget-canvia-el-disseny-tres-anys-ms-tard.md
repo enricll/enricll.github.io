@@ -1,9 +1,9 @@
-+++
+---
 date = "2013-04-02T18:34:00+00:00"
 draft = false
 tags = ["engadget", "disseny", "lectura"]
 title = "Repost: Engadget canvia el disseny, tres anys més tard"
-+++
+---
 *Aquest post va ser escrit el 21 de novembre del 2012 en motiu del redisseny d'Engadget. El vaig publicar al meu antic blog de Sure.EnricLlonch.com. Ara el repujo aquí perquè el recuperem.*
 
 ### Un canvi necessari

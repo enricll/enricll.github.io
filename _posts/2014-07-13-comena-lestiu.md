@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-07-13T20:04:00+00:00"
 draft = false
 tags = 
 title = "Comença l'estiu"
-+++
+---
 Tot i que pràcticament des del juny he estat "de festa", demà començo oficialment les vacances, que per mi signifiquen, bàsicament, sortir de Sabadell. Ja se sap, encara que facis coses diferents, estar a casa i a la teva ciutat fa que la sensació no sigui la mateixa que estar de vacances. Demà marxo i això comportarà canvis importants a la rutina diària, com és evident.
 
 <!-- more -->

@@ -1,9 +1,9 @@
-+++
+---
 date = "2015-04-14T16:37:21+00:00"
 draft = false
 tags = ["meta"]
 title = "Un blog per a qui?"
-+++
+---
 Quan escrius un blog hi ha una pregunta que t'hauries de fer de tant en tant, sigui quin sigui el teu objectiu amb el projecte, sigui remunerat o no, sigui bo o sigui dolent, fins i tot si no és un simple blog.
 
 <!-- more -->

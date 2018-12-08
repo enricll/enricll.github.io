@@ -1,9 +1,9 @@
-+++
+---
 date = "2018-02-14T08:44:07+00:00"
 draft = false
 tags = ["música"]
 title = "Black Panther The Album"
-+++
+---
 No pensava escriure sobre la banda sonora d&rsquo;una pel&middot;l&iacute;cula de Marvel. De fet, no tenia previst ni escoltar-la. Per&ograve; aqu&iacute; estem. De fet, no &eacute;s exactament una banda sonora. *Black Panther* s&rsquo;estrena aquest divendres als cines i, per promocionar i acompanyar la pel&middot;l&iacute;cula l&rsquo;estudi ha encarregat a Kendrick Lamar i els seus companys de TDE (la discogr&agrave;fica d&rsquo;altres artistes com SZA o SchoolBoy Q) un &agrave;lbum amb m&uacute;sica *de* i *inspirada en* un dels films de superherois m&eacute;s anticipats de l&rsquo;any. A difer&egrave;ncia d&rsquo;altres bandes sonores creades per executius de discogr&agrave;fica &mdash;que poden sortir m&eacute;s o menys b&eacute;, tal com ha demostrat *Fifty Shades*, per&ograve; tamb&eacute; malament, com en el cas *Fast &amp; Furious*&mdash;, la de *Black Panther* ha estat &ldquo;curada&rdquo; per Kendrick, i aix&ograve; li d&oacute;na una personalitat i una coher&egrave;ncia que es nota a la m&uacute;sica.
 
 <!-- more -->

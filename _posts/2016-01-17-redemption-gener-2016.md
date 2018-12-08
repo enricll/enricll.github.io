@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-01-17T12:58:00+00:00"
 draft = false
 tags = ["música", "redemption"]
 title = "Redemption: Gener 2016"
-+++
+---
 Torno una vegada més amb el format del Redemption però amb dubtes. Almenys d'aquesta forma em trec de sobre un parell d'escrits que tenia pendents.
 
 <!-- more -->

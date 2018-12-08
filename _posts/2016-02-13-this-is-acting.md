@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-02-13T12:15:39+00:00"
 draft = false
 tags = ["música"]
 title = "This Is Acting"
-+++
+---
 <!-- more -->
 
 <img class="pImageFull" src="https://41.media.tumblr.com/f0ebb1d0fbaa64bdfc2c577521ae3cfb/tumblr_o2his9GGm81u00ofno2_1280.png">
