@@ -1,8 +1,8 @@
 ---
-date = "2016-04-02T13:18:13+00:00"
-draft = false
-tags = ["música"]
-title = "low kii savage"
+date: "2016-04-02T13:18:13+00:00"
+draft: false
+tags: ["música"]
+title: "low kii savage"
 ---
 L’enganxosa i fascinant “Gold“ va ser un dels meus singles preferits de l’any passat. La cançó comença amb el chorus tallat i recol·locat que es repeteix múltiples vegades però que sempre et deixa amb ganes de tornar-lo a sentir de nou, i ràpidament avança cap als versos cantats suaument i amb molta sensualitat, amb lletres d’amor i producció profundament inspirada en el hip hop i l’R&B més contemporani. “Gold” és la primera cançó —i la joia de la corona— del primer EP de kiiara, *low kii savage*, un projecte que sota aquest títol enginyós agrupa els diferents singles que hem anat sentint de la prometedora artista.
 

@@ -1,8 +1,8 @@
 ---
-date = "2016-01-18T21:25:39+00:00"
-draft = false
-tags = ["música", "kanye"]
-title = "Track Review: SWISH Fridays"
+date: "2016-01-18T21:25:39+00:00"
+draft: false
+tags: ["música", "kanye"]
+title: "Track Review: SWISH Fridays"
 ---
 M’he adonat que mai he escrit res sobre Kanye amb profunditat i, aprofitant que aquest mes no només hem sabut la data de llançament del nou àlbum _SWISH_ sinó que a més cada setmana surt una nova cançó nova, crec que ara és el moment de posar ordre a les idees i parlar una mica de les tres cançons que Kanye ha publicat aquest 2016 fins ara.
 

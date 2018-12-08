@@ -1,8 +1,8 @@
 ---
-date = "2015-06-06T20:47:53+00:00"
-draft = false
-tags = ["relat"]
-title = "Marco! Polo!"
+date: "2015-06-06T20:47:53+00:00"
+draft: false
+tags: ["relat"]
+title: "Marco! Polo!"
 ---
 «Marco! Polo!» sent repetidament unes deu 
 vegades cada cinc segons, sense exagerar. L'estiu ja és aquí, i és que encara que a tothom li agradi suar per poder queixar-se a l'ascensor de la calor que fa, no és cap novetat. És juny, fa calor, l'estiu ja és aquí. 

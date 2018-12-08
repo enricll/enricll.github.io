@@ -1,8 +1,8 @@
 ---
-date = "2016-09-02T23:21:02+00:00"
-draft = false
-tags = ["relat"]
-title = "record llunyà"
+date: "2016-09-02T23:21:02+00:00"
+draft: false
+tags: ["relat"]
+title: "record llunyà"
 ---
 <!-- more -->
 

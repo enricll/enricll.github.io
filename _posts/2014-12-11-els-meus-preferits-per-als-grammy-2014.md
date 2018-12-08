@@ -1,8 +1,8 @@
 ---
-date = "2014-12-11T22:10:00+00:00"
-draft = false
-tags = ["música"]
-title = "Els meus preferits per als Grammy 2014"
+date: "2014-12-11T22:10:00+00:00"
+draft: false
+tags: ["música"]
+title: "Els meus preferits per als Grammy 2014"
 ---
 Falten dos mesos per la gala dels premis Grammy 2014, els de referència en el món musical. 
 

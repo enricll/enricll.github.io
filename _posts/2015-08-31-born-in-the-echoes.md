@@ -1,8 +1,8 @@
 ---
-date = "2015-08-31T22:00:00+00:00"
-draft = false
-tags = ["música"]
-title = "Born In The Echoes"
+date: "2015-08-31T22:00:00+00:00"
+draft: false
+tags: ["música"]
+title: "Born In The Echoes"
 ---
 M’agrada molt la música electrònica, però mai he fet l’esforç de remenar entre aquesta massa difusa que és l’electrònica avui en dia —dominada per un EDM que cada vegada odio més per les seves fórmules repetides fins a l’ansietat— i escoltar allò que m’agrada realment. És per això que quan vaig posar-me a escoltar seriosament l’últim disc de The Chemical Brothers vaig flipar amb cada cançó. Em va calar en una primera escoltada. Era això el que havia d’estar escoltant tot aquest temps.
 

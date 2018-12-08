@@ -1,8 +1,8 @@
 ---
-date = "2017-08-31T09:58:10+00:00"
-draft = false
-tags = ["música"]
-title = "From The Outside"
+date: "2017-08-31T09:58:10+00:00"
+draft: false
+tags: ["música"]
+title: "From The Outside"
 ---
 He tingut una mica de dilema amb aquest disc. Hey Violet és una banda que va néixer el 2008 sota el nom de Cherri Bomb i amb un so molt més agressiu i rocker. Al 2015 van canviar d’estètica i nom i van signar amb la discogràfica de 5 Seconds of Summer (que és una boy band de pop punk), la qual cosa significa que també estan dins d’una gran discogràfica com és Capitol/Hollywood. Des d’aleshores han estat preparant *From The Outside*, el seu nou àlbum d’estudi, produït executivament per Julian Bunetta. <!-- more -->
 

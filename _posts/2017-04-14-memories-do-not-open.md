@@ -1,8 +1,8 @@
 ---
-date = "2017-04-14T20:22:33+00:00"
-draft = false
-tags = ["música"]
-title = "Memories… Do Not Open"
+date: "2017-04-14T20:22:33+00:00"
+draft: false
+tags: ["música"]
+title: "Memories… Do Not Open"
 ---
 Jo també em vaig enganxar a “Closer” durant un mes. Tothom ho va fer en algun punt del darrer mig any, per voluntat pròpia o a la força. La col·laboració amb Halsey va marcar un abans i un després en la popularitat del duo d’EDM The Chainsmokers, i tot i quedar-se fora de l’àlbum debut del grup, l’ombra de “Closer” és present en la majoria de les seves cançons.
 

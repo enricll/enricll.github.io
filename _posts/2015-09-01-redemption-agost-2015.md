@@ -1,8 +1,8 @@
 ---
-date = "2015-09-01T10:49:18+00:00"
-draft = false
-tags = ["redemption"]
-title = "Redemption: Agost 2015"
+date: "2015-09-01T10:49:18+00:00"
+draft: false
+tags: ["redemption"]
+title: "Redemption: Agost 2015"
 ---
 Déu n'hi do amb el mes d'agost. Tradicionalment és un mes d'aturada perquè "vacances"... però sembla que he seguit bastant connectat. A part dels àlbums de què parlo aquí també he estat escoltant *The Money Store* de Death Grips --el meu primer àlbum de Death Grips!--, una mica de *Blood* de Lianne La Havas i l'EP *Smile* de The Royal Concept.
 

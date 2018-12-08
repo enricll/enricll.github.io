@@ -1,8 +1,8 @@
 ---
-date = "2016-11-05T23:00:00+00:00"
-draft = false
-tags = ["redemption", "música"]
-title = "Redemption: Novembre 2016"
+date: "2016-11-05T23:00:00+00:00"
+draft: false
+tags: ["redemption", "música"]
+title: "Redemption: Novembre 2016"
 ---
 Benvinguts a una nova entrega de “Redemption”, la secció on faig un repàs ràpid a alguns dels àlbums i singles musicals que no he tingut ganes i/o temps d’analitzar. He estat ocupat (?) i se m’han acumulat moltes coses, o sigui que intentaré anar al gra. Em poso una hora per parlar de tot el que vull parlar. Som-hi.
 

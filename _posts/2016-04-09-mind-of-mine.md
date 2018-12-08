@@ -1,8 +1,8 @@
 ---
-date = "2016-04-09T17:48:28+00:00"
-draft = false
-tags = ["música"]
-title = "Mind of Mine"
+date: "2016-04-09T17:48:28+00:00"
+draft: false
+tags: ["música"]
+title: "Mind of Mine"
 ---
 Intentaré ser menys avorrit amb aquest article que Zayn amb el seu àlbum debut, titulat molt correctament *Mind of Mine* en un acte d’esforç per escriure’l amb les majúscules adequades — [la tracklist](https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F12144100_572571126242330_81981737_n.jpg%3Fig_cache_key%3DMTIwMDgwNzUxMDUxOTc1MjM2OQ%253D%253D.2&key=ee8455290d984b30859308ec0b4d701f) és una aberració que supera la rebel·lió per situar-se directament en el mal gust. 
 

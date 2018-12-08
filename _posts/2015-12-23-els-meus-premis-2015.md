@@ -1,8 +1,8 @@
 ---
-date = "2015-12-23T12:24:38+00:00"
-draft = false
-tags = ["dos mil quinze"]
-title = "Els meus premis (2015)"
+date: "2015-12-23T12:24:38+00:00"
+draft: false
+tags: ["dos mil quinze"]
+title: "Els meus premis (2015)"
 ---
 *Els meus premis* és una exclusiva secció que només es publica una vegada a l'any i recull els esdeveniments més especials i importants dels meus darrers 365 dies. Aquest any amb més honestedat i memòria que mai.
 

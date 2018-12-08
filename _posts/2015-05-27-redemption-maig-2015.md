@@ -1,8 +1,8 @@
 ---
-date = "2015-05-27T18:00:35+00:00"
-draft = false
-tags = ["redemption", "música", "sèries", "llibres"]
-title = "Redemption: Maig 2015"
+date: "2015-05-27T18:00:35+00:00"
+draft: false
+tags: ["redemption", "música", "sèries", "llibres"]
+title: "Redemption: Maig 2015"
 ---
 
 Estic molt content amb com ha anat el mes de maig, i ja sabeu que aix&ograve; va lligat, en part, a qu&egrave; he vist, qu&egrave; he escoltat i qu&egrave; he llegit aquest mes. 

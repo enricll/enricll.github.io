@@ -1,8 +1,8 @@
 ---
-date = "2017-09-30T11:13:31+00:00"
-draft = false
-tags = ["música"]
-title = "Cigarettes After Sex"
+date: "2017-09-30T11:13:31+00:00"
+draft: false
+tags: ["música"]
+title: "Cigarettes After Sex"
 ---
 <!-- more -->
 

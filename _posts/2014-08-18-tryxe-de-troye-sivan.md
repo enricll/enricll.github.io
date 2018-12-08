@@ -1,8 +1,8 @@
 ---
-date = "2014-08-18T16:10:00+00:00"
-draft = false
-tags = ["música", "Troye Sivan"]
-title = "Tryxe, de Troye Sivan"
+date: "2014-08-18T16:10:00+00:00"
+draft: false
+tags: ["música", "Troye Sivan"]
+title: "Tryxe, de Troye Sivan"
 ---
 Us dec una explicació.
 

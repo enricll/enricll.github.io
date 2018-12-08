@@ -1,8 +1,8 @@
 ---
-date = "2015-12-23T19:45:56+00:00"
-draft = false
-tags = ["música"]
-title = "Darkest Before Dawn"
+date: "2015-12-23T19:45:56+00:00"
+draft: false
+tags: ["música"]
+title: "Darkest Before Dawn"
 ---
 És el moment de Pusha T. El raper novaiorquès porta anys a l'ofici, anteriorment amb el seu germà dins del grup Clipse i des de fa un temps en solitari. El seu primer projecte va sortir el 2013 però fins fa poc no el vaig escoltar. Quan dic fa poc em refereixo a quan es va anunciar que Pusha era el nou president de G.O.O.D. Music, la discogràfica fundada per Kanye West. Ara presenta un àlbum de 10 cançons que funciona com a «preludi» a l'àlbum complet que sortirà la primavera vinent.
 

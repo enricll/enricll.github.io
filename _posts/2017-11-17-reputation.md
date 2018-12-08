@@ -1,8 +1,8 @@
 ---
-date = "2017-11-17T10:19:49+00:00"
-draft = false
-tags = ["música"]
-title = "Reputation"
+date: "2017-11-17T10:19:49+00:00"
+draft: false
+tags: ["música"]
+title: "Reputation"
 ---
 *Reputation* ha fet tot el que pot fer un àlbum de Taylor Swift per no semblar un àlbum de Taylor Swift. El momentum mediàtic que la nord-americana acostuma a crear amb cada un dels seus llançaments ha sigut substituït per un *hype* en petit comitè a través de missatges críptics a les xarxes socials, vídeos amb pressupostos de grans produccions, i molta música (entre la qual hi trobem el *lead* single "[Look What You Made Me Do](http://enricllonch.com/post/164593104564/track-review-look-what-you-made-me-do)" i el segon single “[...Ready For It?](http://enricllonch.com/post/164977309399/track-review-ready-for-it)”, a més dels *buzz* singles “Gorgeous” i “Call It What You Want”. Des de divendres passat, però, tenim l’àlbum entre nosaltres: una única edició de quinze cançons que no només té la responsabilitat de ser un disc Taylor Swift sinó també de justificar tota [aquesta parafernàlia creada al voltant de la seva persona](https://www.buzzfeed.com/eleanorbate/draaaaaaaaaaaamaaaaaa?utm_term=.wt6ONylVkV#.vq9kyV5AZA) en els darrers tres anys.
 

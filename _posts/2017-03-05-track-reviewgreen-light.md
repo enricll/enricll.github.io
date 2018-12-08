@@ -1,8 +1,8 @@
 ---
-date = "2017-03-05T01:12:47+00:00"
-draft = false
-tags = ["música", "track review"]
-title = "Track Review: “Green Light”"
+date: "2017-03-05T01:12:47+00:00"
+draft: false
+tags: ["música", "track review"]
+title: "Track Review: “Green Light”"
 ---
 <!-- more -->
 

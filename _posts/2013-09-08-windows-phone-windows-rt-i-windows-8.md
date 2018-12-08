@@ -1,8 +1,8 @@
 ---
-date = "2013-09-08T14:07:52+00:00"
-draft = false
-tags = ["lectura"]
-title = "Windows Phone, Windows RT i Windows 8"
+date: "2013-09-08T14:07:52+00:00"
+draft: false
+tags: ["lectura"]
+title: "Windows Phone, Windows RT i Windows 8"
 ---
 Ho comento regularment a Twitter perquè contínuament surten notícies sobre el desenvolupament de Windows Phone, el fracàs de Windows RT, i l'arribada de Windows 8.1. Aquests tres conceptes són com una roda, unida, però que Microsoft no sap gestionar correctament des del meu punt de vista — que no té res d'humil.
 

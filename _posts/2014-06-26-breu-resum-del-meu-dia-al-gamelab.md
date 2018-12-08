@@ -1,8 +1,8 @@
 ---
-date = "2014-06-26T22:42:00+00:00"
-draft = false
-tags = ["Gamelab"]
-title = "Breu resum del meu dia al Gamelab"
+date: "2014-06-26T22:42:00+00:00"
+draft: false
+tags: ["Gamelab"]
+title: "Breu resum del meu dia al Gamelab"
 ---
 Avui he anat al segon dia del Gamelab, tot i que per mi era el primer. D'ahir em vaig perdre la conferència de Tim Schafer, que segons el que m'han dit va ser molt bona. Però avui no ens hem quedat curts.
 

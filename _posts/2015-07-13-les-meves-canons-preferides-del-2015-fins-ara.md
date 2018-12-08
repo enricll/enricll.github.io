@@ -1,8 +1,8 @@
 ---
-date = "2015-07-13T10:44:13+00:00"
-draft = false
-tags = ["música"]
-title = "Les meves cançons preferides del 2015 fins ara"
+date: "2015-07-13T10:44:13+00:00"
+draft: false
+tags: ["música"]
+title: "Les meves cançons preferides del 2015 fins ara"
 ---
 <!-- more -->
 

@@ -1,8 +1,8 @@
 ---
-date = "2014-12-25T17:52:00+00:00"
-draft = false
-tags = 
-title = "Els meus premis (2014)"
+date: "2014-12-25T17:52:00+00:00"
+draft: false
+tags: 
+title: "Els meus premis (2014)"
 ---
 Com ja vaig fer [l'any passat](http://enricllonch.com/post/71195333803/els-meus-premis), he recollit en una llista sense ordre ni importància algunes de les meves coses preferides del 2014. Ha estat un any guai, però tinc el pressentiment que l'any que ve serà encara millor.
 

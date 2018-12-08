@@ -1,8 +1,8 @@
 ---
-date = "2016-04-07T11:26:01+00:00"
-draft = false
-tags = ["música"]
-title = "Slime Season 3"
+date: "2016-04-07T11:26:01+00:00"
+draft: false
+tags: ["música"]
+title: "Slime Season 3"
 ---
 Si ens haguessin dit fa dos anys que Young Thug estaria a la millor cançó del proper disc de Kanye i que fins i tot posaria la seva música davant d'un Madison Square ple a rebentar, ningú s'ho hauria cregut. És un fet: el que en algun moment va ser una còpia sense personalitat de Lil Wayne s’ha convertit en una sensació de masses gràcies a la seva personalitat captivadora, una bona selecció de beats i, sobretot, la seva veu melòdica, flexible i sorprenent. *Slime Season 3* és el nou mixtape comercial de Thugger, l'última entrega de la trilogia —tetralogia si comptem *I’m Up*— que l’ha portat a l’èxit.
 

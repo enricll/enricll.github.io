@@ -1,8 +1,8 @@
 ---
-date = "2017-05-09T16:11:48+00:00"
-draft = false
-tags = ["música"]
-title = "Don’t Kill My Vibe (EP)"
+date: "2017-05-09T16:11:48+00:00"
+draft: false
+tags: ["música"]
+title: "Don’t Kill My Vibe (EP)"
 ---
 <!-- more -->
 

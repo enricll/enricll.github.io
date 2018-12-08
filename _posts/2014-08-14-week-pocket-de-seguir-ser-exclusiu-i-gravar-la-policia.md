@@ -1,8 +1,8 @@
 ---
-date = "2014-08-14T20:25:00+00:00"
-draft = false
-tags = ["Week Pocket"]
-title = "Week Pocket: de seguir, ser exclusiu i gravar la policia"
+date: "2014-08-14T20:25:00+00:00"
+draft: false
+tags: ["Week Pocket"]
+title: "Week Pocket: de seguir, ser exclusiu i gravar la policia"
 ---
 No és cap de setmana però toca una nova entrega del meu Week Pocket, amb un grapadet d'articles interessants que s'han publicat durant els últims dies. Som-hi!
 

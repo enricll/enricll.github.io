@@ -1,8 +1,8 @@
 ---
-date = "2018-01-03T08:08:17+00:00"
-draft = false
-tags = ["2017", "música"]
-title = "El meu any en música (2017)"
+date: "2018-01-03T08:08:17+00:00"
+draft: false
+tags: ["2017", "música"]
+title: "El meu any en música (2017)"
 ---
 Com ja és habitual al blog, toca el recompte anual de les meves estadístiques a Last.fm. Per als desconnectats, Last.fm és una web que controla la música que escoltes —artistes, cançons, àlbums…— perquè després puguis veure en forma de gràfics els teus hàbits musicals i alhora descobrir nova música. Cada any reviso les estadístiques dels darrers 12 mesos i les deixo per escrit aquí. Aquesta és una mica la idea.
 <!-- more -->

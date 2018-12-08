@@ -1,8 +1,8 @@
 ---
-date = "2018-06-10T09:52:18+00:00"
-draft = false
-tags = ["música"]
-title = "so sad so sexy"
+date: "2018-06-10T09:52:18+00:00"
+draft: false
+tags: ["música"]
+title: "so sad so sexy"
 ---
 El concepte de “my big pop album” és un possible malson per a tots els fans d’artistes més alternatius que en el passat han flirtejat amb el pop sense bolcar-s’hi. És especialment temut quan aquests artistes estan a la barrera del pop, i no en un gènere completament diferent. Des d’Ellie Goulding amd _Delirium_ fins a St. Vincent amb _Masseduction_, des de The Weeknd amb _Beauty Behind The Madness_ fins a Lorde amb _Melodrama_. des de Kanye West amb _808s & Heartbreak_ fins a Nicki Minaj amb _Roman Reloaded_. La sueca Lykke Li s’afegeix a la llista ara amb _so sad so sexy_ (minúscules intencionades).<!-- more -->
 

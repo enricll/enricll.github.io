@@ -1,8 +1,8 @@
 ---
-date = "2017-12-22T18:41:18+00:00"
-draft = false
-tags = ["música"]
-title = "Saturation II"
+date: "2017-12-22T18:41:18+00:00"
+draft: false
+tags: ["música"]
+title: "Saturation II"
 ---
 Quan BROCKHAMPTON va treure [el primer *Saturation*](http://enricllonch.com/post/164526467189/saturation) encara no enteníem exactament a què es referien amb aquest títol, però ara amb *Saturation II* i *Saturation III* la paraula “saturació” cobra un nou sentit. La boyband ha revolucionat el panorama hip-hop amb no un sinó tres àlbums en menys d’un any.<!-- more -->
 

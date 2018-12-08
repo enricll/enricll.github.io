@@ -1,8 +1,8 @@
 ---
-date = "2017-07-29T21:11:07+00:00"
-draft = false
-tags = ["música"]
-title = "Nervous System"
+date: "2017-07-29T21:11:07+00:00"
+draft: false
+tags: ["música"]
+title: "Nervous System"
 ---
 Anem a obviar, per un minuts, que **Julia Michaels** és la compositora pop més important dels darrers tres anys. Obviem que ha escrit “Sorry” de Bieber, “Good for You” de Selena Gomez o “Close” de Nick Jonas. Obviem-ho tot per uns minuts i centrem-nos en _Nervous System_, el primer EP que la compositora ha publicat com a artista principal. Què ens diuen les 7 cançons de l’EP de Michaels? Sorprenentment per un llançament d’aquest tipus, prou.
 <!-- more -->

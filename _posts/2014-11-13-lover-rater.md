@@ -1,8 +1,8 @@
 ---
-date = "2014-11-13T18:01:20+00:00"
-draft = false
-tags = ["Lover Rater", "podcast"]
-title = "Lover Rater"
+date: "2014-11-13T18:01:20+00:00"
+draft: false
+tags: ["Lover Rater", "podcast"]
+title: "Lover Rater"
 ---
 He fet un (altre) podcast. Tenia ganes de fer-ne un amb una idea bastant concreta —i bastant diferent a [La Zona Podcast](http://www.lazona.cat/podcast) que també gravo de tant en tant— i el volia fer amb el [Jordi Orihuela](https://twitter.com/jordiori2). 
 

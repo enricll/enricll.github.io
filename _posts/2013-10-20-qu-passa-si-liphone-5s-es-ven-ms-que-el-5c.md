@@ -1,8 +1,8 @@
 ---
-date = "2013-10-20T14:27:24+00:00"
-draft = false
-tags = ["iPhone", "Apple", "lectura"]
-title = "Què passa si l'iPhone 5s es ven més que el 5c?"
+date: "2013-10-20T14:27:24+00:00"
+draft: false
+tags: ["iPhone", "Apple", "lectura"]
+title: "Què passa si l'iPhone 5s es ven més que el 5c?"
 ---
 Durant els últims dies haureu llegit moltes notícies (sobretot si llegiu contingut i mitjans porqueria, una nova classificació que augmenta dia sí, dia també al món de la tecnologia) sobre una possible reducció de la fabricació de l'iPhone 5c en benefici del 5s. Els dos models es van posar a la venda a diversos països ja fa un mes i sembla que Apple ho havia creat tot (anuncis i màrqueting en general, disponibilitat dels colors, etc.) perquè el 5c fos el que més es vengués. I segons aquests *reports* dels analistes de NPD DisplaySearch Tina Teng i Shawn Lee, l'iPhone 5s s'estaria venen molt millor que el 5c.
 

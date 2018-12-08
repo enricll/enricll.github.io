@@ -1,8 +1,8 @@
 ---
-date = "2018-08-24T11:00:54+00:00"
-draft = false
-tags = ["música"]
-title = "Sweetener"
+date: "2018-08-24T11:00:54+00:00"
+draft: false
+tags: ["música"]
+title: "Sweetener"
 ---
 En el seu quart àlbum, Ariana Grande demostra tenir una mica més d’identitat personal que la majoria dels seus contemporanis. Des de *Yours Truly*, la nord-americana ha anat creant el seu propi camí d’R&B-pop que flirteja amb les tendències contemporànies i alhora té el retrovisor posat. Amb *Sweeter*, la seqüela del molt disfrutable però irregular [*Dangerous Woman*](http://enricllonch.com/post/145055522789/dangerous-woman), ha tornat a mantenir l’equilibri.<!-- more -->
 

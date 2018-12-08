@@ -1,8 +1,8 @@
 ---
-date = "2017-05-31T11:09:53+00:00"
-draft = false
-tags = ["música"]
-title = "Diferents direccions: rànquing dels singles dels ex-One Direction"
+date: "2017-05-31T11:09:53+00:00"
+draft: false
+tags: ["música"]
+title: "Diferents direccions: rànquing dels singles dels ex-One Direction"
 ---
 Aquest mes de maig ha estat particularment intens per als fans de la banda One Direction. Com sabeu, el grup es va descompondre després del seu cinquè disc en cinc anys, [*Made In The A.M.*](http://enricllonch.com/post/133873996379/made-in-the-am), un àlbum que solidificava la maduresa de la banda —formada aleshores per només quatre membres, després que un d’ells, Zayn, marxés per fer en solitari el soporífer *[Mind of Mine](http://enricllonch.com/post/142523427309/mind-of-mine)*. Després de *Made In The A.M.*, cada integrant de One Direction va prendre’s unes merescudes vacances i immediatament després va començar a treballar en el seu material musical en solitari. Niall va ser el primer dels quatre, amb la seva balada acústica *à la* Ed Sheeran/John Mayer ‘This Town’. A continuació, Louis va col·laborar amb el DJ Steve Aoki a ‘Just Hold On’, una peça d’electrònica pop que s’ha oblidat recentment però que reafirma la qualitat de Louis com a compositor (un cop d’ull als crèdits dels discs de One Direction i l’admiració per Louis augmentarà dràsticament). Després va venir Harry Styles, amb el seu primer single ‘Sign of the Times’, un single ambiciós, de quasi sis minuts de durada, i que jugava amb referents del rock com Bowie. La cançó és una peça de *Harry Styles*, el disc homònim que ha sortit aquest mes i que suposa el segon treball d’estudi d’un membre de One Direction. Poc més tard Liam completava el cercle, publicant ‘Strip That Town’, una col·laboració amb el raper Quavo de Migos, que s’acosta perillosament al concepte de “Ed Sheeran fent el hip-hop que DJ Mustard produïa fa tres anys”; Niall corregia rumb i llançava ‘Slow Hands’, un single molt més proper al material que feia amb One Direction; i Zayn preparava el seu segon àlbum amb l’estiuenca ‘Still Got Time’. Ordenats, de millor a pitjor, els seus singles quedarien així.
 

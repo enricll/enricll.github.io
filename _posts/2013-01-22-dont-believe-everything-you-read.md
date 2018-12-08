@@ -1,8 +1,8 @@
 ---
-date = "2013-01-22T23:00:00+00:00"
-draft = false
-tags = ["lectura"]
-title = "Don’t believe everything you read"
+date: "2013-01-22T23:00:00+00:00"
+draft: false
+tags: ["lectura"]
+title: "Don’t believe everything you read"
 ---
 Ens ho han tornat a fer. O més aviat, els ho han tornat a fer. Si el periodisme tecnològic ja estava qüestionat per la gran quantitat de rumors que es publiquen cada dia, ara el tema passa les fronteres i ja ha arribat al món dels videojocs. La *Next-Gen* de consoles està a tocar i, com és lògic, totes les publicacions s'aprofiten del tema publicant a la mínima qualsevol notícia sobre aquestes, sabent que evidentment aconseguiran una gran repercussió. Així és com es mou aquest món a dia d'avui. I només falta que arribi a la redacció un rumor perquè la maquinària s'engegui i comenci a produir posts a dojo sense seguir cap mena de lògica ni cap pensament racional, sense parar-nos a pensar-ho abans de clicar el botó de Publicar. No, només pensem en tot el que vindrà després: visites, clics, retweets, i més visites, i que giri la roda, no?
 

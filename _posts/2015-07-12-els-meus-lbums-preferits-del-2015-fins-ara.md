@@ -1,8 +1,8 @@
 ---
-date = "2015-07-12T21:24:01+00:00"
-draft = false
-tags = ["Kendrick Lamar", "Lupe Fiasco", "Kehlani", "Drake", "Big Sean", "música"]
-title = "Els meus àlbums preferits del 2015 fins ara"
+date: "2015-07-12T21:24:01+00:00"
+draft: false
+tags: ["Kendrick Lamar", "Lupe Fiasco", "Kehlani", "Drake", "Big Sean", "música"]
+title: "Els meus àlbums preferits del 2015 fins ara"
 ---
 El meu last.fm diu que porto 5.400 reproduccions. Vaig començar a utilitzar-lo aquest gener, o sigui que és força representatiu de la música que he escoltat en els últims sis mesos. Tot i que els àlbums que més he escoltat no són d’aquest any (The Pinkprint — Nicki Minaj, Yeezus — Kanye West, Pink Friday — Nicki Minaj), a les següents posicions hi ha noms com els de Kendrick Lamar, Kehlani, Fifth Harmony, Lupe Fiasco, Big Sean, Drake, Snoop Dogg o Milk & Bone. Però això només són estadístiques, tocava posar-ho per escrit després de reflexionar una mica. Aquest n’és el resultat, en ordre de menys a més.
 

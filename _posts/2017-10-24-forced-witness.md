@@ -1,8 +1,8 @@
 ---
-date = "2017-10-24T08:45:02+00:00"
-draft = false
-tags = ["música"]
-title = "Forced Witness"
+date: "2017-10-24T08:45:02+00:00"
+draft: false
+tags: ["música"]
+title: "Forced Witness"
 ---
 Sabeu aquests discs que el primer cop que els escoltes és com “ea” però amb una segona o tercera escolta estàs completament obsessionat? De no escoltar res més en tot el dia? D’anar pels passadissos del metro i cantar una tornada de no-saps-encara-quina-cançó? *Forced Witness* és un d’aquests discs.
 

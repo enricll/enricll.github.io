@@ -1,8 +1,8 @@
 ---
-date = "2013-01-14T23:00:00+00:00"
-draft = false
-tags = ["lectura"]
-title = "Els croissants amb xocolata del carrer Tres Creus"
+date: "2013-01-14T23:00:00+00:00"
+draft: false
+tags: ["lectura"]
+title: "Els croissants amb xocolata del carrer Tres Creus"
 ---
 Des del setembre, crec recordar, hi ha una botiga anomenada ['Croissants de Paris'][1] al Carrer Tres Creus de la meva i fantàstica població, Sabadell. Fa unes setmanes hi vaig anar per provar aquests croissants que tan famosos s'han fet a Terrassa (sí, la botiga és originària de Terrassa, *ecucs*). Vaig demanar un croissant de xocolata i em van donar una cosa que en tenia dues, de xocolates: blanca i negra. Però em va encantar ja que estava acabat de fer, o almenys a jutjar per la temperatura, i era realment bo.
 

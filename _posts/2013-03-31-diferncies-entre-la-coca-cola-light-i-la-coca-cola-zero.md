@@ -1,8 +1,8 @@
 ---
-date = "2013-03-31T09:35:57+00:00"
-draft = false
-tags = ["coca-cola", "light", "zero", "report", "lectura"]
-title = "Diferències entre la Coca-Cola Light i la Coca-Cola Zero"
+date: "2013-03-31T09:35:57+00:00"
+draft: false
+tags: ["coca-cola", "light", "zero", "report", "lectura"]
+title: "Diferències entre la Coca-Cola Light i la Coca-Cola Zero"
 ---
 Ja fa dies que estic investigant (xD) sobre les diferències entre la Coca-Cola Light i la Coca-Cola Zero. És evident que tots en tenim una vaga idea, però no acabem de saber-ne, exactament, les diferències. Per començar, què us sembla si repassem la composició d'ingredients de cada una, extreta directament de les seves etiquetes:
 

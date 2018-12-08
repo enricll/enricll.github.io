@@ -1,8 +1,8 @@
 ---
-date = "2017-08-23T16:59:23+00:00"
-draft = false
-tags = ["música"]
-title = "Saturation"
+date: "2017-08-23T16:59:23+00:00"
+draft: false
+tags: ["música"]
+title: "Saturation"
 ---
 L’any passat vaig col·locar a la llista de [“Millors albums del 2016”](http://enricllonch.com/post/155206794384/els-40-àlbums-del-2016) el disc de Kevin Abstract, [*American Boyfriend: A Suburban Love Story*](https://www.youtube.com/watch?v=dJarpbuXxDU). Abstract, cantant i raper, lidera la “boy band” BROCKHAMPTON, un col·lectiu de 15 membres, entre els quals hi ha altres rapers i cantants, però també dissenyadors gràfics, productors musicals i mànagers. El grup va començar al 2015 amb un grapat de singles solts. Uns mesos abans del llançament d’*American Boyfriend*, BROCKHAMPTON va treure el seu mixtape debut, titulat [*All-American Trash*](https://www.youtube.com/watch?v=fluhzuZ0S04). Tot i que alguns dels membres ja demostraven talent allà, hi faltava el component de química de grup que *Saturation*, el primer àlbum de la banda, sí que té. 
 

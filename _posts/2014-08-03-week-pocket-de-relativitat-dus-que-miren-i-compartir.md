@@ -1,8 +1,8 @@
 ---
-date = "2014-08-03T11:47:00+00:00"
-draft = false
-tags = ["Week Pocket"]
-title = "Week Pocket: de relativitat, déus que miren i compartir"
+date: "2014-08-03T11:47:00+00:00"
+draft: false
+tags: ["Week Pocket"]
+title: "Week Pocket: de relativitat, déus que miren i compartir"
 ---
 Torno una setmaneta més amb el Week Pocket.
 

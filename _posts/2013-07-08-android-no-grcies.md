@@ -1,8 +1,8 @@
 ---
-date = "2013-07-08T21:37:00+00:00"
-draft = false
-tags = ["Android", "lectura", "disseny"]
-title = "Android, no gràcies"
+date: "2013-07-08T21:37:00+00:00"
+draft: false
+tags: ["Android", "lectura", "disseny"]
+title: "Android, no gràcies"
 ---
 Recentment Android ha millorat molt en usabilitat, però en disseny continua sent inconsistent i massa dispers des del meu punt de vista. 
 

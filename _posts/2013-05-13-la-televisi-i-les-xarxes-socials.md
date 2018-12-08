@@ -1,8 +1,8 @@
 ---
-date = "2013-05-13T09:33:00+00:00"
-draft = false
-tags = ["televisió", "xarxes socials", "lectura"]
-title = "La televisió i les xarxes socials"
+date: "2013-05-13T09:33:00+00:00"
+draft: false
+tags: ["televisió", "xarxes socials", "lectura"]
+title: "La televisió i les xarxes socials"
 ---
 Des de fa un temps, les xarxes socials modernes com Twitter han patit un autèntic boom que ha fet que gent molt diversa entrés en aquest món. Les xarxes socials són mainstream, evidentment, i la televisió ha vist com clarament se'n parla allà. El problema és que no controlen el que es comenta del programa X a la xarxa social Y, sinó que són els usuaris qui decideixen què expliquen i com ho expliquen. 
 

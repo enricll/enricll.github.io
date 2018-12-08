@@ -1,8 +1,8 @@
 ---
-date = "2015-02-28T21:51:12+00:00"
-draft = false
-tags = ["música"]
-title = "Dark Sky Paradise"
+date: "2015-02-28T21:51:12+00:00"
+draft: false
+tags: ["música"]
+title: "Dark Sky Paradise"
 ---
 Ens agradi més o menys el raper pop de G.O.O.D. Music, *Dark Sky Paradise* és el millor treball (i en el seu moment el més esperat) de Big Sean. 
 

@@ -1,8 +1,8 @@
 ---
-date = "2017-06-05T15:52:26+00:00"
-draft = false
-tags = 
-title = "Another. Not Me. I’m Done."
+date: "2017-06-05T15:52:26+00:00"
+draft: false
+tags: 
+title: "Another. Not Me. I’m Done."
 ---
 <!-- more -->
 

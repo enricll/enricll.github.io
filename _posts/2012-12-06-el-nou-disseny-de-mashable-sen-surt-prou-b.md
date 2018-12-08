@@ -1,8 +1,8 @@
 ---
-date = "2012-12-06T23:00:00+00:00"
-draft = false
-tags = ["lectura"]
-title = "El nou disseny de Mashable se'n surt prou bé"
+date: "2012-12-06T23:00:00+00:00"
+draft: false
+tags: ["lectura"]
+title: "El nou disseny de Mashable se'n surt prou bé"
 ---
 Fa pocs dies, Pete Cashmore, ens donava la benvinguda al [nou disseny][1] de Mashable, un dels portals més influents i populars en el món de la tecnologia i la xarxa en general. El nou disseny està fet per [Code and Theory][2], que pels qui no ho sapigueu van ser els responsables de l'antiga interfície d'Engadget (etapa Topolsky) i de l'actual The Verge, entre d'altres. Per tant, una empresa amb important reputació fent un treball que no podia acabar en fracàs com en el cas del nou Engadget (quina casualitat, aquesta vegada el van fer a AOL mateix, a casa). 
 ## Tres columnes 

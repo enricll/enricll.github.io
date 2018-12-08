@@ -1,8 +1,8 @@
 ---
-date = "2016-05-28T15:24:48+00:00"
-draft = false
-tags = ["música"]
-title = "Dangerous Woman"
+date: "2016-05-28T15:24:48+00:00"
+draft: false
+tags: ["música"]
+title: "Dangerous Woman"
 ---
 Cada any hi ha un disc de pop comercial que destaca per sobre de la resta, i sovint coincideix amb el disc que Max Martin i el seu equip decideixen compondre i produir. Enguany se segueix la tradició. 
 

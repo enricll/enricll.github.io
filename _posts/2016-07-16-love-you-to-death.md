@@ -1,8 +1,8 @@
 ---
-date = "2016-07-16T18:37:18+00:00"
-draft = false
-tags = ["música"]
-title = "Love You To Death"
+date: "2016-07-16T18:37:18+00:00"
+draft: false
+tags: ["música"]
+title: "Love You To Death"
 ---
 M'encanten els àlbums curts. No negaré que les raons darrere aquesta afirmació són poc romàntiques i, segurament, poc sanes. M’agrada escoltar un disc curt perquè visc en un món d’hipervelocitat. Vull la satisfacció d’escoltar un disc de principi a final, perquè la sensació d’haver acabat de fer una cosa en temps de *deadlines* i estrès és massa preable per no estendre-la *també* a la música. Però per altra vegada tinc poc temps, o simplement crec que tinc poc temps, o (encara més) simplement vull tenir la sensació d’haver acabat una cosa moltes vegades, i com menys trigui realment a acabar-les, més cops la podré experimentar. Per això m’encanten els àlbums curts, crec. Són dosis instantànies de satisfacció a curt termini. Ara, si els àlbums curts són, a més, bons, la satisfacció és doble, i fins i tot pot ser a mitjà termini. Per això m’encanten els àlbums curts bons, crec. I, suposo, que per això m’encanta *Love You To Death*. 
 

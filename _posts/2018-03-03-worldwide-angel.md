@@ -1,8 +1,8 @@
 ---
-date = "2018-03-03T10:35:02+00:00"
-draft = false
-tags = ["música"]
-title = "Worldwide Angel"
+date: "2018-03-03T10:35:02+00:00"
+draft: false
+tags: ["música"]
+title: "Worldwide Angel"
 ---
 La catalana Bad Gyal ha aconseguit en els darrers anys, des del llan&ccedil;ament del seu primer mixtape *Slow Wine Mixtape*, pres&egrave;ncia en els festivals m&eacute;s prestigiosos de l&rsquo;Estat, bones cr&iacute;tiques a publicacions estrangeres com *Pitchfork*, i un seguiment a xarxes socials que sembla estar m&eacute;s per la seva personalitat que no pas per la seva m&uacute;sica (l&rsquo;acollida dels darrers singles a Spotify &eacute;s t&egrave;bia, com a molt). En qualsevol cas, Bad Gyal (de nom real Alba Farelo) ha tret recentment el seu segon projecte de mitja durada, titulat *Worldwide Angel*, picant l&rsquo;ullet a aquesta expansi&oacute; internacional que l&rsquo;ha portat a fer una gira als Estats Units.<!-- more -->
 

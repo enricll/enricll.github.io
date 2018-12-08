@@ -1,8 +1,8 @@
 ---
-date = "2018-04-25T12:48:50+00:00"
-draft = false
-tags = ["música"]
-title = "When My Heart Felt Volcanic"
+date: "2018-04-25T12:48:50+00:00"
+draft: false
+tags: ["música"]
+title: "When My Heart Felt Volcanic"
 ---
 [Des del seu primer single](http://enricllonch.com/post/162233486164/i-dont-like-being-honest) com a “The Aces”, la banda —formada per quatre noies que es van conèixer a l’institut— ha anat forjant el que aquest mes va esdevenir el seu àlbum debut. De fet, una versió retocada d’”Stuck” és la cançó que obre el seu disc, encetant aquests tres quarts d’hora de melodies hiperenganxoses acompanyades de _basslines_ ballables que no s’acaben mai.<!-- more -->
 

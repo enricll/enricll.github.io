@@ -1,8 +1,8 @@
 ---
-date = "2015-04-01T17:01:04+00:00"
-draft = false
-tags = ["música"]
-title = "Crec que el hip-hop no és un gènere"
+date: "2015-04-01T17:01:04+00:00"
+draft: false
+tags: ["música"]
+title: "Crec que el hip-hop no és un gènere"
 ---
 iTunes ho té clar, hi ha un sol gènere anomenat «Hip-Hop/Rap». Això, tot i ser pràctic per al servei d'Apple, genera molt debat: [és el mateix rap que hip-hop?](http://www.ebony.com/entertainment-culture/the-difference-between-rap-hip-hop-798#axzz3W4hvKV5A). No puc entrar en aquest debat perquè amb prou feines puc diferenciar el que en diuen «urban» del que és «R&B» —si és que hi ha diferència més enllà d'interessos comercials i categories dels Grammy—, però amb el que he escoltat de hip-hop fins ara he arribat a una mena de conclusió que m'agradaria compartir. I és que crec que el hip-hop no és un gènere musical.
 

@@ -1,8 +1,8 @@
 ---
-date = "2015-12-06T19:29:38+00:00"
-draft = false
-tags = ["música"]
-title = "I LOVE MAKONNEN 2"
+date: "2015-12-06T19:29:38+00:00"
+draft: false
+tags: ["música"]
+title: "I LOVE MAKONNEN 2"
 ---
 Hi ha una alguna cosa especial en la música d’ILoveMakonnen, i amb la seqüela del seu EP homònim això queda més clar que mai. Makonnen té una habilitat magnífica i alhora terrorífica: pot convertir allò estrany en bonic i allò bonic en estrany. Segurament la primera vegada que l’escoltes et molestarà que converteixi allò bonic en estrany, però justament això serà el que et farà retornar-hi una vegada, i una altra, i una altra, apreciant la raresa com a la bellesa diferenciadora de Makonnen.
 

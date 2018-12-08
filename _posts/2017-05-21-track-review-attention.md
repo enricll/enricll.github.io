@@ -1,8 +1,8 @@
 ---
-date = "2017-05-21T18:20:11+00:00"
-draft = false
-tags = ["música", "track review"]
-title = "Track Review: “Attention”"
+date: "2017-05-21T18:20:11+00:00"
+draft: false
+tags: ["música", "track review"]
+title: "Track Review: “Attention”"
 ---
 Abans de l’última tornada d’“Attention”, Charlie Puth suspira, l’instrumental s’atura completament i ell suspira. És un moment de cansament, com si no tingués ganes de cantar el mateix *chorus* per tercer cop, com si estigués fart de repetir una situació real i emocional en el seu cap per fer-ne una cançó. Altres popstars aprofitarien el silenci per tenir un moment de sensualitat i intimitat amb l’oient, però Puth està cansat.
 

@@ -1,8 +1,8 @@
 ---
-date = "2018-04-08T17:01:37+00:00"
-draft = false
-tags = ["música"]
-title = "Expectations"
+date: "2018-04-08T17:01:37+00:00"
+draft: false
+tags: ["música"]
+title: "Expectations"
 ---
 *Expectations*, el primer disc d’estudi de Hayley Kiyoko, és un àlbum d’equilibris.<!-- more --> La nord-americana representa per molts el futur del pop, per la seva honestedat a l’hora de parlar de la seva identitat queer (els seus fans l’anomenen “lesbian Jesus”) i per la música que fa. L’estil de Kiyoko està entre el pop maximitzat de la ràdio de fa uns anys i la subtilitat minimalista que només es consumeix a Spotify. Té tocs d’electrònica, però sovint aprofita al màxim l’atmosfera per crear mons que ens atrapin. Ni massa comercial, ni massa excèntrica, la música d’*Expectations* aconsegueix trobar un punt mig sobre el qual construir les històries de Kiyoko, que prinicipalment giren al voltant de l’amor i el desamor. Les lletres no són especialment poètiques, però ella sap com farcir-les de detalls tan personals que esdevenen universals, especialment (però no exclusivament) pels seus oients LGBTQ. Fins i tot els talls més explosius i addictius com “What I Need” (amb Kehlani) i “Curious” (la millor cançó del disc i un dels millors singles de l’any) tenen darrere històries que no acostumem a sentir habitualment (com “Boyfriend” de Tegan and Sara fa tres anys). A *Expectations* Hayley Kiyoko també aprofita per demostrar-se com a compositora, sobretot a través de les cançons dobles que ocupen la part central del disc. La seva veu és maleable, i s’adapta a les circumstàncies amb seguretat i solvència, necessitant poc més per funcionar. Kiyoko no és una vocalista espectacular, com tampoc no és una ballarina excepcional o una compositora brillant, però és el paquet complet i compleix en cada element que se li demana. Amb *Expectations* es presenta al públic general com una veu pròpia amb molt a dir, i és difícil d’imaginar-se un debut millor. 
 

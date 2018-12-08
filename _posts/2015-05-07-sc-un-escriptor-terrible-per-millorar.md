@@ -1,8 +1,8 @@
 ---
-date = "2015-05-07T18:24:03+00:00"
-draft = false
-tags = ["meta"]
-title = "Sóc un escriptor terrible (però milloraré)"
+date: "2015-05-07T18:24:03+00:00"
+draft: false
+tags: ["meta"]
+title: "Sóc un escriptor terrible (però milloraré)"
 ---
 Escric per a altres persones (perquè altres llegeixin els meus articles, s'entén) des del 2010 i des d'aleshores no he parat, ja sigui a Twitter o a blogs i webs. És una part súper important de la meva vida perquè em permet fer una de les meves coses preferides (opinar i argumentar) a la vegada que et fa sentir viu, part del món. 
 

@@ -1,8 +1,8 @@
 ---
-date = "2014-02-09T18:18:00+00:00"
-draft = false
-tags = ["meta"]
-title = "Els imprescindibles d'EnricLlonch.com"
+date: "2014-02-09T18:18:00+00:00"
+draft: false
+tags: ["meta"]
+title: "Els imprescindibles d'EnricLlonch.com"
 ---
 Com que avui el meu blog, EnricLlonch.com, fa un any he decidit anar una mica enrere i repassar els articles més destacats d'aquests darrers 365 dies. No són els més llegits —no tinc estadístiques, per tant, no ho puc ni saber— sinó els que crec honestament que estan més treballats i també els que m'agraden més a mi, que per això és el blog personal. Us els poso a continuació i si teniu un moment ja sabeu! 
 

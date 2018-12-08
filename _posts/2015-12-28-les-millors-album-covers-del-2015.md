@@ -1,8 +1,8 @@
 ---
-date = "2015-12-28T10:30:56+00:00"
-draft = false
-tags = ["disseny", "música", "dos mil quinze"]
-title = "Les millors album covers del 2015"
+date: "2015-12-28T10:30:56+00:00"
+draft: false
+tags: ["disseny", "música", "dos mil quinze"]
+title: "Les millors album covers del 2015"
 ---
 <!-- more -->
 

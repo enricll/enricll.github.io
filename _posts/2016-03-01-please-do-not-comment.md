@@ -1,8 +1,8 @@
 ---
-date = "2016-03-01T22:06:54+00:00"
-draft = false
-tags = ["meta", "música", "Kanye"]
-title = "Please do not comment"
+date: "2016-03-01T22:06:54+00:00"
+draft: false
+tags: ["meta", "música", "Kanye"]
+title: "Please do not comment"
 ---
 No, aquest article no és la review de *The Life of Pablo* que tothom està esperant. No, prometo que aquest article no va del tot sobre Kanye West. Va sobre mi. Però abans...
 

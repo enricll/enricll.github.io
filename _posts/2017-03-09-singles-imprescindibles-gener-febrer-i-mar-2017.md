@@ -1,8 +1,8 @@
 ---
-date = "2017-03-09T16:41:00+00:00"
-draft = false
-tags = ["música"]
-title = "Singles imprescindibles: gener, febrer i març 2017"
+date: "2017-03-09T16:41:00+00:00"
+draft: false
+tags: ["música"]
+title: "Singles imprescindibles: gener, febrer i març 2017"
 ---
 <p>Si em seguiu a Spotify sabreu que faig una playlist mensual amb els millors singles —o cançons soltes— que hagin sortit aquell mes. Les últimes llistes, però, m’han quedat especialment llargues: perquè descobreixo més música i perquè sembla que la música genial no té fi. És per això que en aquest article recullo alguns dels meus singles preferits de les últimes tres playlists —això és, els preferits dels preferits, els <em>imprescindibles</em> (guinyo).</p>
 

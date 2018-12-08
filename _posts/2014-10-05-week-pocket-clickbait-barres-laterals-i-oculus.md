@@ -1,8 +1,8 @@
 ---
-date = "2014-10-05T12:07:23+00:00"
-draft = false
-tags = ["Week Pocket"]
-title = "Week Pocket: Clickbait, barres laterals i Oculus"
+date: "2014-10-05T12:07:23+00:00"
+draft: false
+tags: ["Week Pocket"]
+title: "Week Pocket: Clickbait, barres laterals i Oculus"
 ---
 <!-- more -->
 

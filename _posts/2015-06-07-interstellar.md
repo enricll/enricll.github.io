@@ -1,8 +1,8 @@
 ---
-date = "2015-06-07T08:04:43+00:00"
-draft = false
-tags = ["cinema"]
-title = "Interstellar"
+date: "2015-06-07T08:04:43+00:00"
+draft: false
+tags: ["cinema"]
+title: "Interstellar"
 ---
 *Aquesta és una crítica que vaig presentar com a treball opcional per a Llengua Catalana i Literatura, i que ara he volgut penjar aquí. L'opinió està lleugerament extremitzada perquè es tractava de fer un text d'aquest tipus, però és prou sincera.*
 

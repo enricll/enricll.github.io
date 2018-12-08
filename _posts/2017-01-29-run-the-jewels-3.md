@@ -1,8 +1,8 @@
 ---
-date = "2017-01-29T22:38:11+00:00"
-draft = false
-tags = ["música"]
-title = "Run the Jewels 3"
+date: "2017-01-29T22:38:11+00:00"
+draft: false
+tags: ["música"]
+title: "Run the Jewels 3"
 ---
 Killer Mike i El-P tenien raó.
 

@@ -1,8 +1,8 @@
 ---
-date = "2016-12-15T22:28:07+00:00"
-draft = false
-tags = ["música"]
-title = "American Boyfriend: A Suburban Love Story"
+date: "2016-12-15T22:28:07+00:00"
+draft: false
+tags: ["música"]
+title: "American Boyfriend: A Suburban Love Story"
 ---
 <!-- more -->
 

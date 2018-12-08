@@ -1,8 +1,8 @@
 ---
-date = "2017-07-12T18:14:41+00:00"
-draft = false
-tags = ["música"]
-title = "Funk Wav Bounces Vol.1"
+date: "2017-07-12T18:14:41+00:00"
+draft: false
+tags: ["música"]
+title: "Funk Wav Bounces Vol.1"
 ---
 Per algun motiu, Calvin Harris, després de marcar-se dos èxits amb els singles ‘This is What You Came For’ i ‘My Way’, va pensar que el camí que havia de seguir era cançons funky amb influències disco i col·laboradors del món del hip-hop i l’r&b.<!-- more -->
 

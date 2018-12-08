@@ -1,8 +1,8 @@
 ---
-date = "2013-04-24T13:26:57+00:00"
-draft = false
-tags = ["blackberry q10", "review"]
-title = "BlackBerry Q10, les primeres reviews"
+date: "2013-04-24T13:26:57+00:00"
+draft: false
+tags: ["blackberry q10", "review"]
+title: "BlackBerry Q10, les primeres reviews"
 ---
 Avui s'han publicat les reviews de la BlackBerry Q10 a la majoria de mitjans tecnològics nord-americans. Una gran part de les reviews coincideix que la Q10 no és un dispositiu ideal per a tots els públics.
 

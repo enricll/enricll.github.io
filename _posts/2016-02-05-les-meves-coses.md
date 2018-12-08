@@ -1,8 +1,8 @@
 ---
-date = "2016-02-05T19:38:48+00:00"
-draft = false
-tags = ["meta"]
-title = "Les meves coses"
+date: "2016-02-05T19:38:48+00:00"
+draft: false
+tags: ["meta"]
+title: "Les meves coses"
 ---
 Sóc fan dels articles de «this is my setup» i similars, articles on l'autor menciona i explica els serveis i productes que utilitza el dia a dia — són els nostres secrets més preuats, crec jo. Després de llegir-ne molts, aquesta és la meva manera d'agrair-los: escrivint-ne un altre.
 

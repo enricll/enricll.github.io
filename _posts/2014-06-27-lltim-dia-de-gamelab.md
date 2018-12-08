@@ -1,8 +1,8 @@
 ---
-date = "2014-06-27T19:34:00+00:00"
-draft = false
-tags = ["Gamelab"]
-title = "L'últim dia de Gamelab"
+date: "2014-06-27T19:34:00+00:00"
+draft: false
+tags: ["Gamelab"]
+title: "L'últim dia de Gamelab"
 ---
 Avui també he pogut anar al Gamelab. Si us vàreu perdre l'entrada d'ahir, aquí la teniu.
 

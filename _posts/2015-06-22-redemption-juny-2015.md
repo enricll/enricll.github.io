@@ -1,8 +1,8 @@
 ---
-date = "2015-06-22T17:30:31+00:00"
-draft = false
-tags = ["Redemption", "sèries", "música"]
-title = "Redemption: Juny 2015"
+date: "2015-06-22T17:30:31+00:00"
+draft: false
+tags: ["Redemption", "sèries", "música"]
+title: "Redemption: Juny 2015"
 ---
 
 Aquest mes he estat enfeinat amb la Selectivitat, per&ograve; per fi s&oacute;c &laquo;lliure&raquo; i aquest &eacute;s el meu Redemption.

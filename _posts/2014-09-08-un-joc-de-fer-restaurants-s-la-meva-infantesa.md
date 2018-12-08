@@ -1,8 +1,8 @@
 ---
-date = "2014-09-08T13:00:52+00:00"
-draft = false
-tags = ["videojocs"]
-title = "Un joc de fer restaurants és la meva infantesa"
+date: "2014-09-08T13:00:52+00:00"
+draft: false
+tags: ["videojocs"]
+title: "Un joc de fer restaurants és la meva infantesa"
 ---
 Sempre m'han agradat els simuladors. 
 

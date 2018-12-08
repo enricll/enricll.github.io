@@ -1,8 +1,8 @@
 ---
-date = "2015-08-10T15:56:44+00:00"
-draft = false
-tags = ["música", "one direction"]
-title = "Track Review: Drag Me Down"
+date: "2015-08-10T15:56:44+00:00"
+draft: false
+tags: ["música", "one direction"]
+title: "Track Review: Drag Me Down"
 ---
 
 Cada tardor en els &uacute;ltims quatre anys hi ha hagut certes constants, una de d&rsquo;elles un nou &agrave;lbum de One Direction. El grup &eacute;s una m&agrave;quina en puntualitat i rendiment: disc i gira de concerts, disc i gira de concerts&hellip; sense retards, sense males not&iacute;cies&hellip; i despr&eacute;s va marxar Zayn, per sorpresa. L&rsquo;&agrave;lbum d&rsquo;aquesta tardor ser&agrave; el primer amb nom&eacute;s quatre membres del grup i, tot i que musicalment ja sabem que el grup podria tenir dos membres cantant i ja seria suficient, han de demostrar que la m&agrave;quina no funciona pitjor.

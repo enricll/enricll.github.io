@@ -1,8 +1,8 @@
 ---
-date = "2015-12-31T13:06:59+00:00"
-draft = false
-tags = ["meta"]
-title = "l’any dels divuit"
+date: "2015-12-31T13:06:59+00:00"
+draft: false
+tags: ["meta"]
+title: "l’any dels divuit"
 ---
 <!-- more -->
 

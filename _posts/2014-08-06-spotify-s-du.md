@@ -1,8 +1,8 @@
 ---
-date = "2014-08-06T15:01:00+00:00"
-draft = false
-tags = ["Spotify", "música"]
-title = "Spotify és Déu"
+date: "2014-08-06T15:01:00+00:00"
+draft: false
+tags: ["Spotify", "música"]
+title: "Spotify és Déu"
 ---
 <span class="pDropCap">D</span>es de [fa 13 mesos](http://instagram.com/p/cMcYaqAwyq/) tinc Spotify Premium i puc dir, amb tota la sinceritat del món, que és una puta passada.
 

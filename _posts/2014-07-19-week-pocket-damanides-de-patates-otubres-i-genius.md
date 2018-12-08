@@ -1,8 +1,8 @@
 ---
-date = "2014-07-19T14:57:00+00:00"
-draft = false
-tags = ["Week Pocket"]
-title = "Week Pocket: d'amanides de patates, otubres i Genius"
+date: "2014-07-19T14:57:00+00:00"
+draft: false
+tags: ["Week Pocket"]
+title: "Week Pocket: d'amanides de patates, otubres i Genius"
 ---
 Torno amb el Week Pocket, aquella secció que vaig començar fa molt temps i que aglutina alguns articles destacats dels darrers dies. No tinc intenció de fer-la regular ni setmanal —tot i que el títol ho suggereixi amb força—, però em ve de gust fer una mica de bombo d'algunes peces que m'han agradat i que no he compartit suficient ni he sabut encabir en un article propi aquí al blog.
 

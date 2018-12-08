@@ -1,8 +1,8 @@
 ---
-date = "2017-02-26T11:30:39+00:00"
-draft = false
-tags = ["música"]
-title = "FUTURE / HNDRXX"
+date: "2017-02-26T11:30:39+00:00"
+draft: false
+tags: ["música"]
+title: "FUTURE / HNDRXX"
 ---
 Sota l’aparença de música banal i poc imaginativa, molts fans de Future veuen una història de patiment extrem, de tristor construïda a base de relacions tòxiques —amb les dones i amb les drogues—. Entre el 2014 i el 2015, el raper d’Altanta va llançar els tres mixtapes que li van donar aquesta fama de depressiu incomprès (*Monster*, *Beast Mode* i *56 Nights*), i un poc més tard ho va rematar amb la que probablement serà la seva gran obra, *DS2* —el meu preferit, per altra banda—. Des d’aleshores, Future principalment ha intentat mantenir “momentum” amb diverses col·laboracions i projectes: des de l’àlbum col·laboratiu *What A Time To Be Alive* amb Drake fins als *Purple Reign* i *Evol* que [vaig comentar aquí al blog](http://enricllonch.com/post/139226417099/purple-reign-evol). Ara, Future ha tornat amb dos discs, llançats dos divendres consecutius, un més trap (*FUTURE*, l’altre més R&B (*HNDRXX)*.
 

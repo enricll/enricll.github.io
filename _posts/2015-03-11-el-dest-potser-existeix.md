@@ -1,8 +1,8 @@
 ---
-date = "2015-03-11T19:16:37+00:00"
-draft = false
-tags = ["música"]
-title = "El destí potser existeix"
+date: "2015-03-11T19:16:37+00:00"
+draft: false
+tags: ["música"]
+title: "El destí potser existeix"
 ---
 No crec en gaires coses —o almenys no en gaires coses «no-científiques» (una manera horrorosa per descriure-les però que ens serveix per saber de què estem parlant)— però sí em meravella el «destí», si existeix tal cosa. M’explico: crec que les coses passen per una raó, i quan no passen doncs també és per una raó [^1]. No és que sigui tot un conjunt de causes i conseqüències —que també—, sinó que m’agrada retrocedir en el temps i pensar que si no hagués fet tal cosa, ara no estaria fent tal altra — per tant, com que aquesta altra que estic fent la prenc com el destí on tocava arribar, penso que l’anterior fet que m’hi ha portat estava premeditat des d’un bon començament. Em seguiu? Espero que sí, vaja.
 

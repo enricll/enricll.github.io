@@ -1,8 +1,8 @@
 ---
-date = "2015-02-16T12:10:00+00:00"
-draft = false
-tags = ["música", "sèries", "redemption"]
-title = "Gener - Febrer 2015: Redemption"
+date: "2015-02-16T12:10:00+00:00"
+draft: false
+tags: ["música", "sèries", "redemption"]
+title: "Gener - Febrer 2015: Redemption"
 ---
 
 Com que em va agradar el format &ldquo;Redemption&rdquo; que vaig fer per aglutinar tot all&ograve; de qu&egrave; no havia parlat durant el 2014, el torno a aplicar, ara amb un espai de temps m&eacute;s petit, els &uacute;ltims dos mesos. 

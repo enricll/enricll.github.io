@@ -1,8 +1,8 @@
 ---
-date = "2017-08-25T10:52:55+00:00"
-draft = false
-tags = ["música"]
-title = "Track Review: “Look What You Made Me Do”"
+date: "2017-08-25T10:52:55+00:00"
+draft: false
+tags: ["música"]
+title: "Track Review: “Look What You Made Me Do”"
 ---
 Tant de bo el primer single del nou disc de Taylor Swift (*reputation* —sí, així, en minúscules—) fos simplement allò que hom coneix com a “bop” i m’hagués pogut estalviar aquest article. Hagués escrit sobre el nou disc de Fifth Harmony —encara no l’he sentit—, o sobre “Friends” de Julia Michaels amb veu de fons de Justin Bieber, o estaria escoltant el nou àlbum de Queens of the Stone Age. Però no. Popstar controvertida, creadora de “Blank Space”, víctima preferida de Kanye West, fan del Vodka amb Coca-Cola Light, Taylor Swift ha tret una cançó que gairebé m’obliga a parlar-ne. Potser aquest era l’objectiu, no creieu, que en parléssim encara que fos per odiar-la. Potser sí, jo crec. Però no l’odio. El contrari. Aquests són alguns dels motius pels quals no l’odio.
 

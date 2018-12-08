@@ -1,8 +1,8 @@
 ---
-date = "2016-05-31T15:27:33+00:00"
-draft = false
-tags = ["redemption", "música"]
-title = "Redemption: Maig 2016"
+date: "2016-05-31T15:27:33+00:00"
+draft: false
+tags: ["redemption", "música"]
+title: "Redemption: Maig 2016"
 ---
 El Redemption —també conegut com a «Ressenyes que escric de forma forçada a finals de mes»— del maig inclou Skepta, Death Grips i Chance The Rapper, entre d'altres.
 

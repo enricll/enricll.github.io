@@ -1,8 +1,8 @@
 ---
-date = "2017-07-22T19:24:22+00:00"
-draft = false
-tags = ["música"]
-title = "Something To Tell You"
+date: "2017-07-22T19:24:22+00:00"
+draft: false
+tags: ["música"]
+title: "Something To Tell You"
 ---
 Si, pel motiu que sigui, no esteu familiaritzats amb HAIM, deixeu de llegir això i aneu a escoltar el seu primer disc, *Days Are Gone*, publicat ara fa quatre anys. Allà les tres germanes barrejaven gèneres i èpoques amb una sensibilitat pop admirable, i un llistat d’influències ampli, divers, i difícil de concretar en un tipus de música en particular. Amb l’ajut del productor Ariel Rechtshaid (Charli XCX, Vampire Weekend, Sky Ferreira —tres artistes que van treure àlbum casualment també el 2013, els tres aclamats críticament, fins i tot més que el debut de HAIM—, *Days Are Gone* propulsava la banda cap a la fama. Ara tornen amb *Something To Tell You*, el seu segon projecte i un clar exemple de com les expectatives i el pas del temps poden restar plaer a un disc que, per altra banda, és perfectament *correcte*.
 
