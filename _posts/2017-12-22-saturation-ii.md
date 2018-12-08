@@ -1,0 +1,19 @@
++++
+date = "2017-12-22T18:41:18+00:00"
+draft = false
+tags = ["música"]
+title = "Saturation II"
++++
+Quan BROCKHAMPTON va treure [el primer *Saturation*](http://enricllonch.com/post/164526467189/saturation) encara no enteníem exactament a què es referien amb aquest títol, però ara amb *Saturation II* i *Saturation III* la paraula “saturació” cobra un nou sentit. La boyband ha revolucionat el panorama hip-hop amb no un sinó tres àlbums en menys d’un any.<!-- more -->
+
+Els tres Saturation comparteixen, a part del títol i els membres que hi apareixen produint, rapejant o cantant, certs elements. El més evident és que els títols de les cançons tenen un nombre de lletres determinats (4 pel primer, 5 pel segon, 6 pel tercer — amb l’excepció de la darrera cançó, cantada per [bearface](https://soundcloud.com/helloyesthisisbearface) sempre, que té 5 en el primer, 6 en el segon i 4 en el tercer i últim, tancant el cercle). Però aprofundint-hi una mica també veurem que s’hi tracten temes comuns com la sexualitat, la salut mental,el racisme, sentiment d’alienació, exclusió i incomprensió, i assumptes socials en general. Musicalment també tenen una connexió molt forta: la fórmula BROCKHAMPTON és una barreja d’estils i influències evidents, però sempre prioritzant el bon gust, la creativitat, l’atreviment i la instantaneïtat. 
+
+Així doncs, què és el que té *Saturation II* que el faci una escolta interessant i, diria jo, imprescindible per a qualsevol fan del gènere, li hagi captivat o no *Saturation*? A la segona entrega de la trilogia, els membres de la boyband ja porten un disc amb la mateixa dinàmica, i això es nota en com de bé es relacionen musicalment entre ells. Les tornades, els efectes de veu (un pèl més prominents i repartits al llarg de la tracklist), els versos, els canvis d’instrumentals... tot se succeix orgànicament. Si quedava algun punt d’amateurisme al primer *Saturation*, al segon ja no hi és. Tot plegat sona com una idea executada perfectament de principi a final, amb el seu balanç ideal entre bangers, talls més melòdics, moments agressius i pensaments introspectius. Em podria posar a llistar cançons destacables però és que no acabaria: “GUMMY”, “QUEER” (de les més progressistes sonorament), “JELLO”, “SWAMP”, “CHICK”, “JUNKY” (de les més agressives), “FIGHT”, “SWEET” (dels seus millors singles, amb versos hipermemorables i un beat hipnòtic)… 
+
+A nivell més concret, és admirable la progressió que ha fet el grup quant a producció. El primer àlbum ja tenia beats estranys, alternatius, curiosos —que partien de Pharrell, Tyler, Kanye com a referents més immediats— però el segon ofereix més diversitat d’estils (el punt retro continua sent essencial, i també el de referents, amb talls que recorden a Childish Gambino) i sobretot més profunditat. Hi ha un bon grapat de moments on la creativitat dels instrumentals et distreuen del que està passant líricament, i això diu molt d’un projecte que va arribar pocs mesos més tard que un altre que ja era molt sòlid.
+
+BROCKHAMPTON sempre s’ha caracteritzat per ser un colectiu que idealitza els seus ídols però no precisament per tapar la falta d’innovació i transgressió del seu art, sinó per recontextualitzar-ho (o simplement perquè no ho poden evitar: en el fons es van conèixer en un fòrum de fans de Kanye West). *Saturation II*, com una seqüela feta per fans, agafa el millor del primer i és continuista amb una forma que ja sabem que funciona. Però això no és suficient per seguir sent rellevant en aquesta indústria, i la gent de BROCKHAMPTON ho demostra posant-se a prova a ells mateixos amb un àlbum més complet, més rodat i més refinat. Si quedava algú amb dubtes, poseu-li *Saturation II*.
+
+### 9
+
+<img id="splashFade" src="https://78.media.tumblr.com/6721a3524aa97b53de9a0d6fab29c747/tumblr_p1dkyeumC11u00ofno1_1280.png">

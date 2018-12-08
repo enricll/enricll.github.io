@@ -1,0 +1,19 @@
++++
+date = "2015-07-01T22:00:00+00:00"
+draft = false
+tags = ["música"]
+title = "To Pimp A Butterfly"
++++
+Quan a finals de març em tocava escriure sobre *To Pimp A Butterfly* vaig fer una de les millors decisions dels últims mesos: no escriure’n pràcticament res. Vaig preferir no opinar i equivocar-me, o opinar i repetir el que deien les crítiques, i simplement dir que em semblava un plantejament interessant, frase que pot tenir un “però…” darrere i acabar malament. I ara estic dient que, per mi, és el millor àlbum del que portem del 2015. 
+
+<!-- more -->
+
+No havia escoltat res de Kendrick Lamar abans de posar-me amb *To Pimp A Butterfly* —com en altres casos no és perquè hagués passat d’ell deliveradament, sinó que la meva història amb el hip hop data del setembre del 2014, així que tampoc no n’havia tingut oportunitat. Tot i que és força independent de *good kid, m.A.A.d city*, ara que he escoltat el segon àlbum i part del primer he sabut valorar més i millor què suposa *TPAB* per Kendrick i la seva música.
+
+Fa uns mesos a Twitter deia que no em sentia del tot còmode sentint algunes de les coses que Kendrick explicava en aquest disc. És perquè sóc blanc, i aquest àlbum és negre, des de la portada fins al títol, des dels gèneres musicals —hip hop, soul, funk, jazz, gospel— que barreja fins a les lletres, des de cançons esperançadores com “Alright” o “i” fins a himnes punyents i obscurs com “The Blacker The Berry” o “u”. Aquest LP és un retrat, un retrat d’un món extremadament oposat al que visc, i això no es pot obviar. Quan Kendrick diu “we gon’ be alright” jo sento un “tot sortirà bé” autèntic però genèric, mentre altres sentiran un oasi en un infern de violència i discriminació, com el que vivia el propi Kendrick d’adolescent. Amb tot, aconsegueix transmetre més que molts altres, sense arribar a fer de capellà, exposant els diferents punts de vista i apartant-se de l’equació (“I’m the biggest hypocrite of 2015”).
+
+El disc comença amb una declaració (“Every n— is a star”) i acaba amb una altra (després més sobre això) — entremig hi ha un seguit d’estampes lligades amb un poema que comença amb “I remember you was conflicted, misusing your influence…” i que es va narrant al llarg de tot el disc. Al final o al principi de la majoria de cançons Kendrick diu un o dos versos més del poema, i aquests serveixen d’introducció per a la propera peça. Sembla com si el poema fos la narració i les cançons, escenes o flashbacks. I és per això que sorprèn el final del disc. A l’última pista, “Mortal Man”, de 12 minuts de durada, Kendrick llegeix el poema sencer, i dic “llegeix” perquè descobrim que l’està llegint a Tupac, el famós raper mort, de qui molts diuen que Kendrick és successor. Llegeix el poema i comença una conversa amb Tupac: utilitzant fragments d’una entrevista dels noranta, formula preguntes que hi encaixin — el resultat és una autèntica genialitat. A continuació, i ja per acabar, llegeix un altre poema, aquest cop per explicar el significat del títol, i quan li pregunta l’opinió a Tupac, ell ja no respòn.
+
+No ho negaré. *To Pimp A Butterfly* no és un disc tan immediat com *good kid, m.A.A.d city*, necessita més temps, més anàlisi. Estic escrivint això perquè m’hi veig obligat, però encara no dono per acabat el meu procés amb *TPAB*. Cada cançó té tan de contingut que costa de processar si es vol analitzar, i tinc la sensació que tot i així (si li dediqués tot el temps del món) encara em quedaria una part borrosa, com aquell cartell que pots entendre més o menys sense ulleres perquè saps què hi ha de dir però que realment no has llegit. És la part més profunda, la que connecta música-missatge i oient. Amb tot, la meva visió borrosa de *To Pimp A Butterfly* és esplèndida — i potser millor veure borrós aquest disc que veure’n nítidament d’altres.
+
+### 10

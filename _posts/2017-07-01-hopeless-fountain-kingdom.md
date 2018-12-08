@@ -1,0 +1,21 @@
++++
+date = "2017-07-01T10:20:16+00:00"
+draft = false
+tags = ["música"]
+title = "hopeless fountain kingdom"
++++
+No és cap secret que vaig odiar una mica *Badlands*. El primer disc d’estudi de Halsey (nom artístic de la nord-americana Ashley Nicolette Frangipane) seguia la proposta del seu anterior EP: projecte amb concepte ambiciós darrere però cançons pop que es conformaven amb lletres tòpiques i melodies poc originals. Amb els mesos, vaig arribar a apreciar algunes cançons de *Badlands*, bàsicament perquè van acabar sent enganxoses (des de l’odiada ‘New Americana’ fins a la Taylor Swift-inspirada ‘Colors’), però el contrast entre la idea i l’execució continuava sent imperdonable.
+
+<!-- more -->
+
+Al seu segon àlbum, Halsey canvia d’estètica (i *aesthetics*) i s’apropa una mica més a l’R&B i hip-hop. Els col·laboradors també han patit canvis, i cap a millor: el que més s’ha promocionat és el nom de The Weeknd, que va ajudar a escriure ‘Eyes Closed’, però també hi ha Greg Kurstin (‘Stronger’, ‘Hello’, ‘Chandelier’), Benny Blanco (‘Dynamite’, ‘Love Yourself’, ‘Moves like Jagger’), Cashmere Cat (‘Wolves’, ‘True Colors’, ‘Break The Rules’) i Ricky Reed (‘Bo$$’, ‘No’, ‘Get Ugly’). El resultat és, sorprenentment (però a la vegada gens sorprenentment), molt millor que *Badlands*.
+
+El canvi d’estil dels instrumentals encaixa millor amb la veu de Halsey, tot i que continua fent allò de sobreactuar i sobrecantar les cançons. Les lletres, que s’emmarquen en teoria en una història inspirada narrativament i estèticament en el *Romeo + Juliet* de Bad Luhrmann, no han canviat gaire quant a qualitat. Per cada línia inspirada (la majoria recollides a la balada ‘Sorry’, per ser sincer) n’hi ha dues de genèriques i una d’horrorosa (encara estic decidint si “I gave you the messiest head / You give me the messiest head” és icònica o còmica – potser les dues). On està la millora, doncs? En la cosa més important del pop: en les melodies. Poques cançons tenen la sensació de “filler” que sí que tenien la majoria de *Badlands*: hi ha diversitat i ganes de fer coses diferents —no innovadores, però sí diferents—, i tot plegat és especialment enganxós. Els singles són un bon punt de partida per comprovar-ho, però dins del disc hi ha més joies: ‘100 Letters’, la mencionada ‘Sorry’, ‘Devil In Me’, ‘Bad At Love’ i ‘Hopeless’, per posar uns exemples. 
+
+*hopeless fountain kingdom* no és perfecte. Com comentava abans, les lletres continuen sent el punt feble de Halsey, i és una pena perquè es nota que ella continua esforçant-se per crear universos i narratives on els seus fans puguin submergir-se i d’alguna manera sentir-se part de l’experiència. Amb un disc ple de cançons pop bones com aquest, ja no hi ha cap necessitat de maquillar-ho amb conceptes rebuscats, però Halsey ho continua fent. El problema és que això fa que vulguis prestar atenció a les lletres i t’adonis que són... mediocres. Més concreció en la narrativa i una mica d’ajuda externa li anirien bé
+
+I és que en el fons desitjo completament que Halsey acabi sent l’artista que ella creu que ja és. Ara mateix hi ha molt poca gent com ella fent música amb aquest nivell de popularitat (‘Now Or Never’ ha arribat al número 20 de la Billboard Hot 100, una notícia admirable tenint en compte el clima hostil cap a les popstars femenines que es respira recentment a la llista nord-americana). Començar a treure etiquetes no agrada a tothom, ho entenc, però s’ha de fer: necessitem més artistes, dones, feministes, bisexuals, bipolars, que parlen obertament de depressió, d’haver perdut un fill accidentalment, que critiquen les seves contemporànies quan creuen que [s’han apropiat d’una cultura pel seu propi benefici econòmic]( https://www.theguardian.com/music/2017/jun/22/halsey-you-can-be-homeless-and-a-one-direction-fan-at-the-same-time) o [d’una sexualitat per ser més guais]( http://www.papermag.com/halsey-unfiltered-unafraid-and-out-of-this-world-2437563702.html), i que ho posen a la seva música i al seu art en general. La progressió en tots aquests temes per fi s’ha ajuntat amb una progressió musical, i no puc estar-ne més satisfet.
+
+### 7
+
+<img id="splashFade" src="https://68.media.tumblr.com/e663e4005ae3280089fb2bed61df74b0/tumblr_ot8pcunpvJ1u00ofno2_1280.png">

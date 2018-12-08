@@ -1,0 +1,17 @@
++++
+date = "2018-03-12T10:59:26+00:00"
+draft = false
+tags = ["música"]
+title = "Heavy Rules Mixtape"
++++
+Si heu mantingut una conversa amb mi sobre pop escandinau en els darrers dos anys, és molt difícil que no hagi mencionat el nom d’ALMA. La finlandesa (una de les poques *popstars* actuals d’aquest país) em va captivar des del seu primer single, la impressionant “Karma”. El seu bon gust pel tropical pop addictiu es va estendre a senzills posteriors, com “Dye My Hair” o “Chasing Highs”. Fins i tot a la col·laboració amb Felix Jaehn (“Bonfire”), les melodies d’ALMA s’emportaven el protagonisme i sonaven sorprenentment seves i úniques. El seu so ve molt marcat per la veu greu i potent que té, que li ha guanyat comparacions amb artistes com Adele, però la sensibilitat pop que demostren les seves composicions l’ha portat a escriure amb gent com Charli XCX i Noonie Bao. Ara, seguint una mica el model de la primera, ha llançat el seu primer mixtape, una col·lecció de 6 cançons completament noves que demostren que ALMA és el futur (o un dels futurs) del pop del nord.
+
+<!-- more -->
+
+*Mixtape* comença amb “Legend”, un dels talls més explosius de tota la cinta. Utilitza el típic beat tipus DJ Mustard, li afegeix guitarres distorsionades i ho acompanya amb una melodia hiper enganxosa (des del *verse*, fins al *chorus* “I fuck it up, been up all night / But I feel like a legend” i el *post-chorus* “Legend for life, legend for life / I got it, I got it, I got it right”). Destaca per ser sonorament diferent a la resta, però aporta l’energia necessària per començar bé el mixtape.
+
+A “Legend” li segueixen dues col·laboracions: la primera (“Dance For Me”) amb MØ i la segona (“Good Vibes”) amb Tove Styrke —totes dues popstars escandinaves i grans compositores. ALMA les porta al terreny del tropical pop, i Tove es perd una mica —tot i que estic segur que gran part de la màgia melòdica (el bridge!!) de la cançó és seva— mentre que MØ ens dóna una de les seves millors *features* recents. A diferència del que feia la seva contemporània i amiga Charli XCX a *Pop 2*, les col·laboracions que té ALMA al mixtape són només per posar noms coneguts a la *tracklist*, i donar una mica de dinamisme, però en cap cas li prenen el protagonisme ni revolucionen la cançó. 
+
+Després de “Good Vibes”, hi ha un parell de pistes més tranquil·les, potser més *dreamy* fins i tot. Parlo de “Fake Gucci” —especialment enginyosa la tornada— i “BACK2U”, una semibalada molt enganxosa. Les dues ens ensenyen una cara més dolça i menys abresiva d’ALMA, la qual cosa es contrasta amb la darrera de *Heavy Rules*: la col·laboració amb Kiiara “Chit Chat”. Instrumentalment és diferent del que hem sentit anteriorment, tendint més a una mena de house que sorprenentment encaixa molt bé amb l’estil i veu d’ALMA. La tornada la fa sonar a èxit en potència, i Kiiara, a qui hem perdut una mica la pista des del llançament del seu EP fa un parell d’anys, sona especialment bé al segon verse. “Chit Chat”, doncs, fa acabar el mixtape amb un cop sobre la taula necessari que fa venir ganes d’escoltar-lo una vegada més, i una altra, i una altra. ALMA ha aconseguit en sis cançons passar de ser una estrella potencial a una estrella en procés. Si l’àlbum ha de ser igual de bo que *Heavy Rules*, no sé si tindrà gaire sentit fer llistes de millors àlbums pop d’aquell any. 
+
+### 8

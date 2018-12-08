@@ -1,0 +1,15 @@
++++
+date = "2016-04-09T17:48:28+00:00"
+draft = false
+tags = ["música"]
+title = "Mind of Mine"
++++
+Intentaré ser menys avorrit amb aquest article que Zayn amb el seu àlbum debut, titulat molt correctament *Mind of Mine* en un acte d’esforç per escriure’l amb les majúscules adequades — [la tracklist](https://i.embed.ly/1/image?url=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F12144100_572571126242330_81981737_n.jpg%3Fig_cache_key%3DMTIwMDgwNzUxMDUxOTc1MjM2OQ%253D%253D.2&key=ee8455290d984b30859308ec0b4d701f) és una aberració que supera la rebel·lió per situar-se directament en el mal gust. 
+
+<!-- more -->
+
+A *Mind of Mine* Zayn combina els trets característics de l’R&B contemporani i alternatiu —Miguel, Jeremih, The Weeknd i Frank Ocean bàsicament— amb la «sensitivitat» pop que havia desenvolupat a One Direction —i escoltant molt Justin Timberlake, afegiria jo. El resultat és profundament avorrit. Per començar, excloem de l’equació la part que *funciona*, per exemple la producció, que no destaca però tampoc desentona, i la seva veu, que com ja sabíem els que som fans de la boy-band és prou decent per sustentar les cançons més emotives del disc (destaca la balada amb piano «Fool For You»). El problema aquí, doncs, és una falta greu d’idees originals i una mala execució de les que ja existeixen; les lletres —el noranta per cent de les vegades sobre relacions amb la profunditat emocional d’un noi de setze anys que ha deixat de ser verge i ha descobert els porros— són terribles; la composició musical és igual de pobra, rarament interessant o enganxosa — «She» i «Tio» són les que més s’hi acosten, si pots aguantar (o si t’interessen) les interioritats de les relacions passionals de Zayn. Els intents, poc afortunats, de fer un disc un pèl més alternatiu —l’interludi en urdú «Flower» n’és una mostra— queden maquillats amb bangers de discoteca com «Like I Would» (clarament buscant l’efecte «Can’t Feel My Face» + «Sorry») i peces d’R&B eteri del 2015 com «Wrong» —l’única feature del disc queda destrossada pels efectes sobre la veu de Kehlani. 
+
+En general, *Mind of Mine* és un disc que poc intenta i aconsegueix encara menys. Que els seus moments més inspirats siguin reformulacions pop de cançons que ja havíem sentit anteriorment diu molt de l’intent d’artista R&B a què aspira convertir-se (o ser) Zayn. En una entrevista fa uns mesos el britànic deia que el seu objectiu fora de One Direction era fer cançons guais: «If I was sat at a dinner date with a girl, I would play some cool shit, you know what I mean? I want to make music that I think is cool shit». I en certa mesura ho ha aconseguit, veig algunes de les cançons de *Mind of Mine* sonant de fons en una cita mentre la parella fa coses més interessants que escoltar Zayn parlar sobre treure’s la roba. Si aquesta era la seva gran ambició amb un disc de 59 minuts, guai, o com diria ell «cOoL».
+
+### 5

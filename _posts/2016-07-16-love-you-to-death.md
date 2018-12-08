@@ -1,0 +1,18 @@
++++
+date = "2016-07-16T18:37:18+00:00"
+draft = false
+tags = ["música"]
+title = "Love You To Death"
++++
+M'encanten els àlbums curts. No negaré que les raons darrere aquesta afirmació són poc romàntiques i, segurament, poc sanes. M’agrada escoltar un disc curt perquè visc en un món d’hipervelocitat. Vull la satisfacció d’escoltar un disc de principi a final, perquè la sensació d’haver acabat de fer una cosa en temps de *deadlines* i estrès és massa preable per no estendre-la *també* a la música. Però per altra vegada tinc poc temps, o simplement crec que tinc poc temps, o (encara més) simplement vull tenir la sensació d’haver acabat una cosa moltes vegades, i com menys trigui realment a acabar-les, més cops la podré experimentar. Per això m’encanten els àlbums curts, crec. Són dosis instantànies de satisfacció a curt termini. Ara, si els àlbums curts són, a més, bons, la satisfacció és doble, i fins i tot pot ser a mitjà termini. Per això m’encanten els àlbums curts bons, crec. I, suposo, que per això m’encanta *Love You To Death*. 
+
+<!-- more -->
+
+Però probablement també perquè és pura perfecció pop. Tot i que bona part de la carrera del duo canadenc Tegan and Sara s'ha centrat en l’indie rock i el pop punk, el 2013 van treure el disc *Heartthrob*. Gràcies a la producció indie/synth pop de Greg Kurstin i companyia, les cançons de Tegan and Sara sonaven més transparents que mai, i per primer cop la possibilitat d'arribar a un públic molt més ampli era quelcom materialitzable. A *Love You To Death*, un projecte de deu cançons i poc més de mitja hora de durada, el duo recupera la premissa i la reforça. La instrumentació a base de sintetitzadors melancòlics d'èpoques passades deixa respirar la tècnica magistral amb què Tegan and Sara componen les seves cançons. L’economia del llenguatge s'adapta perfectament al gènere del pop, on cada segon i cada línia compta, i Tegan and Sara són tecnòcrates en aquest món. La tornada de «Boyfriend» és el millor exemple de tot el disc. «You treat me like your boyfriend
+/ And trust me like a... like a very best friend / You kiss me like your boyfriend / You call me up like you want your best friend / You turn me on like you want your boyfriend / But I don't want to be your secret anymore». A part de ser irresistiblement enganxosa, la tornada d’aquesta cançó és intel·ligent i complexa. Juga amb les expectatives de l'oient i les capgira, tot plegat sense deixar de ballar. Necessitem més cançons sobre amor LGBT+ sonant a la ràdio, i si són tan bones i llestes com «Boyfriend» encara millor. Les relacions personals són, efectivament, el centre temàtic de les cançons, però fins i tot quan aquestes històries podrien semblar més tòpiques o habituals, Tegan and Sara troben formes per fer-les interessants. Un exemple és l'acústica «100x», que destaca dins del context del disc però alhora serveix per realçar la veu del duo, tant literal com metafòrica, ja que la cançó adreça els moments de mala relació que van experimentar les dues germanes fa uns anys. L’habilitat de Tegan and Sara per descriure sentiments d’alguna forma em recorda a la perfecció meticulosa i freda de Pusha T rapejant sobre droga — ho porten fent tota la vida, però continuen sent rellevants i envejables, encara que sigui només per la pura habilitat tècnica (no per això menys creativa) que demostren. 
+
+A *Love You To Death* véns per les tornades enganxoses, plenes de vitalitat i ganes d’entretenir-te, però et quedes per la personalitat i maduresa de les lletres. Si alguna cosa podria definir el pop, és això.
+
+### 9
+
+<img id="splashFade" src="https://67.media.tumblr.com/18bc50ad986913c293ecd7254d2d39ba/tumblr_oaf7wgjgWs1u00ofno1_1280.jpg">

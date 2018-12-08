@@ -1,0 +1,10 @@
++++
+date = "2013-01-11T23:00:00+00:00"
+draft = false
+tags = ["lectura"]
+title = "El nou Gizmodo en espanyol"
++++
+Fins ara, NetMediaEurope s'encarregava de la gestió de la versió en llengua espanyola del popular web sobre tecnologia, internet i coses geeks Gizmodo. I es veu que Gawker, la responsable de la versió original (l'americana) de Gizmodo ha decidit portar el desenvolupament d'aquesta versió a Nova York, on, des de les oficines de Gawker als Estats Units, coordinaran el projecte. Els redactors de l'anterior Gizmodo en espanyol van escriure aquesta nota al portal hores abans del llançament del nou web, [diu així][1]. He hagut de produir jo un document perquè pugueu llegir aquest article d'acomiadament ja que quan Gawker va estrenar la nova pàgina web va eliminar tots els articles anteriors, inclòs el d'acomiadament publicat unes hores abans. La veritat és que jo mai he sigut un seguidor de Gizmodo. De fet, quasi mai hi entrava. En part perquè el disseny era extremadament antiquat i horrible. Però tampoc ho sóc de la versió americana,  tot i tenir una aparença acceptable no m'agraden gens el tipus de continguts. No sóc el seu *target*, ja ho veig, però sincerament, no m'agrada. Per la nova versió espanyola han fitxat a Manuel Ángel Méndez (que continua escrivint al seu bloc de tecnologia dins d'el País) com a editor principal. A més, [estrenen un nou disseny][2] que segons he llegit serà el que utilitzaran tots o la gran majoria de mitjans de Gawker en els propers mesos. I sí, és responsive. També han presentat 'Kinja', una plataforma de blogging + comentari que segons ells suposa una gran evolució - tot i que a mi no m'ho ha semblat gaire. En general el canvi és cap a (molt) millor. El nou disseny és realment fantàstic i els continguts són bons. De fet, espero que no canviïn ja que de moment no té res a veure amb la versió americana: són seriosos però amables, sense entrar en demagògies ni populismes (ehem titulars per cridar l'atenció ehem). Benvingut Gizmodo!
+
+ [1]: http://pastebin.com/zxWxG4Js
+ [2]: http://es.gizmodo.com/1388890

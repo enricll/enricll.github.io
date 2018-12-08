@@ -1,0 +1,21 @@
++++
+date = "2017-08-23T16:59:23+00:00"
+draft = false
+tags = ["música"]
+title = "Saturation"
++++
+L’any passat vaig col·locar a la llista de [“Millors albums del 2016”](http://enricllonch.com/post/155206794384/els-40-àlbums-del-2016) el disc de Kevin Abstract, [*American Boyfriend: A Suburban Love Story*](https://www.youtube.com/watch?v=dJarpbuXxDU). Abstract, cantant i raper, lidera la “boy band” BROCKHAMPTON, un col·lectiu de 15 membres, entre els quals hi ha altres rapers i cantants, però també dissenyadors gràfics, productors musicals i mànagers. El grup va començar al 2015 amb un grapat de singles solts. Uns mesos abans del llançament d’*American Boyfriend*, BROCKHAMPTON va treure el seu mixtape debut, titulat [*All-American Trash*](https://www.youtube.com/watch?v=fluhzuZ0S04). Tot i que alguns dels membres ja demostraven talent allà, hi faltava el component de química de grup que *Saturation*, el primer àlbum de la banda, sí que té. 
+
+<!-- more -->
+
+Acompanyats de [videoclips auto-produïts](https://www.youtube.com/user/ALlVESINCEFOREVER), que juguen molt creativament amb un pressupost limitat, els singles de *Saturation* van captar per primer cop l’atenció d’un públic que s’estenia més enllà dels hard-core fans. Al disc, senzills com l’explosiu [“HEAT”](https://www.youtube.com/watch?v=Jpu0JZxDz-w) comparteixen espai amb talls més relaxats i enganxosos com [“GOLD”](https://www.youtube.com/watch?v=n_ZRRlVDVa8), construint una fórmula marcada però diversa. Els integrants de BROCKHAMPTON rapegen un rere l’altre sobre els instrumentals, amb versos que exploren diversos estils de hip-hop contemporani, jugant amb l’autotune o la distorsió de la veu quan cal i atrevint-se amb gèneres com l’[R&B de tant en tant](https://www.youtube.com/watch?v=_nWYiEq4wd0). Els beats sonen moderns i treballats però a la vegada funcionen d’una manera molt clàssica, servint com a base pura per als raps. 
+
+El que converteix *Saturation* en un àlbum remarcable és la química entre els seus integrants, com cada vers reforça la idea temàtica que s’amaga rere cada cançó (i cada títol). Tot i tenir estils sonors i lírics diferents, els membres de BROCKHAMPTON —alguns dels més destacats són Ameer, Merlyn, Matt Champion o Kevin Abstract [^1]— troben punts en comú en temes com el sentiment d’alienació, les dificultats de la joventut o simplement referències de la cultura popular. Escoltant el disc em sento com si fos un membre més d’aquest grup d’amics, que s’accepta tal com és, tots i els defectes, tot i les dificultats. Pot semblar cursi, però és una sensació que moltes de les “boybands” autèntiques —és a dir, manufacturades— que referencien BROCKHAMPTON justament no tenen. El disc es va fer amb tres setmanes, i tot i que la qualitat no se’n resent per això, la sensació de perfecta imperfecció —d’amateurisme professional— és indubtable, i li dóna un caràcter de proximitat a tota la música. Mescla-ho amb tocs de [queerness](https://www.youtube.com/watch?v=PMZZUyos1kI), amor perdut i progressió  personal i tens un disc que toca una generació concreta d’una forma molt directa.
+
+*Saturation*, que tindrà properament [una seqüela](https://www.youtube.com/watch?v=vWhPimx07H0) —i aparentment també [una tercera part](https://www.youtube.com/watch?v=lu3mIerRJlI), que tancarà la trilogia d’àlbums—, demostra que en el cas de BROCKHAMPTON la unió fa la força. Una carta de presentació excel·lent per a tothom que vulgui entrar al món d’una de les “boy bands” més interessants de l’actualitat. 
+
+### 8+
+
+[^1]: A *Saturation* els meus preferits són Joba i Kevin. El primer té pocs fans, però apareix múltiples cops al disc i crea melodies addictives a la vegada que estranyes (la tornada de “FACE” és 10/10). M’alegro que amb la campanya de singles de *Saturation II* estigui guanyant més protagonisme als vídeos. Juntament amb Bearface, són els que tenen més potencial fora de l’estil de la trilogia d’àlbums de BROCKHAMPTON.
+
+<img id="splashFade" src="https://68.media.tumblr.com/fa25e7c3dbe387a805c26f735a5beb81/tumblr_ovjo43sSwm1u00ofno3_1280.jpg">

@@ -1,0 +1,42 @@
++++
+date = "2015-06-22T17:30:31+00:00"
+draft = false
+tags = ["Redemption", "sèries", "música"]
+title = "Redemption: Juny 2015"
++++
+
+Aquest mes he estat enfeinat amb la Selectivitat, per&ograve; per fi s&oacute;c &laquo;lliure&raquo; i aquest &eacute;s el meu Redemption.
+
+<!-- more -->
+
+<img class="pImageFull" src="https://40.media.tumblr.com/a8da0573cdc0950cb0fb2a948ae43b2a/tumblr_nqcwkmuaxF1u00ofno1_540.jpg">
+
+### Phoebe Ryan
+
+Quan vaig con&egrave;ixer Phoebe Ryan ella ja tenia tres can&ccedil;ons a Spotify &mdash; b&eacute;, quatre. Ara en t&eacute; cinc, ha publicat el seu primer EP, ha firmat amb discogr&agrave;fiques i VEVO i est&agrave; col&middot;laborant amb altres artistes com James Young. Est&agrave; en l'inici de la seva carrera musical. 
+
+L'EP *Mine* &eacute;s la recopilaci&oacute; de la feina de Phoebe Ryan dels &uacute;ltims anys i malgrat no aporta res com a projecte nou, &eacute;s la primera feina comercial de l'artista i la que li permetr&agrave; vendre's de cara a projectes m&eacute;s complets. 
+
+La can&ccedil;&oacute; que d&oacute;na t&iacute;tol a l'EP la trobarem per partida doble gr&agrave;cies a un remix electr&ograve;nic amb un verse del raper Skizzy Mars que s'afegeix a la versi&oacute; individual de Phoebe Ryan. &Eacute;s la can&ccedil;&oacute; que m&eacute;s &egrave;xit li ha donat i un exemple clar de l'estil Phoebe. La cantant presumeix de veu, &eacute;s una de les m&eacute;s sexy del moment (escolteu el mash-up &laquo;Ignition / Do you...&raquo; per exemple), racionada a bocades d'aire curtes, com fa Taylor Swift a &laquo;Blank Space&raquo;. Les lletres s&oacute;n prou correctes &mdash;en tenim poques per poder-les jutjar m&eacute;s enll&agrave;&mdash; i parlen de la seva incapacitat per tirar endavant relacions (&laquo;I've been a wreck, took things too far / Made a mess, felt like a star / I've broken hearts and goddamn I slept the same / I'm not a saint, no, I'm not a saint&raquo; i &laquo;I tell them, &ldquo;Oh I'm not the girlfriend type&rdquo; / Cause I can't promise I will never / Act that way, like never again / Hurtin' so many gentlemen&raquo;) i poca cosa m&eacute;s de moment. Per&ograve; per damunt de tot Pheobe t&eacute; tornades molt ben pensades i tancades, hiperenganxoses. S&oacute;n can&ccedil;ons de posar una vegada i una altra perqu&egrave; sense rec&oacute;rrer als t&ograve;pics musicals del top 40 del pop saben enganxar sense fer-te sentir malament. Un LP de Phoebe Ryan pot ser l'epil&egrave;psia si aconsegueix fer un *1989* i no ha de posar can&ccedil;ons menys inspirades. &Eacute;s un dels millors motius per resar dels &uacute;ltims anys. 
+
+<span class="fa fa-heart"> </span> <span class="fa fa-heart"> </span> <span class="fa fa-heart"> </span> <span class="fa fa-heart"> </span>
+
+<img class="pImageFull" src="https://40.media.tumblr.com/3bfa3668feaa5df635d44ad7181ce41b/tumblr_nqcwdtjXRO1u00ofno1_1280.jpg">
+
+### Daredevil, Temporada 1
+
+Mentre estava mirant [la primera temporada de *The Flash* (The CW)](http://enricllonch.com/post/120035419359/redemption-maig-del-2015) tamb&eacute; estava mirant la primera de Daredevil, una producci&oacute; conjunta de Marvel i Netflix (ABC Studios pel mig) que d&oacute;na vida al superheroi cec, expert en arts marcials, amb sentits s&uacute;per desenvolupats, que treballa d'advocat durant el dia, per fer de justicier a la nit. Tot i que m'hauria agradat que aquesta doble vida s'hagu&eacute;s desenvolupat m&eacute;s, *Daredevil* juga amb el fet de ser una s&egrave;rie de Netflix &mdash;es pot veure tota de cop des del primer dia&mdash; per presentar un ritme argumental m&eacute;s canviant i irregular. Aix&ograve; significa episodis molt fren&egrave;tics i altres de m&eacute;s tranquils (no necess&agrave;riament dolents), la qual cosa no ha acabat de conv&egrave;ncer a tothom, sobretot de cara al final. A part d'aix&ograve;, escenes d'acci&oacute; genials, una est&egrave;tica prou aconseguida i innovadora per ser una s&egrave;rie de superherois &mdash;m&eacute;s fosca que *The Dark Knight*&mdash; i bons actors. A mi m'ha semblat una s&egrave;rie &mdash;aix&iacute;, en general&mdash; molt agradable de veure i sempre interessant, gr&agrave;cies a un protagonista totalment desconegut inicialment per mi i un malvat que es converteix en l'aut&egrave;ntic protagonista d'una s&egrave;rie que aconsegueix allunyar-te de la figura de l'heroi per acostar-te a la del dolent.
+
+<img class="pImageFull" src="https://41.media.tumblr.com/740e5accb7a15e2cffb8fb91dfb6b7de/tumblr_nqcw3bq2ta1s4fsg1o1_1280.jpg">
+
+### Sense8, Temporada 1
+
+Una altra s&egrave;rie de Netflix, que &mdash;aquest cop s&iacute;&mdash; vaig veure en un parell o tres de dies i perqu&egrave; me la vaig raccionar. Producci&oacute; dels germans Wachowski &mdash;fet totalment irrellevant per mi&mdash; amb una premisa que, lamentablement, poques vegades es veu superada per la seva execuci&oacute; a la s&egrave;rie: vuit persones d'arreu del m&oacute;n s&oacute;n connectades mentalment, compartint pensaments, sentiments, sensacions. Aquesta connexi&oacute; els agermana contra els dolents, els quals volen preservar l'esp&egrave;cie humana tal com &eacute;s, sense aquestes alteracions. Els vuits protagonistes viuen a llocs molt diferents (Isl&agrave;ndia/Londres, Nairobi, Se&uuml;l, San Francisco, Mumbai, Ciutat de M&egrave;xic, Berl&iacute;n, Chicago), la qual cosa proporciona un recurs visual bell&iacute;ssim que la s&egrave;rie aprofita molt b&eacute;. La trama avan&ccedil;a amb una tranquilitat sorprenent durant tota la s&egrave;rie, amb un balan&ccedil; bastant descompensat (per&ograve; per mi positiu) cap a la hist&ograve;ria personal de cada un... per&ograve;, ho he de dir, hi ha moments d'absolut&iacute;ssima conya, sobretot els relacionats amb el personaje del Lito. M'he arribat a plantejar si estan fets expressament perqu&egrave; &eacute;s tan clar que queden fora de lloc, com de com&egrave;dia de The CW, que dubto que no ho veiessin. He rigut, de vergonya aliena, per&ograve; tamb&eacute; he plorat per les hist&ograve;ries dels personatges. Les situacions personals tan distintes per&ograve; a la vegada extrapolables &mdash;els protagonistes s'ajuden per solucionar-les&mdash; donen &agrave;nima a una s&egrave;rie que aconsegueix col&middot;locar la diversitat com al seu gran valor (una dona transexual, un noi negre, un actor homosexual a l'armari amb tocs d'homof&ograve;bia interior, una dona coreana, etc.). Nom&eacute;s em puc alegrar de la quantitat enorme de persones que veur&agrave; una s&egrave;rie d'aquest tipus &mdash;la forma en qu&egrave; tracten els temes &eacute;s de les m&eacute;s perfectes que he vist en qualsevol s&egrave;rie de televisi&oacute;&mdash; per altres motius &mdash;els Wachowski, la ci&egrave;ncia ficci&oacute;, Netflix, que est&agrave; de moda...&mdash; i que, estant m&eacute;s o menys familiaritzats amb els temes, estant m&eacute;s o menys d'acord amb els arguments que s'hi fan, descobriran altres maneres de veure el m&oacute;n que potser mai s'havien plantejat. Una mica com els passa als protagonistes.
+
+<a href="http://lvrtr.tumblr.com/post/120045541943/at-long-last-a-ap-alla-cover-made-by-me"><img class="pImageFull" src="https://41.media.tumblr.com/82156f34f2356f5cec3226844bc75a30/tumblr_nqcwdtjXRO1u00ofno2_1280.jpg"></a>
+
+### Altres
+
+Com deia al principi, aquest mes no he pogut fer tot el que he volgut perqu&egrave; entre selectivitat, estudi, festes i coses el temps vola, per&ograve; he escoltat una mica d'aqu&iacute; i d'all&agrave;: *At Long Last A$AP* d'A$AP Rocky &mdash;cap meravella per&ograve; bon disc per tenir de fons sense pretensi&oacute;; em va sorprendre el bridge de [&laquo;LSD&raquo;](https://www.youtube.com/watch?v=yEG2VTHS9yg)&mdash;, &laquo;In Colour&raquo; de Jamie xx &mdash;irregular, amb algunes peces molt guais i d'altres molt m&eacute;s normaletes; em va agradar [&laquo;Loud Places&raquo;](https://www.youtube.com/watch?v=TP9luRtEqjc) i el sorprenent [&laquo;I Know There's Gonna Be (Good Times)&raquo;](https://www.youtube.com/watch?v=IkUKFdacHvo) amb Young Thug&mdash;, i alguna coseta m&eacute;s que trobareu [a la meva playlist de juny](https://open.spotify.com/user/enricllonch/playlist/6Pq1qh9LqbR518Ab4w5DHw).
+
+<img id="splashFade" src="http://i.imgur.com/kCFBJdm.jpg">

@@ -1,0 +1,15 @@
++++
+date = "2018-04-25T12:48:50+00:00"
+draft = false
+tags = ["música"]
+title = "When My Heart Felt Volcanic"
++++
+[Des del seu primer single](http://enricllonch.com/post/162233486164/i-dont-like-being-honest) com a “The Aces”, la banda —formada per quatre noies que es van conèixer a l’institut— ha anat forjant el que aquest mes va esdevenir el seu àlbum debut. De fet, una versió retocada d’”Stuck” és la cançó que obre el seu disc, encetant aquests tres quarts d’hora de melodies hiperenganxoses acompanyades de _basslines_ ballables que no s’acaben mai.<!-- more -->
+
+A _When My Heart Felt Volcanic_ The Aces han treballat amb productors externs com Dan Nigro ([“When I Needed You”](http://enricllonch.com/post/128098849359/emotion)), Elof Loelv (“All Night” d’Icona Pop, tot el nou disc de Tove Styrke) o Greg Wells (“Garden” de [Dua Lipa](http://enricllonch.com/post/161733353139/dua-lipa), “Grace Kelly” de MIKA), però això no significa que les seves influències siguin evidents. Tot el contrari: el disc és homogeni i cohesiu, recordant-nos al també fantàstic debut de HAIM. Texturalment, però, la música de The Aces és un pèl més densa i sòlida, amb ritmes més estables i menys canvis d’instruments. Si us va agradar el que l’any passat [va fer Paramore amb el seu nou disc](http://enricllonch.com/post/163637704879/after-laughter), li heu de donar una oportunitat al de The Aces.
+
+La banda aprofita el format d’àlbum per incloure també tres o quatre talls que es distancien una mica del seu so més característic. La balada a piano “Hurricane” no sacrifica ser _catchy_ a l’hora de ser emocional, “Put It on the Line” és de les que té una estructura més peculiar i propulsora, mentre que el tancament de “Waiting for You” és immaculat i obre un camí _mid-tempo_ que ajudaria a diferenciar-se el grup d’altres projectes que fan música similar ara mateix. Tot i les comparacions, però, és innegable que The Aces respiren l’estil que practiquen: l’inici del disc és particularment energètic, amb algunes de les millors cançons de la seva breu carrera: “Fake Nice”, “Lovin’ Is Bible”, “Just Like That”... A la part central les peces potser necessiten més matisos, però no n’hi ha una que vulgui passar quan l’escolto.
+
+L’àlbum debut de The Aces és una prova més de la solidesa i talent d’aquest grup. És tan bo que m’ha fet repensar com veig [el disc que HAIM va treure l’any passat](http://enricllonch.com/post/163297831944/something-to-tell-you). Aleshores el vaig criticar per ser pitjor que _Days Are Gone_, però també hi havia una mica de “no han fet el mateix que van fer al primer àlbum i això em molesta”. Ara que The Aces han vingut per omplir el buit que HAIM va deixar amb _Something To Tell You_, m’he pogut acostar al _sophomore_ de les tres germanes amb una perspectiva diferent, més apreciativa pel canvi, sense les pressions d’haver-me de donar una cosa en particular. Fins i tot en això són bones The Aces.
+
+### 8

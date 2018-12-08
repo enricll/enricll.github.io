@@ -1,0 +1,19 @@
++++
+date = "2017-02-10T09:52:09+00:00"
+draft = false
+tags = ["música"]
+title = "SweetSexySavage"
++++
+Tot i que *SweetSexySavage* sigui, oficialment, l’àlbum debut de la cantant d’R&B Kehlani, el seu segon mixtape, titulat *You Should Be Here* va ser per a molts la seva carta de presentació al públic general. [En el seu moment](http://enricllonch.com/post/135632908054/els-20-àlbums-del-2015) —fa dos anys— em va agradar moltíssim, per com presentava una “història de reflexió personal i relacions fallides, explicada en primera persona amb melodies atrapants i producció d’escoltar al cotxe amb el volum al màxim creuant la costa oest”. Aquell projecte no acabava de perfilar del tot el que era el “so Kehlani”, però posava sobre la taula els ingredients d’una massa versàtil, tendre i interessant. 
+
+<!-- more -->
+
+*SweetSexySavage* és, en part, l’àlbum que podíem esperar de Kehlani al 2017. Sobta a primer cop d’ull que sigui tan llarg: disset cançons (setze més una intro d’un minut amb un poema fantàstic de Reyna Biddy) i dues bonus track (la darrera, l’exitós single que la cantant va fer per a la banda sonora de *Suicide Squad*). Tot i que pràcticament totes les cançons se situen als 3 minuts i escaig de durada, *SweetSexySavage* es fa llarg, i no puc evitar col·locar-lo al mateix calaix que *Views*, *Pablo* o *Starboy* per voler rendibilitzar les reproduccions als serveis d’streaming col·locant més i més cançons —sens dubte, no totes necessàries i igual de bones. També sobta que, sent aquest el debut comercial de Kehlani (Atlantic Music), la tracklist no contingui ni una feature. A *You Should Be Here* alguns dels millors moments venien quan Kehlani treballava amb artistes com Chance the Rapper o BJ The Chicago Kid, i al nou disc esperava col·laboracions d’almenys el mateix nivell. Amb tot, és francament admirable publicar al 2017 amb ambicions comercials un àlbum d’R&B tan llarg i sense ni una feature per poder fer-lo més atractiu a la ràdio. 
+
+El dubte, doncs, és si Kehlani pot mantenir la nostra atenció ella sola durant tres quarts d’hora. Bé, ella i la producció que l’acompanya. Per a *SweetSexySavage*, la d’Oakland no ha canviat gaire d’equip tècnic, i continua treballant amb un conjunt de productors força reduït i que ja són habituals: Pop & Oak, Charlie Heat (una de les revelacions de l’any passat, força increïble), Novawav, Rigo, The Featherstones, etc. El resultat és un disc sonorament coherent, que barreja frescor amb nostàlgia (està ple de samples d’Aaliyah), però que en ocasions pot acabar sonant poc divers —tot i no ser en cap moment excessivament genèric, només tres o quatre cançons tenen un instrumental memorable i reconeixible un cop acabem tot el disc. En aquest sentit, és inevitable somiar en un disc de Kehlani més concís i amb instrumentals més ambiciosos i distintius.
+
+L’altra part de l’equació tampoc ens porta gaires novetats. Kehlani continua sent una cantant més que capable, i les seves lletres —que en molt pocs moments toquen el tema de la salut mental, tot i l’intent de suïcidi de la cantant l’any passat— són refrescants dins del gènere per la seva visió gens egoïsta i humil de les relacions amoroses. Aquest segueix sent, doncs, el punt més fort de Kehlani: la seva perspectiva honesta i femenina en un gènere amb desenes i desenes de clons de Drake i clons de The Weeknd (dos tipus d’home/personatge que, sincerament, ja hem sentit massa cops). Tot i que la resta no sigui tan trencadora i atrevida com m’agradaria, *SweetSexySavage* és un bon disc gràcies a la personalitat i carisma de Kehlani. Només queda esperar que el públic el rebi com es mereix.
+
+### 7
+
+<img id="splashFade" src="https://68.media.tumblr.com/f3ddcc39616a0673851f075112721d9d/tumblr_ol5lebqnL11u00ofno2_1280.png">
