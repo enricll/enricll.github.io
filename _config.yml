@@ -4,7 +4,7 @@ description: Un blog personal força impersonal.
 url: http://enricll.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
+permalink: title/
 
 markdown: kramdown
 highlighter: rouge
