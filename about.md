@@ -15,6 +15,5 @@ title: About Long Haul
 
 	<ul><li><a href="https://medium.com/this-will-be-me/cant-stop-the-feeling-is-the-best-generic-pop-hit-of-2016-e5ed5d3de8e5#.qjbcmw6di">Why “Can’t Stop The Feeling!” Is The Best Generic Pop Hit Of 2016</a></li>
 	<li><a href="https://medium.com/@enricll/this-is-the-best-nicki-minaj-song-e731a9b177b5#.40f3v8dw9">The Best Nicki Minaj Song</a></li>
-	<li><a href="https://medium.com/cuepoint-es/por-qu%C3%A9-la-m%C3%BAsica-pop-conecta-contigo-aunque-no-hables-ingl%C3%A9s-9b189daca6b1#.887xbp2yz">Por qué la música pop conecta contigo aunque no hables inglés</a></li></ul><h4>Comença aquí</h4>
-  	</ul>
+	<li><a href="https://medium.com/cuepoint-es/por-qu%C3%A9-la-m%C3%BAsica-pop-conecta-contigo-aunque-no-hables-ingl%C3%A9s-9b189daca6b1#.887xbp2yz">Por qué la música pop conecta contigo aunque no hables inglés</a></li></ul>
 </div>
