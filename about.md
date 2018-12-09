@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: Quant a Enric Llonch
 ---
 
 <div class="post">
