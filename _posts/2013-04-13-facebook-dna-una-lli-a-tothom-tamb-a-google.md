@@ -1,7 +1,7 @@
 ---
 date: "2013-04-13T13:49:39+00:00"
 draft: false
-tags: ["facebook", "home", "lectura"]
+tags: ["tecnologia"]
 title: "Facebook dóna una lliçó a tothom, també a Google"
 ---
 *Article publicat el 5 d'abril del 2013 a Paella de Bits*
