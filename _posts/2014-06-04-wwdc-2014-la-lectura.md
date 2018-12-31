@@ -1,7 +1,7 @@
 ---
 date: "2014-06-04T17:31:00+00:00"
 draft: false
-tags: ["Apple", "lectura", "WWDC 2014", "Week Pocket"]
+tags: ["Week Pocket"]
 title: "WWDC 2014, la lectura"
 ---
 La WWDC 2014 d'Apple es va celebrar aquest dilluns i tinc diversos posts en ment sobre el tema. Però primer toca un recull d'enllaços escollits i preparats a mà, amb molta cura i amor per a vosaltres:
