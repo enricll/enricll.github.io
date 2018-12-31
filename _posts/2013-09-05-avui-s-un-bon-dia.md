@@ -1,7 +1,7 @@
 ---
 date: "2013-09-05T06:38:00+00:00"
 draft: false
-tags: ["Paella de Bits", "VEUS", "veus media", "lectura"]
+tags: ["Paella de Bits", "VEUS Media"]
 title: "Avui és un bon dia"
 ---
 Avui [Paella de Bits](http://www.paelladebits.cat/) fa dos anys, o el que és el mateix, celebrem el segon aniversari del portal, i del projecte. Fa dos anys, un 5 de setembre com avui a la nit —el Pau us explicarà mil vegades la història, escolteu-la— es posava en marxa Paella de Bits, en aquell moment el “blog de tecnologia en català”, i més tard “el portal independent de tecnologia en català obert a tothom”. La nostra descripció de la web no és fruit de la necessitat d’omplir la capçalera de Twitter, sinó que reflecteix els ideals i l’esperit de Paella de Bits. Som una web “independent”, no formem part de cap grup gran, ni estem manipulats per empreses —cosa que altres no poden dir, tal com explicava a l’article de “[Ens mereixem alguna cosa més](http://enricllonch.com/post/59755208866/ens-mereixem-alguna-cosa-mes)”—. I per altra banda, som una web “oberta a tothom”, ja que orientem els nostres contingut al públic, i no a les visites, SEO i hot linking que molts practiquen gairebé com a esport olímpic. Medalleta, siusplau.
