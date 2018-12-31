@@ -1,7 +1,7 @@
 ---
 date: "2013-10-03T18:25:00+00:00"
 draft: false
-tags: ["Jobs", "lectura", "cinema"]
+tags: ["cinema"]
 title: "Crítica de \"Jobs\""
 ---
 Fa poc es va estrenar als cinemes catalans la pel·lícula Jobs (Joshua Michael Stern, 2013). Aquest “biopic” sobre la vida del cofundador d’Apple era un dels films per a “geeks” més esperats del 2013. I parlo en passat perquè després de veure-la la sensació no és la mateixa que donaven els tràilers. Jobs és la pel·lícula que Steve Jobs no hauria volgut veure mai? Probablement.
