@@ -1,7 +1,7 @@
 ---
 date: "2013-03-01T14:48:41+00:00"
 draft: false
-tags: ["català"]
+tags: "miscel·lània"
 title: "Blog i bloguer"
 ---
 El diccionari de l'Institut d'Estudis Catalans ha afegit dos nous mots, en concret són *bloguer* i *blog*. Fins ara s'utilitzava *bloc* i *blocaire* però sembla que finalment s'aposta per no traduir. 
