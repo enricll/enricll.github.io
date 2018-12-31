@@ -1,7 +1,7 @@
 ---
 date: "2014-09-02T15:52:00+00:00"
 draft: false
-tags: ["meta", "MASSmedia", "La Zona"]
+tags: ["meta"]
 title: "MASSmedia"
 ---
 Aquest dilluns dia 1 de setembre vam llançar amb l'Aleix Serra una web sobre mitjans de comunicació. És [MASSmedia](http://www.massmedia.cat)[^1]. Teniu l'article de [benvinguda](http://www.massmedia.cat/especials/2014/08/massmedia/) a la mateixa web, però com sempre donaré una mica d'*insight* aquí, al blog personal.
