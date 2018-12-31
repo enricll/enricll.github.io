@@ -1,7 +1,7 @@
 ---
 date: "2014-02-27T14:57:46+00:00"
 draft: false
-tags: ["mwc", "mwc 2014"]
+tags: ["tecnologia"]
 title: "El Mobile World Congress 2014 en titulars"
 ---
 ### Les marques
