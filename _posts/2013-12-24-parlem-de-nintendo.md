@@ -1,7 +1,7 @@
 ---
 date: "2013-12-24T12:38:54+00:00"
 draft: false
-tags: ["Nintendo", "videojocs", "text post"]
+tags: ["videojocs"]
 title: "Parlem de Nintendo"
 ---
 Nintendo passa un mal moment en tots als aspectes. No domino el tema econòmic de la marca japonesa per tant m’abstindré de comentar detalls tècnics però és cert que les vendes de Wii U són molt pobres i dubto que puguin aguantar un any més com aquest a nivell de resultats de mercat. En canvi, la 3DS està funcionant prou bé –esperem que així quedi demostrat en la campanya nadalenca del 2013—i aquest any ha tingut un dels millors catàlegs des del seu llançament, amb nombrosos títols d’altíssima qualitat i un bon grapat casuals que, conjuntament amb el llançament i posada a la venda de la 2DS, permetran recuperar mercat casual, més del que està fent Sony amb la Vita ara mateix.
