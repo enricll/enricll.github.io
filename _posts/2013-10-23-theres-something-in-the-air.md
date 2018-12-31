@@ -1,7 +1,7 @@
 ---
 date: "2013-10-23T07:29:00+00:00"
 draft: false
-tags: ["iPad", "Apple", "lectura"]
+tags: ["tecnologia"]
 title: "There's something in the air"
 ---
 Ahir Apple va presentar el nou [iPad Air](http://www.paelladebits.cat/2013/10/22/apple-ipad-air/), la tauleta de tota la vida canviada de nom. I no han fet aquest canvi perquè sigui més lleugera i prima (que ho és), sinó per un tema de cara al futur. Si ens hi fixem, Apple actualment té un iPad Air i un iPad mini [^1], i per altra banda té un MacBook Air, un Mac mini i un MacBook Pro. No és evident que Apple està fent lloc per un nou model?
