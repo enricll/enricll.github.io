@@ -26,16 +26,3 @@ social:
 
 plugins:
  - jekyll-sitemap
- - jekyll-archives
-
-jekyll-archives:
-  enabled: all
-  layouts:
-    year: year-archive
-    month: month-archive
-    day: day-archive
-    tag: tag-archive
-  permalinks:
-  year: '/archives/:year/'
-  month: '/archives/:year-:month/'
-  tag: '/archives/:name/'
