@@ -1,7 +1,7 @@
 ---
 date: "2014-05-20T17:33:00+00:00"
 draft: false
-tags: ["Microsoft", "Surface Pro 3", "Surface", "Windows", "Windows RT", "lectura"]
+tags: ["tecnologia"]
 title: "Parlem de la nova Surface Pro 3"
 ---
 Avui Microsoft ha anunciat la nova [Surface Pro 3](http://www.theverge.com/2014/5/20/5734102/surface-pro-3-features-pricing-announcement). El resum és que és una versió més potent, més lleugera i millor en general que la Pro 2. Però si alguna cosa m'ha agradat de la conferència d'avui és que no han parlat d'una Surface RT 3 ni tampoc d'una Surface Mini. 
