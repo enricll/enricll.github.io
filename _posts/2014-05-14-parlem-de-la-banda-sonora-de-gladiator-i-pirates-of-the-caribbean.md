@@ -1,7 +1,7 @@
 ---
 date: "2014-05-14T17:22:00+00:00"
 draft: false
-tags: ["Bandes Sonores", "cinema", "Hans Zimmer", "lectura"]
+tags: ["música"]
 title: "Parlem de la banda sonora de Gladiator i Pirates of the Caribbean"
 ---
 Posem-nos seriosos. Avui estava escoltant la banda sonora de *Gladiator* (Ridley Scott, 2000) mentre jugava rankeds a Hearthstone mentre m'he topat amb una pista de la bso anomenada "The Battle". Jugava amb la música de fons i m'ha recordat a la melodia famosa de *Pirates of the Caribbean: The Curse of the Black Pearl* (Gore Verbinski, 2003), i que es repetiria en diverses versions al llarg de totes les pel·lícules de la franquícia. 
