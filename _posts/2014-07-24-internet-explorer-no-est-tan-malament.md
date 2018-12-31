@@ -1,7 +1,7 @@
 ---
 date: "2014-07-24T23:48:00+00:00"
 draft: false
-tags: ["Internet Explorer", "Microsoft"]
+tags: ["tecnologia"]
 title: "Internet Explorer no està tan malament"
 ---
 <span class="pDropCap">D</span>es de fa tres mesos o així [^1] utilitzo Internet Explorer com a navegador per defecte i principal en el meu ordinador habitual, el que utilitzo per fer tota la meva feina diària, que com sabreu passa en un 85% de les vegades per un navegador d'Internet. 
