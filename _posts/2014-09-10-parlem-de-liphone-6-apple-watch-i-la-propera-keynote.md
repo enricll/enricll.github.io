@@ -1,7 +1,7 @@
 ---
 date: "2014-09-10T10:39:00+00:00"
 draft: false
-tags: ["Apple", "iPhone", "Apple Watch"]
+tags: ["tecnologia"]
 title: "Parlem de l'iPhone 6, Apple Watch i la propera keynote"
 ---
 La conferencia d’Apple més esperada dels últims anys ha decebut. És el problema de fer hype pels núvols, i no és precisament culpa d’Apple. Han presentat el rellotge que tothom volia, els iPhones més grans que tothom volia, i tot plegat en un esdeveniment massiu que només Apple pot fer (potser Samsung també, però pagant els assistents).
