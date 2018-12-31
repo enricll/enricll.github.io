@@ -58,11 +58,6 @@
     {% else %}
       <meta name="twitter:image:src" content="{{ '/assets/img/blog.jpg' | prepend: site.url }}">
     {% endif %}
-	
-<!-- Tags -->
-	{% if site.tags != "" %}
-		{% include collecttags.html %}
-	{% endif %}
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{ "/assets/img/favicon.ico" | prepend: site.baseurl }}" />
@@ -79,5 +74,9 @@
     <script src="{{ "/assets/js/modernizr.custom.15390.js" | prepend: site.baseurl }}" type="text/javascript"></script>
 
     {% if site.google_analytics %} {% include google_analytics.html %} {% endif %}
+	
+{% if site.tags == "" %}
+    {% include collecttags.html %}
+{% endif %}
 
 </head>
