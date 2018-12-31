@@ -21,8 +21,8 @@ navigation:
 social:
   name: Enric Llonch
   links:
-    - https://twitter.com/enricll
-    - https://www.linkedin.com/in/enricllonch/
+    - twitter: https://twitter.com/enricll
+    - linkedin: https://www.linkedin.com/in/enricllonch/
 
 plugins:
  - jekyll-sitemap
