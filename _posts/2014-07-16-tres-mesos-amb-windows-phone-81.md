@@ -1,7 +1,7 @@
 ---
 date: "2014-07-16T18:46:00+00:00"
 draft: false
-tags: ["Windows Phone", "Microsoft"]
+tags: ["tecnologia"]
 title: "Tres mesos amb Windows Phone 8.1"
 ---
 <span class="pDropCap">W</span>indows Phone 8.1 arriba ara oficialment per a tots els consumidors, tot i que des de fa uns mesos ja es podia descarregar entrant en un programa de prova. La versió de fa uns mesos i la que s'ha llançat més recentment és, teòricament, la mateixa, però ara hi hauria d'haver millores en l'enllaç del mòbil amb el sistema operatiu, com millores a la bateria o correcció d'errors. 
