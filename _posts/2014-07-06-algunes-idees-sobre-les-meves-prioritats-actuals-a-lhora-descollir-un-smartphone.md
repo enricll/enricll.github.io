@@ -1,7 +1,7 @@
 ---
 date: "2014-07-06T18:35:00+00:00"
 draft: false
-tags: ["mòbils"]
+tags: ["tecnologia"]
 title: "Algunes idees sobre les meves prioritats actuals a l'hora d'escollir un smartphone"
 ---
 Vinga, titular llarg per equilibrar els titulars curts que proliferen al meu blog. No és així però ja m'enteneu.
