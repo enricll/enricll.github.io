@@ -1,7 +1,7 @@
 ---
 date: "2018-10-14T21:12:20+00:00"
 draft: false
-tags: ["música"]
+tags: ["musica"]
 title: "Past Lives"
 ---
 Si alguna cosa he descobert a força de llegir opinions de música a Internet és que la gent odia quan un artista no-pop comença a fer música pop. Especialment si aquest artista era una banda de rock. A mi, òbviament, m’encanta. Aquest any m’he enganxat fort al disc de Now, Now *Saved* i ara us en porto un altre. És la banda Against the Current, coneguts per haver fet pop punk i alternative rock en el passat, i que ara s’enfronten al pop rock.<!-- more -->
