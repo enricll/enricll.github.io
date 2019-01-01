@@ -1,7 +1,7 @@
 ---
 date: "2015-08-10T15:18:52+00:00"
 draft: false
-tags: ["música", "nicki minaj"]
+tags: ["música"]
 title: "The Real Pinkprint: reimaginant l’àlbum"
 ---
 
