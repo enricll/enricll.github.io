@@ -8,8 +8,9 @@ layout: default
       </div>
   {% endif %}
   <h1 class="postTitle">{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read{% if page.tags %} | 
-  {% for tag in page.tags %}<a href="https://enricllonch.com/tags/#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>{% endfor %}{% endif %}</p>
+  <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read    {% for tag in page.tags %}
+      <span class="codinfox-tag-mark">{{ tag }}</span>
+    {% endfor %}</p>
   
   {{ content }}
 
