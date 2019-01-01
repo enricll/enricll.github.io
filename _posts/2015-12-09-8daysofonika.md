@@ -1,7 +1,7 @@
 ---
 date: "2015-12-09T02:37:03+00:00"
 draft: false
-tags: ["Nicki Minaj", "8daysofOnika", "música"]
+tags: ["música"]
 title: "#8DaysofOnika"
 ---
 So, yeah, today it's Nicki's birthday and I know last week there was a campaign all over Twitter with the hashtag #8DaysofOnika, I did the first day and then I forgot (as usual), so I'm going to do it now.
