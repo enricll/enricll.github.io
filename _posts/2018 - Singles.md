@@ -1,0 +1,183 @@
+---
+date: "2019-01-03"
+draft: false
+tags: ["2018", "música"]
+title: "Els 85 singles del 2018"
+image: 2018_singles_header.jpg
+---
+
+Aquest any —és a dir, l'any passat— he escoltat més singles que mai. Potser també en quantitat, però em refereixo al fet d'escoltar singles com a experiència, radicalment diferent a la dels EPs o els àlbums. De fet, [les meves playlists mensuals](https://open.spotify.com/user/enricllonch?si=hqAEovLETV6uN52P1yYBUA) on aglutino aquests nous singles s'han fet més llargues, de la quantitat de (bona) música que he trobat setmana rere setmana. Estic pensant / preparant maneres més útils de promocionar i parlar de tota aquesta música, però de moment tenim el que tenim. 
+
+En aquesta ocasió el que tenim és una llista de 85 singles que m'han encantat del 2018. Com sempre, són *singles* i no *cançons*. Tinc en compte, doncs, que hagin estat llançats individualment, ja sigui abans o després de l'àlbum a què pertanyen. Com en anteriors llistes, la norma és que un artista només pot tenir un single per projecte/àlbum, per això veureu alguns noms duplicats.
+
+La diferència és que aquest any no estan numerats, i que [en comptes de 100](https://enricllonch.com/blog/els-100-singles-del-2017/) són 85. La primera qüestió es deu al meu retard (evident) a l'hora de publicar aquesta llista, i a les complicacions que he tingut per aconseguir un ordre que em satisfaci. **Totes aquestes cançons m'encanten** i han sigut importants per mi durant el 2018, i això em fa molt difícil ordenar–les (perquè no tinc en compte altres factors extra–personals, i sovint *bullshit*, com la majoria de publicacions). La segona —la reducció de la quantitat— és perquè em venia de gust no fer 100.
+
+Però com que *old habits die hard*, tinc un top 10! Primer posaré la llista sencera, en ordre alfabètic, i després comentaré una mica el meu top 10. Va bé? Va bé.
+
+- ASAP Rocky – ‘ASAP Forever’. 
+- Against The Current – ‘Almost Forgot’. 
+- Allie X – ‘Little Things’. Explosió pop
+- Amy Shark – ‘Sink In’
+- Amy Shark – ‘All Loved Up’
+- Ariana Grande – ‘No Tears Left To Cry’
+- Bad Gyal – ‘Internationally’
+- Blithe – ‘Work it Out’
+- Charli XCX – ‘Focus’
+- Charli XCX – ’1999 (ft. Troye Sivan)’
+- Charlotte Lawrence, Sasha Sloan, Nina Nesbitt – ‘Psychopath’
+- Christine and the Queens – ‘Doesn’t Matter’
+- Clara Mae – ‘I Forgot’
+- Clean Bandit – ‘Solo (ft. Demi Lovato)’
+- Cyn – ‘Believer’
+- Daya – ‘New’
+- Dinah Jane – ‘Bottled Up’
+- Eilish Gilligan – S.M.F.Y.
+- Emily Burns – ‘Cheat’
+- Empress Of – ‘When I’m With Him’
+- Germein – ‘Talking’
+- Girl Crush – ‘Warm Blooded’
+- GRAACE – ‘Kissing Boys’
+- Hailee Steinfeld, BloodPop – ‘Capital Letters’
+- Haley Henderickx – ‘Worth it’
+- Hatchie – ‘Sure’ 
+- Hayley Kiyoko – ‘Curious’
+- Jack River – ‘Ballroom’
+- Janelle Monáe – ‘Make Me Feel’
+- Jenn Champion – ‘O.M.G. (I’m All Over It)’
+- Justine Skye – ‘Don’t Think About It’
+- Kacy Hill – ‘Dinner’
+- Kaskade – ‘Almost Back (ft. Phoebe Ryan)’
+- Khalid, Ty Dolla $ign, 6lack – ‘OTW’
+- Kiiara – ‘Messy’
+- Kim Petras – ‘All The Time’
+- Kodie Shane – ‘Flex On Me (ft. TK Kravitz)’
+- LANY – ‘thru these tears’
+- Lauren Aquilina – ‘Psycho’
+- Let’s Eat Grandma – ‘It’s Just Not Me’
+- Liv Dawson – ‘Good intentions’
+- Liza Anne – ‘Small Talks’
+- Loote – ‘Your Side of the Bed’
+- Loote – ‘Back Together’
+- Louisa – ‘YES’
+- LOVA – ‘Me & The Silence'
+- LOVE SICK – ‘Fever’
+- Lucy Dacus – ‘Night Shift’
+- Lykke Li – ’two nights’
+- Maggie Rogers – ‘Light On’
+- Maisie Peters – ‘Worst of You’
+- Marian Hill – ‘Differently’
+- Marie Davidson – ‘Work It’
+- Metric – ‘Dressed to Suppress’
+- Millie Turner – ‘The Shadow’
+- Miya Folick – ‘Stock Image’
+- MNEK – ‘Tongue’
+- Nicki Minaj – ‘Chun–Li’
+- Nilüfer Yanya – Thanks 4 Nothing
+- No Frills Twins – ‘Lonely With You’
+- Okay Kaya – ‘IUD’
+- Post Malone – ‘Psycho (ft. Ty Dolla $ign)’
+- PRETTYMUCH – ‘Summer On You’
+- Rae Morris – ‘Push Me To My Limit’
+- Ralph – ‘Tables Have Turned’
+- Regular Marcus – ‘Ride (ft. Felix Snow)’
+- Rina Sawayama – ‘Cherry’
+- Rita Ora, Liam Payne – ‘For You’
+- Robyn – ‘Honey’
+- Ryn Weaver – ‘Reasons Not To Die (Demo)’
+- Sabrina Claudio – ‘Messages From Her’
+- SAKIMA – ‘Death Is In The Air’
+- Sasha Sloan – ‘Faking It’
+- SHY Martin – ‘Forget to Forget’
+- Sigrid – ‘Sucker Punch’
+- Sophie Elise – ‘In My Head’
+- Terror Jr – ‘A-OK (Everything's Perfect’
+- Tessa Violet – ‘Crush’
+- The Aces – ‘Fake Nice’
+- Tinashe – ‘No Drama’
+- Tove Styrke – ‘Sway’
+- Troye Sivan – ‘My My My!’
+- Twin Shadow – ‘Saturday (ft. HAIM)’
+- Violet Days – ‘Leave But Don’t Go’
+- Zara Larsson – ‘Ruin My Life’
+
+### Els 10 singles del 2018
+
+<figure>
+	<img src="{{ '/assets/img/2018/2018_singles_10.jpg' | prepend: site.baseurl }}" align="right" alt=""> 
+</figure>
+
+#### 10. Hayley Kiyoko – Curious
+
+La cançó que em va fer connectar amb Hayley Kiyoko i descobrir, de pas, el seu fantàstic àlbum *Expectations*. Una autèntica obra mestra de l'electro-pop gràcies a la seva tornada, addictiva i sexy a parts iguals. El *chorus* és un engrenatge perfecte, que connecta una peça amb una altra sense que te n'adonis. Des del "Did you let him touch ya?" (fent evident el text queer de la cançó, que va sobre una noia que alhora que estava lligant amb Hayley també ho estava fent amb un noi), fins al "I'm just curious / Is it serious?" (la línia que et fa dir "vale, AIXÒ és una cançó") passant pel ja icònic i més difícil de replicar en veu alta que les coreos que es marca Kiyoko "did-you-take-him-to-the-pier-in-santa-monica-forget-to-bring-a-jacket-wrap-up-in-him-cause-you-wanted-to?". És una cançó que només Hayley Kiyoko podria fer funcionar, però que darrere té una de les creadores d'aquest tipus de pop: Lisa Vitale de Terror Jr. 
+
+<figure>
+	<img src="{{ '/assets/img/2018/2018_singles_09.jpg' | prepend: site.baseurl }}" align="right" alt=""> 
+</figure>
+
+#### 9. Allie X – Little Things
+
+Després de tres singles excel·lents, Allie X va destapar la bèstia. "Little Things" és no només la millor cançó del seu mini-àlbum *Super Sunset*, sinó també una de les millors cançons de la seva discografia (top 5 jo diria). La lletra és sublim ("It's the little things that all add up / Death by a thousand cuts") però és que l'instrumental de Captain Cuts (quin any que s'han marcat els cabrons), que ens recorda als millors moments del primer *Collxtion*, i la *performance* vital d'Allie X són d'un altre nivell. És un espectacle d'energia, emoció i visceralitat que encara és més bèstia a la versió ["Digital Concert"](https://open.spotify.com/track/2z5ozRhoJzpBIFHs7EIYTc?si=Fociz8SARr2tOIgmcZI1VA) de la cançó. La primera vegada que la vaig escoltar/veure, estava tant absort que sense adonar-me'n vaig deixar de respirar.
+
+<figure>
+	<img src="{{ '/assets/img/2018/2018_singles_08.jpg' | prepend: site.baseurl }}" align="right" alt=""> 
+</figure>
+
+#### 8. Empress Of – When I'm With Him
+
+No hi ha cap altra cançó a aquesta llista que em faci sentir com ho fa "When I'm With Him". I mira que no és especialment una cançó alegre —diria que el contrari— però hi ha alguna cosa en l'instrumental, en aquests tambors, en com ve darrere d'"All For Nothing" al disc, que em fa somriure cada vegada. Té moments màgics, com quan a la segona estrofa canvia al castellà per les línies "Querías más de lo que podría ser / Me alejo más y tú no lo puedes ver", o directament tot el *pre-chorus, chorus i bridge*. Podria escoltar-la durant hores, hi ha alguna cosa en l'honestedat —trista, però també reconfortant— d'Empress Of i aquesta cançó que s'infiltra dins la meva sang i em fa estar *bé*. O tot el que es pot estar bé, almenys.
+
+<figure>
+	<img src="{{ '/assets/img/2018/2018_singles_07.jpg' | prepend: site.baseurl }}" align="right" alt=""> 
+</figure>
+
+#### 7. Zara Larsson – Ruin My Life
+
+Abans que es converteixi en un *hit*, deixeu-me dir que porto adorant aquesta cançó des que abans que sortís. Només veure qui l'havia produït i escrit (The Monsters, Delacey, Jackson Foote...), ja sabia que m'encantaria. No sóc especialment fan de Zara Larsson, però "Ruin My Life" és un himne. Si algun single enguany es mereix l'etiqueta d'addictiu, és aquest. És una cançó sobre l'addicció, en el fons. Admetre que trobes a faltar algú no és fàcil, i més quan saps que no ho hauries de fer — no només perquè tens persones que han substituït aquell algú, família, amics que et donen suport, etc. (que també) sinó perquè trobar-la a faltar també significa trobar a faltar tot allò dolent que en el passat et va fer voler allunyar-te'n. És complicat, i Zara Larsson ho sap. Però com a mortal amb sentiments (les millors *popstars* no són dives, són mortals amb sentiments, per molt que els gays™ no ho entenguin) de tant en tant també té aquests petits moments de debilitat i contradicció. Simplement que ella, com a bona *popstar*, el fa sonar èpic, enganxós i el converteix en un dels millors singles de l'any.
+
+<figure>
+	<img src="{{ '/assets/img/2018/2018_singles_06.jpg' | prepend: site.baseurl }}" align="right" alt=""> 
+</figure>
+
+#### 6. Kiiara – Messy
+
+La meva estimada Kiiara ha tornat aquest any amb un grapat de singles, que a falta d'àlbum estan bé. Especialment si un d'ells és una passada com aquesta. Profundament inspirada en Julia Michaels, "Messy" —escrita per una altra estimada de les meves, Sasha Sloan— és el moment previ a començar una relació, en què saps que és inevitable que acabi passant el mateix de sempre però almenys vols intentar avisar-ho per poder dir després "et vaig avisar!". L'he escoltat mil vegades i encara em flipa. A més, té com una capa d'autoconsciència molt intel·ligent, ja que per una banda fa referència a "Heavy" —la cançó amb Linkin Park que Kiiara va fer l'any passat— quan diu "And I should take my own advice / Let's stop before it gets messy / Let's stop before it gets heavy". Per una altra, la tornada és una variació molt més orgànica i refrescant de la fórmula del "vocal chop" que precisament Kiiara va popularitzar ara fa tres anys amb "Gold". 
+
+<figure>
+	<img src="{{ '/assets/img/2018/2018_singles_05.jpg' | prepend: site.baseurl }}" align="right" alt=""> 
+</figure>
+
+#### 5. Hailee Steinfeld & BloodPop – Capital Letters
+
+Les bandes sonores de *Fifty Shades* han estat des de sempre molt millors que autèntics àlbums pop. Això és un fet que no podem negar, per molt que ens molesti (em molesta perquè significa que hi ha molts artistes pop que treuen discs de merda, no perquè una pel·lícula com *Fifty Shades* tingui música decent). Aquest any han tingut no un però dos singles excepcionals. Per una banda l'èpic "For You" amb Rita Ora i Liam Payne, i per una altra l'eufòrica "Capital Letters" de Hailee Steinfeld, produïda per BloodPop i co-escrita per Ellie Goulding. És el tipus de balada-midtempo semi-vuitantes que encaixa tan bé amb Hailee Steinfeld (futur EGOT), i també una autèntica delícia que em fa feliç cada vegada que l'escolto.
+
+<figure>
+	<img src="{{ '/assets/img/2018/2018_singles_04.jpg' | prepend: site.baseurl }}" align="right" alt=""> 
+</figure>
+
+#### 4. Ryn Weaver – Reasons Not To Die (Demo)
+
+Canviem profundament d'estat d'ànim perquè la nova cançó de Ryn Weavers ho és tot menys feliç. De fet és una de les cançons més tristes i estripades que he escoltat aquest any. L'instrumental sembla molt bàsic al principi, però va creixent (els putos tambors) a mesura que Ryn Weaver —responsable d'un dels millors àlbums de la dècada, amb *The Fool*, però desapareguda fins "Reasons"— va explicant la història, que és bàsicament sobre la seva salut mental i tot allò que li ha impedit treure música fins aleshores. El tema és que en comptes de capficar-se en aquesta situació clarament negativa, Ryn enfoca la cançó com una declaració d'admiració i amor cap a tots els amics que li han donat suport quan ella no podia donar-se'l a ella mateixa. És un brindis cap a la gent que li van permetre expressar-se i ser honesta i alhora van procurar pel seu benestar físic i emocional. En fi, que m'emociono. De l'etiqueta de "Demo" per abaixar les expectatives i infravalorar la seva pròpia cançó tot i que és infinitament millor que el 90% de coses que existeixen ja en parlem un altre dia, si us sembla.
+
+<figure>
+	<img src="{{ '/assets/img/2018/2018_singles_03.jpg' | prepend: site.baseurl }}" align="right" alt=""> 
+</figure>
+
+#### 3. Robyn – Honey
+
+Robyn no només va tornar al 2018 sinó que ho va fer titulant el seu disc *Honey*. Trollyn actuant de nou. I és que "Honey" es va convertir en un meme després que s'estrenés a l'últim capítol de la sèrie *Girls*. Allà, mig tapada per diàlegs d'Adam Driver, ja va cridar l'interès de molts oients. No només perquè la primera cançó en solitari de Robyn que sentíem en molt temps, sinó també per com sonava. La versió de "Honey" que finalment va publicar l'artista és diferent de la de *Girls* i també de la de discoteca que va fer sonar a una festa un mes poc abans del llançament de "Missing U". El canvi, però, és una de les millors decisions que ha fet una artista en temps. La "Honey" que ens ha arribat és atemporal, el tipus de cançó que seguirà transmetent coses d'aquí vint o trenta anys. Una declaració d'amor feta a base de *loops*, on cada línia és enganxosa i desprèn emoció. És increïble com després de moltíssimes escoltes, encara trobo petits detalls musicals a "Honey" que em meravellen. 
+
+<figure>
+	<img src="{{ '/assets/img/2018/2018_singles_02.jpg' | prepend: site.baseurl }}" align="right" alt=""> 
+</figure>
+
+#### 2. Amy Shark – Sink In
+
+I aquí ve quan el maten. Sí, de l'artista que ha tret el [meu disc preferit de l'any](https://enricllonch.com/blog/albums-2018/) no he agafat cap cançó del seu àlbum per al top 10 sinó una que va treure per a la banda sonora de *Love, Simon* (no sóc especialment fan de la pel·lícula, tot sigui dit). A més, Amy Shark ni va escriure la cançó! T'estàs tornant boig, Enric, direu. Potser sí, però "Sink In" no és la prova. Aquest single m'ha destrossat per dins tantes vegades que jo crec que dec ser l'única persona que la segueix escoltant a dia d'avui. Primer: no té cap mena de sentit. Està escrita per Julia Michaels i Captain Cuts i utilitza adjectius com a noms ("I'm weighed down by your beautiful / Collapsing underneath your perfect / Drowning in your wonderful"), adjetius com a adverbis ("Love you something terrible"), i repeticions ("Everywhere I go I'm reminded of you, like / The bed, the bathroom floor, the bar downstairs at 2am, and / I'm trying to forget the things you used to do, like / Kiss me harder in the bar downstairs at 2am"). És mal *songwriting* o és tan puto bo que no ens adonem que no té sentit fins que mirem la lletra? Jo, òbviament, em decanto per la segona. Perquè "Sink In" és una pàgina de diari (com *Love, Simon*), un pensament inconnex, un flaix d'amor contradictori i sentiments en vena. Va d'una relació de què vols escapar però alhora t'enganxa i t'encanta i et té atrapat. És una mica allò de la infiltració a la sang de què parlava paràgrafs abans, i òbviament amb "Sink In" —cantada magníficament per Amy Shark i produïda molt característicament pel gran Jack Antonoff— també em passa. Entra dins meu i em remou alguna cosa que cap altra cançó fa. I quan l'acabo només vull una cosa: tornar-la a escoltar.
+
+<figure>
+	<img src="{{ '/assets/img/2018/2018_singles_01.jpg' | prepend: site.baseurl }}" align="right" alt=""> 
+</figure>
+
+#### 1. Lucy Dacus – Night Shift
+
+És gairebé irònic que aquesta llista m'hagi portat tants mals de cap i en canvi el número u no ha canviat des del gener del 2018, quan vaig escoltar per primera vegada "Night Shift". Tinc poques coses a dir d'aquesta cançó, perquè crec que si l'escolteu veureu immediatament perquè és excel·lent. Sí, va sobre una ex. Sí, és trista. Sí, és una tria similar a la meva cançó preferida de l'any passat ("Appointments" de Julien Baker). Però a la vegada: no, no va sobre una ex. No, no és trista. No, no és una tria similar a la meva cançó preferida de l'any passat ("Appointments" de Julien Baker). És un clàssic modern, un poema que treu el braç, arrenca el paper i t'escanya, un crit enmig del soroll. Lucy Dacus em va atrapar ara fa un any i des d'aleshores no m'he l'he pogut treure del cap. Espero que vosaltres tampoc. Bon any nou.
