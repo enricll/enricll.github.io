@@ -4,7 +4,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}">
     <title>{{ page.title }} — Enric Llonch</title>
-	
+	{% if page.title %}
+      	<title>{{ page.title }} — Enric Llonch</title>
+    	{% else %}
+	<title>{{ site.title }}</title>
 <!-- Open Graph Meta -->
     <meta content="{{ site.title }}" property="og:site_name">
     {% if page.title %}
