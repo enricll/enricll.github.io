@@ -23,6 +23,8 @@ social:
   links:
     - twitter: https://twitter.com/enricll
     - linkedin: https://www.linkedin.com/in/enricllonch/
+   twitter: enricll
+   linkedin: enricllonch/
 
 plugins:
  - jekyll-sitemap
