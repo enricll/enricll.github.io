@@ -16,7 +16,7 @@ title: Quant a Enric Llonch
 	
 	<p>He estudiat Comunicació Audiovisual a la Universitat Pompeu Fabra, i actualment sóc Video Content & Marketing Trainee a <a href="https://www.cyberclick.es/">Cyberclick</a>. Pràcticament tota la meva feina es pot trobar al <a href="https://www.youtube.com/user/cyberclicknet">canal de YouTube</a> de Cyberclick. Vols proposar-me una feina? <a href="https://www.linkedin.com/in/enricllonch/">Escriu-me a LinkedIn.</a></p>
 	
-	<h4>Cinema</4>
+	<h4>Cinema</h4>
 	<p>Com a estudiant de Comunicació Audiovisual a la Pompeu, m’he centrat molt en el cine. De tot el que he fet a la carrera destaco dues coses:</p>
 	<ul>
 	<li>He co-dirigit el curtmetratge <i>SENEX</i> dins del marc de l’assignatura Direcció Cinematogràfica. Vam haver d’idear, desenvolupar, fer càsting i realitzar un curt en menys de dos mesos, i el rodatge només podia durar un dia. Es va rodar al casal de gent gran de Llinars del Vallès amb una càmera analògica (16mm). Puc mostrar-lo a petició.</li>
@@ -24,7 +24,6 @@ title: Quant a Enric Llonch
 	</ul>
 	
 	<h4>Més escrits</h4>
-
 	<p>He escrit coses en altres idiomes, és a dir, castellà i anglès.</p>
 	<ul>
 	<li><a href="https://medium.com/@enricll/cruising-a-la-caza-de-la-homofobia-755e4aefd5b0"><i>Cruising</i>, a la caza de la homofobia</a></li>
