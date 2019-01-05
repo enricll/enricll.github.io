@@ -26,7 +26,6 @@ title: Quant a Enric Llonch
 	<h4>Més escrits</h4>
 
 	<p>He escrit coses en altres idiomes, és a dir, castellà i anglès.</p>
-
 	<ul>
 	<li><a href="https://medium.com/@enricll/cruising-a-la-caza-de-la-homofobia-755e4aefd5b0"><i>Cruising</i>, a la caza de la homofobia</a></li>
 		<li><a href="https://medium.com/this-will-be-me/cant-stop-the-feeling-is-the-best-generic-pop-hit-of-2016-e5ed5d3de8e5#.qjbcmw6di">Why “Can’t Stop The Feeling!” Is The Best Generic Pop Hit Of 2016</a></li>
