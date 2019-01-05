@@ -16,11 +16,13 @@ title: Quant a Enric Llonch
 	
 	<p>He estudiat Comunicació Audiovisual a la Universitat Pompeu Fabra, i actualment sóc Video Content & Marketing Trainee a <a href="https://www.cyberclick.es/">Cyberclick</a>. Pràcticament tota la meva feina es pot trobar al <a href="https://www.youtube.com/user/cyberclicknet">canal de YouTube</a> de Cyberclick. Vols proposar-me una feina? <a href="https://www.linkedin.com/in/enricllonch/">Escriu-me a LinkedIn.</a></p>
 	
-	#### Cinema
-	Com a estudiant de Comunicació Audiovisual a la Pompeu, m’he centrat molt en el cine. De tot el que he fet a la carrera destaco dues coses:
-	- He co-dirigit el curtmetratge *SENEX* dins del marc de l’assignatura Direcció Cinematogràfica. Vam haver d’idear, desenvolupar, fer càsting i realitzar un curt en menys de dos mesos, i el rodatge només podia durar un dia. Es va rodar al casal de gent gran de Llinars del Vallès amb una càmera analògica (16mm). Puc ensenyar-lo a petició.
-	- Estic realitzant el film [*DEADPAVO*](http://deadpavo.com/) dins del marc del TFG (Treball de Fi de Grau). Podeu seguir-nos a [Instagram](https://instagram.com/deadpavo/).
-
+	<h4>Cinema</4>
+	<p>Com a estudiant de Comunicació Audiovisual a la Pompeu, m’he centrat molt en el cine. De tot el que he fet a la carrera destaco dues coses:</p>
+	<ul>
+	<li>He co-dirigit el curtmetratge <i>SENEX</i> dins del marc de l’assignatura Direcció Cinematogràfica. Vam haver d’idear, desenvolupar, fer càsting i realitzar un curt en menys de dos mesos, i el rodatge només podia durar un dia. Es va rodar al casal de gent gran de Llinars del Vallès amb una càmera analògica (16mm). Puc mostrar-lo a petició.</li>
+	<li>Estic realitzant el film <a href="http://deadpavo.com/"><i>DEADPAVO</i></a> dins del marc del TFG (Treball de Fi de Grau). Podeu seguir-nos a <a href="https://instagram.com/deadpavo/">Instagram</a>.</li>
+	</ul>
+	
 	<h4>Més escrits</h4>
 
 	<p>He escrit coses en altres idiomes, és a dir, castellà i anglès.</p>
