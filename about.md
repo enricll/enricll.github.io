@@ -14,13 +14,19 @@ title: Quant a Enric Llonch
 	
 	<h4>I ara?</h4>
 	
-	<p>He estudiat Comunicació Audiovisual a la Universitat Pompeu Fabra, i actualment sóc Video Content & Marketing Trainee a <a href="https://www.cyberclick.es/">Cyberclick</a>. Pràcticament tota la meva feina es pot trobar al <a href="https://www.youtube.com/user/cyberclicknet">canal de YouTube</a> de Cyberclick.</p>
-
-	<h4>Writing / Escritos</h4>
-
-	<p>Things I’ve written in English and Spanish — definitely not my best stuff, I promise.</p>
-
+	<p>He estudiat Comunicació Audiovisual a la Universitat Pompeu Fabra, i actualment sóc Video Content & Marketing Trainee a <a href="https://www.cyberclick.es/">Cyberclick</a>. Pràcticament tota la meva feina es pot trobar al <a href="https://www.youtube.com/user/cyberclicknet">canal de YouTube</a> de Cyberclick. Vols proposar-me una feina? <a href="https://www.linkedin.com/in/enricllonch/">Escriu-me a LinkedIn.</a></p>
+	
+	<h4>Cinema</h4>
+	<p>Com a estudiant de Comunicació Audiovisual a la Pompeu, m’he centrat molt en el cine. De tot el que he fet a la carrera destaco dues coses:</p>
 	<ul>
+	<li>He co-dirigit el curtmetratge <i>SENEX</i> dins del marc de l’assignatura Direcció Cinematogràfica. Vam haver d’idear, desenvolupar, fer càsting i realitzar un curt en menys de dos mesos, i el rodatge només podia durar un dia. Es va rodar al casal de gent gran de Llinars del Vallès amb una càmera analògica (16mm). Puc mostrar-lo a petició.</li>
+	<li>Estic realitzant el film <a href="http://deadpavo.com/"><i>DEADPAVO</i></a> dins del marc del TFG (Treball de Fi de Grau). Podeu seguir-nos a <a href="https://instagram.com/deadpavo/">Instagram</a>.</li>
+	</ul>
+	
+	<h4>Més escrits</h4>
+	<p>He escrit coses en altres idiomes, és a dir, castellà i anglès.</p>
+	<ul>
+	<li><a href="https://medium.com/@enricll/cruising-a-la-caza-de-la-homofobia-755e4aefd5b0"><i>Cruising</i>, a la caza de la homofobia</a></li>
 		<li><a href="https://medium.com/this-will-be-me/cant-stop-the-feeling-is-the-best-generic-pop-hit-of-2016-e5ed5d3de8e5#.qjbcmw6di">Why “Can’t Stop The Feeling!” Is The Best Generic Pop Hit Of 2016</a></li>
 		<li><a href="https://medium.com/@enricll/this-is-the-best-nicki-minaj-song-e731a9b177b5#.40f3v8dw9">The Best Nicki Minaj Song</a></li>
 		<li><a href="https://medium.com/cuepoint-es/por-qu%C3%A9-la-m%C3%BAsica-pop-conecta-contigo-aunque-no-hables-ingl%C3%A9s-9b189daca6b1#.887xbp2yz">Por qué la música pop conecta contigo aunque no hables inglés</a></li>

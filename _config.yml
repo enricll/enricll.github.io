@@ -13,9 +13,9 @@ gems: [jekyll-paginate]
 paginate: 10
 
 navigation:
- - title: Home
+ - title: Blog
    url: /index.html
- - title: About
+ - title: Colophon
    url: /about
 
 social:
