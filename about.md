@@ -14,7 +14,7 @@ title: Quant a Enric Llonch
 	
 	<h4>I ara?</h4>
 	
-	<p>He estudiat Comunicació Audiovisual a la Universitat Pompeu Fabra, i actualment sóc Video Content & Marketing Trainee a <a href="https://www.cyberclick.es/">Cyberclick</a>. Pràcticament tota la meva feina es pot trobar al <a href="https://www.youtube.com/user/cyberclicknet">canal de YouTube</a> de Cyberclick. Vols proposar-me una feina? <a href="https://www.linkedin.com/in/enricllonch/">Escriu-me a LinkedIn.</a></p>
+	<p>He estudiat Comunicació Audiovisual a la Universitat Pompeu Fabra, i actualment sóc Video Content & Marketing Stratgegist a <a href="https://www.cyberclick.es/">Cyberclick</a>. <a href="https://www.linkedin.com/in/enricllonch/">Em pots trobar també a LinkedIn.</a></p>
 	
 	<h4>Cinema</h4>
 	<p>Com a estudiant de Comunicació Audiovisual a la Pompeu, m’he centrat molt en el cine. De tot el que he fet a la carrera destaco dues coses:</p>
