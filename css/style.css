@@ -874,7 +874,7 @@ POST STYLING
     display: block; }
 
 /* add to you stylesheet */
-.post .img-right {
+.post img-right {
   float: right;
   margin-left: 1em; }
 
