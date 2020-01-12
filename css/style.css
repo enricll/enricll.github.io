@@ -185,12 +185,6 @@ audio:not([controls]) {
 img {
   border-style: none; }
 
-/* add to you stylesheet */
-.img-right {
-  float: right;
-  margin-left: 1em;
-}
-
 /**
  * Hide the overflow in IE.
  */
@@ -878,6 +872,11 @@ POST STYLING
   .post figure img {
     margin: 0 auto;
     display: block; }
+
+/* add to you stylesheet */
+.post .img-right {
+  float: right;
+  margin-left: 1em; }
 
 .post img {
   margin-bottom: 2rem; }
