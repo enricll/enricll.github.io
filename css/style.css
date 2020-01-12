@@ -873,11 +873,6 @@ POST STYLING
     margin: 0 auto;
     display: block; }
 
-/* add to you stylesheet */
-.post img-right {
-  float: right;
-  margin-left: 1em; }
-
 .post img {
   margin-bottom: 2rem; }
 
