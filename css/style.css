@@ -185,6 +185,12 @@ audio:not([controls]) {
 img {
   border-style: none; }
 
+/* add to you stylesheet */
+.img-right {
+  float: right;
+  margin-left: 1em;
+}
+
 /**
  * Hide the overflow in IE.
  */
