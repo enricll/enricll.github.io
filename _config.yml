@@ -1,6 +1,6 @@
 title: Enric Llonch
 description: Un blog personal força impersonal, fet a estones per Enric Llonch. Escric sobre música, cultura popular, tecnologia i qualsevol altra cosa. Quan tinc temps.
-url: https://enricllonch.com
+url: https://blog.enricllonch.com
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
