@@ -3,6 +3,7 @@ date: "2020-02-29"
 draft: false
 tags: "música"
 title: "Dreaming of David"
+image: dreamingofdavid.jpg
 ---
 
 Des de la sortida del *Blonde* de Frank Ocean, hem pogut sentir ecos de la seva instrumentació orgànica barrejada amb melodies R&B autotunejades (i plenes de petites modulacions i tics que fan més complexes les melodies) a molts artistes del *mainstream*. El nou disc de Ryan Beatty va una mica per aquest camí.
