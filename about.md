@@ -19,8 +19,14 @@ title: Quant a Enric Llonch
 	<h4>Cinema</h4>
 	<p>Com a estudiant de Comunicació Audiovisual a la Pompeu, m’he centrat molt en el cine. De tot el que he fet a la carrera destaco dues coses:</p>
 	<ul>
-	<li>He co-dirigit el curtmetratge <i>SENEX</i> dins del marc de l’assignatura Direcció Cinematogràfica. Vam haver d’idear, desenvolupar, fer càsting i realitzar un curt en menys de dos mesos, i el rodatge només podia durar un dia. Es va rodar al casal de gent gran de Llinars del Vallès amb una càmera analògica (16mm). Puc mostrar-lo a petició.</li>
-	<li>Estic realitzant el film <a href="http://www.deadpavo.com/"><i>DEADPAVO</i></a> dins del marc del TFG (Treball de Fi de Grau). Podeu seguir-nos a <a href="https://instagram.com/deadpavo/">Instagram</a>.</li>
+	<p>He co-dirigit el curtmetratge <i>SENEX</i> dins del marc de l’assignatura Direcció Cinematogràfica. Vam haver d’idear, desenvolupar, fer càsting i realitzar un curt en menys de dos mesos, i el rodatge només podia durar un dia. Es va rodar al casal de gent gran de Llinars del Vallès amb una càmera analògica (16mm). Puc mostrar-lo a petició.</p>
+	<p>He co-dirigit <a href="http://www.deadpavo.com/"><i>DEADPAVO</i></a>, un curtmetratge dins del marc del TFG (Treball de Fi de Grau). Podeu seguir-nos a <a href="https://instagram.com/deadpavo/">Instagram</a>. El curt ha sigut projectat a festivals de tot Europa:</p>
+	<li>Mecal Pro 2020 (Barcelona, ES)</li>
+	<li>Festival Internacional de Cine de Menorca (Menorca, ES)</li>
+	<li>LesGaiCineMad (Madrid, ES)</li>
+	<li>Mostra Out! (Mallorca, ES)</li>
+	<li>Omladinski Film Festival (Sarajevo, BO)</li>
+	<li>Euroshorts 2020 (Warszawa, PL)</li>
 	</ul>
 	
 	<h4>Més escrits</h4>
@@ -31,4 +37,6 @@ title: Quant a Enric Llonch
 		<li><a href="https://medium.com/@enricll/this-is-the-best-nicki-minaj-song-e731a9b177b5#.40f3v8dw9">The Best Nicki Minaj Song</a></li>
 		<li><a href="https://medium.com/cuepoint-es/por-qu%C3%A9-la-m%C3%BAsica-pop-conecta-contigo-aunque-no-hables-ingl%C3%A9s-9b189daca6b1#.887xbp2yz">Por qué la música pop conecta contigo aunque no hables inglés</a></li>
 	</ul>
+	<h4>Blog</h4>
+	<p>El blog funciona amb Jekyll, a través de GitHub Pages. El disseny és Long Haul de Brian Maier Jr.</p>
 </div>
