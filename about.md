@@ -18,16 +18,15 @@ title: Quant a Enric Llonch
 	
 	<h4>Cinema</h4>
 	<p>Com a estudiant de Comunicació Audiovisual a la Pompeu, m’he centrat molt en el cine. De tot el que he fet a la carrera destaco dues coses:</p>
-	<ul>
 	<p>He co-dirigit el curtmetratge <i>SENEX</i> dins del marc de l’assignatura Direcció Cinematogràfica. Vam haver d’idear, desenvolupar, fer càsting i realitzar un curt en menys de dos mesos, i el rodatge només podia durar un dia. Es va rodar al casal de gent gran de Llinars del Vallès amb una càmera analògica (16mm). Puc mostrar-lo a petició.</p>
 	<p>He co-dirigit <a href="http://www.deadpavo.com/"><i>DEADPAVO</i></a>, un curtmetratge dins del marc del TFG (Treball de Fi de Grau). Podeu seguir-nos a <a href="https://instagram.com/deadpavo/">Instagram</a>. El curt ha sigut projectat a festivals de tot Europa:</p>
+	<ul>
 	<li>Mecal Pro 2020 (Barcelona, ES)</li>
 	<li>Festival Internacional de Cine de Menorca (Menorca, ES)</li>
 	<li>LesGaiCineMad (Madrid, ES)</li>
 	<li>Mostra Out! (Mallorca, ES)</li>
 	<li>Omladinski Film Festival (Sarajevo, BO)</li>
-	<li>Euroshorts 2020 (Warszawa, PL)</li>
-	</ul>
+	<li>Euroshorts 2020 (Warszawa, PL)</li></ul>
 	
 	<h4>Més escrits</h4>
 	<p>He escrit coses en altres idiomes, és a dir, castellà i anglès.</p>
