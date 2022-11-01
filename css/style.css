@@ -837,6 +837,7 @@ POST STYLING
   margin: 2.5em 0;
   padding: 0;
   line-height: 1.8;
+  text-align: center;
   position: relative; }
   .post blockquote:before {
     content: "";
