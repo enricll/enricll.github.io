@@ -9,11 +9,15 @@ layout: default
   {% endif %}
   <h1 class="postTitle">{{ page.title }}</h1>
   {% assign reading_time = page.content | strip_html | number_of_words | plus: 199 | divided_by: 200 %}
-  <p class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%d.%m.%Y' }}</time> · <span class="time">{{ reading_time }} min de lectura</span>{% if page.tags %} ·
+  <p class="meta">
+    <span class="metaItem"><span class="metaIcon" aria-hidden="true">&#128197;</span><span class="srOnly">Publicat el </span><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%d.%m.%Y' }}</time></span>
+    <span class="metaItem"><span class="metaIcon" aria-hidden="true">&#9201;</span><span class="time">{{ reading_time }} min de lectura</span></span>{% if page.tags %}
+    <span class="metaItem"><span class="metaIcon" aria-hidden="true">&#127991;</span><span class="srOnly">Etiquetes: </span>
   {% for tag in page.tags %}
     <a href="/tags/#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
   {% endfor %}
-  {% endif %}</p>
+    </span>{% endif %}
+  </p>
   
   {{ content }}
 
