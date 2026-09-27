@@ -67,9 +67,11 @@
   text-underline-offset: .35em;
 }
 
-.landing__links a:hover { text-decoration-color: currentColor; }
-.landing__links a:focus-visible { outline: 2px solid var(--landing-accent); outline-offset: 5px; }
+.landing__links a:visited { color: var(--landing-fg); }
+.landing__links a:hover { color: var(--landing-accent); text-decoration-color: currentColor; }
+.landing__links a:focus-visible { outline-color: var(--landing-accent); outline-offset: 5px; }
 .landing__links .landing__primary { color: var(--landing-accent); font-weight: 700; }
+.landing__links .landing__primary:visited { color: var(--landing-accent); }
 
 .landing__footer {
   margin-top: auto;

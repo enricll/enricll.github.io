@@ -1,0 +1,74 @@
+/* Shared interaction states for links and controls. */
+a {
+  text-decoration-thickness: .08em;
+  text-underline-offset: .18em;
+  transition: color .15s ease, background-color .15s ease,
+    text-decoration-color .15s ease, box-shadow .15s ease;
+}
+
+.content a:visited {
+  color: #59458f;
+}
+
+.content a:hover {
+  color: #30377d;
+  text-decoration-line: underline;
+  text-decoration-thickness: .12em;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+[tabindex]:not([tabindex="-1"]):focus-visible {
+  outline: 3px solid #b34f2f;
+  outline-offset: 3px;
+}
+
+a:active {
+  text-decoration-thickness: .16em;
+}
+
+/* Navigation and button colours must remain readable after a visit. */
+.header a:visited,
+.postNav a:visited,
+a.button:visited,
+a.button-secondary:visited,
+a.button-tertiary:visited,
+a.button__outline:visited {
+  color: inherit;
+}
+
+.header a:focus-visible,
+.postNav a:focus-visible,
+.nav-toggle:focus-visible {
+  outline-color: #fff;
+  outline-offset: -4px;
+}
+
+.footer-links a:focus-visible {
+  border-radius: 4px;
+}
+
+/* Keep focus visible for users who request stronger contrast. */
+@media (prefers-contrast: more) {
+  a {
+    text-decoration-thickness: .12em;
+  }
+
+  a:focus-visible,
+  button:focus-visible,
+  input:focus-visible,
+  select:focus-visible,
+  textarea:focus-visible,
+  [tabindex]:not([tabindex="-1"]):focus-visible {
+    outline-width: 4px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  a {
+    transition: none;
+  }
+}
