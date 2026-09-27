@@ -1,25 +1,23 @@
 ---
-layout: default
+layout: landing
 title: Enric Llonch
+description: Pàgina personal d'Enric Llonch. Barcelona, enllaços i blog.
 ---
 
-<div class="home" id="home">
-  <ul class="posts noList">
-    {% for post in paginator.posts %}
-      <li>
-        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
-      </li>
-    {% endfor %}
-  </ul>
-  <!-- Pagination links -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Newer Posts</a> 
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
-    {% endif %}
+<main class="landing">
+  <div class="landing__content">
+    <p class="landing__eyebrow">Barcelona · Internet</p>
+    <h1>Enric Llonch<span>.</span></h1>
+    <p class="landing__intro">Benvingut al meu racó d'internet. Escric de tant en tant sobre música, cinema i videojocs.</p>
+
+    <nav class="landing__links" aria-label="Enllaços principals">
+      <a class="landing__primary" href="{{ '/blog/' | prepend: site.baseurl }}">Llegir el blog <span aria-hidden="true">↗</span></a>
+      <a href="https://www.linkedin.com/in/enricllonch/">LinkedIn <span aria-hidden="true">↗</span></a>
+      <a href="https://www.last.fm/user/enricll">Last.fm <span aria-hidden="true">↗</span></a>
+    </nav>
   </div>
-</div>
+
+  <footer class="landing__footer">
+    © {{ site.time | date: '%Y' }} Enric Llonch
+  </footer>
+</main>

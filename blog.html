@@ -1,0 +1,17 @@
+---
+layout: default
+title: Blog · Enric Llonch
+description: Arxiu d'articles d'Enric Llonch sobre música, cinema, videojocs i cultura popular.
+permalink: /blog/
+---
+
+<div class="home" id="home">
+  <h1 class="pageTitle">Blog</h1>
+  <ul class="posts noList">
+    {% for post in site.posts %}
+      <li>
+        <span class="date">{{ post.date | date: '%d.%m.%Y' }}</span>
+        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        {% if post.description %}<p>{{ post.description | strip_html }}</p>{% endif %}
+      </li>
+    {% endfor %}

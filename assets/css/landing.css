@@ -1,0 +1,90 @@
+:root {
+  color-scheme: light dark;
+  --landing-bg: #f8f7f3;
+  --landing-fg: #20201d;
+  --landing-muted: #706f68;
+  --landing-rule: #d8d6cf;
+  --landing-accent: #a34428;
+}
+
+.landing-page {
+  margin: 0;
+  background: var(--landing-bg);
+  color: var(--landing-fg);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.landing-page * { box-sizing: border-box; }
+
+.landing {
+  width: min(100% - 3rem, 760px);
+  min-height: 100vh;
+  min-height: 100svh;
+  margin-inline: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.landing__content { padding-block: 7rem 5rem; }
+
+.landing__eyebrow {
+  margin: 0 0 1.5rem;
+  color: var(--landing-muted);
+  font-size: .8rem;
+  font-weight: 650;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+}
+
+.landing h1 {
+  margin: 0;
+  color: var(--landing-fg);
+  font-family: inherit;
+  font-size: clamp(3.25rem, 10vw, 6.5rem);
+  font-weight: 750;
+  letter-spacing: -.075em;
+  line-height: 1;
+}
+
+.landing h1 span { color: var(--landing-accent); }
+
+.landing__intro {
+  max-width: 580px;
+  margin: 2rem 0 3rem;
+  color: var(--landing-fg);
+  font-size: clamp(1.15rem, 2.5vw, 1.45rem);
+  line-height: 1.55;
+}
+
+.landing__links { display: flex; flex-wrap: wrap; gap: 1rem 1.75rem; }
+
+.landing__links a {
+  color: inherit;
+  text-decoration-color: var(--landing-rule);
+  text-decoration-thickness: 1px;
+  text-underline-offset: .35em;
+}
+
+.landing__links a:hover { text-decoration-color: currentColor; }
+.landing__links a:focus-visible { outline: 2px solid var(--landing-accent); outline-offset: 5px; }
+.landing__links .landing__primary { color: var(--landing-accent); font-weight: 700; }
+
+.landing__footer {
+  margin-top: auto;
+  padding-block: 1.5rem;
+  border-top: 1px solid var(--landing-rule);
+  color: var(--landing-muted);
+  font-size: .85rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --landing-bg: #1c1d1a;
+    --landing-fg: #f3f1eb;
+    --landing-muted: #aaa99f;
+    --landing-rule: #4b4c45;
+    --landing-accent: #f0a78a;
+  }
+}
