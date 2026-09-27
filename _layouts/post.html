@@ -8,7 +8,8 @@ layout: default
       </div>
   {% endif %}
   <h1 class="postTitle">{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read{% if page.tags %} | 
+  {% assign reading_time = page.content | strip_html | number_of_words | plus: 199 | divided_by: 200 %}
+  <p class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%d.%m.%Y' }}</time> · <span class="time">{{ reading_time }} min de lectura</span>{% if page.tags %} ·
   {% for tag in page.tags %}
     <a href="/tags/#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
   {% endfor %}
