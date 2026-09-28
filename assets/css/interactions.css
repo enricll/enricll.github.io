@@ -201,3 +201,69 @@ a:active {
     gap: 1rem;
   }
 }
+
+/* Desktop navigation: compact, aligned pills with a clear active page. */
+@media (min-width: 800px) {
+  .header nav ul {
+    display: flex;
+    align-items: center;
+    gap: .25rem;
+    margin: 0;
+    padding: 0;
+    line-height: normal;
+  }
+
+  .header nav ul li {
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    line-height: normal;
+  }
+
+  .header nav ul li a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 0;
+    padding: .2em .65em;
+    border-radius: 5px;
+    line-height: 1.2;
+    box-shadow: none;
+  }
+
+  .header nav ul li.current a {
+    background-color: rgba(255, 255, 255, .16);
+    box-shadow: none;
+  }
+
+  .header nav ul li a:hover,
+  .header nav ul li a:focus-visible {
+    color: #fff;
+    background-color: #3d4487;
+  }
+}
+
+/* Prevent the responsive menu's mobile full-width items from stretching on desktop. */
+@media (min-width: 800px) {
+  .header nav {
+    width: auto;
+    margin-top: .75rem;
+  }
+
+  .header nav ul {
+    width: auto;
+  }
+
+  .header nav ul li {
+    width: auto;
+    flex: 0 0 auto;
+  }
+}
+
+/* Keep the active desktop link aligned with its siblings. */
+@media (min-width: 800px) {
+  .header nav.nav-collapse ul li.current {
+    border: 0;
+    padding: 0;
+  }
+}
