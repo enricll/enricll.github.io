@@ -1,23 +1,17 @@
 ---
-layout: landing
+layout: default
+home: true
 title: Enric Llonch
 description: Pàgina personal d'Enric Llonch. Barcelona, enllaços i blog.
 ---
 
-<main class="landing">
-  <div class="landing__content">
-    <p class="landing__eyebrow">Barcelona · Internet</p>
-    <h1>Enric Llonch<span>.</span></h1>
-    <p class="landing__intro">Benvingut al meu racó d'internet. Escric de tant en tant sobre música, cinema i videojocs.</p>
+<main id="home" class="home-intro">
+  <h2 class="pageTitle">Barcelona</h2>
+  <p>Benvingut al meu racó d'internet. Escric de tant en tant sobre música, cinema i videojocs.</p>
 
-    <nav class="landing__links" aria-label="Enllaços principals">
-      <a class="landing__primary" href="{{ '/blog/' | prepend: site.baseurl }}">Llegir el blog <span aria-hidden="true">↗</span></a>
-      <a href="https://www.linkedin.com/in/enricllonch/">LinkedIn <span aria-hidden="true">↗</span></a>
-      <a href="https://www.last.fm/user/enricll">Last.fm <span aria-hidden="true">↗</span></a>
-    </nav>
-  </div>
-
-  <footer class="landing__footer">
-    © {{ site.time | date: '%Y' }} Enric Llonch
-  </footer>
+  <nav class="home-links" aria-label="Enllaços principals">
+    <a class="button" href="{{ '/blog/' | prepend: site.baseurl }}">Llegir el blog <span aria-hidden="true">&rarr;</span></a>
+    <a href="https://www.linkedin.com/in/enricllonch/">LinkedIn <span aria-hidden="true">&nearr;</span></a>
+    <a href="https://www.last.fm/user/enricll">Last.fm <span aria-hidden="true">&nearr;</span></a>
+  </nav>
 </main>

@@ -1,0 +1,38 @@
+.home-intro {
+  max-width: 760px;
+  margin: 0 auto 3rem;
+  padding-top: 1rem;
+  text-align: center;
+}
+
+.home-intro .pageTitle {
+  margin-bottom: .75rem;
+}
+
+.home-intro > p {
+  max-width: 620px;
+  margin: 0 auto 1.75rem;
+  font-size: 1.15em;
+}
+
+.home-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: .75rem 1.5rem;
+}
+
+.home-links .button {
+  margin: 0;
+}
+
+@media (max-width: 43.74em) {
+  .home-intro {
+    padding-top: .5rem;
+  }
+
+  .home-links {
+    gap: 1rem;
+  }
+}
