@@ -13,11 +13,13 @@ Mejorar la experiencia de lectura y exploración del blog, simplificar su manten
 - Estados de hover, foco de teclado y enlaces visitados añadidos.
 - Metadatos de las entradas con fecha y tiempo estimado de lectura; iconos diferenciadores y textos en catalán.
 - Portada integrada en la plantilla visual del blog, con navegación activa corregida.
+- Botones y navegación móvil con contraste legible y hover lila, sin el salto a verde del tema anterior.
+- Titular genérico de la portada retirado y pie simplificado para evitar repetir el nombre.
 - El subdominio `blog.enricllonch.com` redirige a la portada del dominio principal. El proveedor no permite conservar la ruta con la configuración actual; se acepta que los enlaces antiguos profundos del subdominio acaben en la portada y no se prioriza cambiar de servicio para resolverlo.
 
 ## Pendiente de publicación
 
-La integración visual de la portada y la hoja de ruta están implementadas y compiladas localmente. Falta subir el commit `Unify homepage with blog layout` a GitHub.
+Los últimos ajustes visuales están implementados y compilados localmente. Falta subirlos a GitHub.
 
 ## Próximas fases
 
