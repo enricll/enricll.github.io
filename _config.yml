@@ -12,6 +12,13 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 10
 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
 navigation:
  - title: Inici
    url: /

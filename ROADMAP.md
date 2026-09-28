@@ -19,7 +19,12 @@ Mejorar la experiencia de lectura y exploración del blog, simplificar su manten
 
 ## Pendiente de publicación
 
-Los últimos ajustes visuales están implementados y compilados localmente. Falta subirlos a GitHub.
+Los cambios siguientes están implementados y compilados en local; falta publicarlos en GitHub:
+- Archivo del blog agrupado por años, con recuento de entradas y filtros de año y temática.
+- Búsqueda local en títulos, etiquetas y texto completo de los artículos. El índice se descarga solo al empezar a buscar.
+- Categorías iniciales derivadas de las etiquetas existentes; conviene revisar las entradas que quedan en «Altres».
+- Plantilla Jekyll aplicada por defecto a las entradas, con fecha, tiempo de lectura y enlace para volver al archivo.
+- Ajustes de legibilidad en títulos, metadatos, párrafos, imágenes, pies de foto y citas.
 
 ## Próximas fases
 

@@ -1,0 +1,353 @@
+/* Archive filters and article reading refinements. */
+.archive-tools {
+  margin: 2.5rem 0 1rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e2e1dc;
+}
+
+.archive-tools h2 {
+  margin: 0 0 1rem;
+  font-size: 1.15em;
+  line-height: 1.3;
+}
+
+.archive-controls {
+  display: none;
+  grid-template-columns: minmax(0, 1.7fr) minmax(0, 1.1fr) minmax(0, .9fr) auto;
+  align-items: end;
+  gap: .75rem;
+  margin: 0 0 .75rem;
+  padding: 1rem;
+  border: 1px solid #e2e1dc;
+  border-radius: 6px;
+  background: #f8f7f3;
+}
+
+.archive.archive-ready .archive-controls {
+  display: grid;
+}
+
+.archive-field {
+  display: grid;
+  grid-template-rows: 1.2em 2.6rem;
+  align-content: end;
+  min-width: 0;
+}
+
+.archive-field label {
+  display: block;
+  margin: 0 0 .3rem;
+  line-height: 1.2;
+  font-family: Inter, Helvetica, Arial, sans-serif;
+  font-size: .75em;
+  font-weight: 700;
+}
+
+.archive-field input,
+.archive-field select {
+  box-sizing: border-box;
+  width: 100%;
+  height: 2.6rem;
+  min-height: 0;
+  padding: .35rem .55rem;
+  border: 1px solid #a9a9a9;
+  border-radius: 4px;
+  background: #fff;
+  color: #1c1c1c;
+  font: inherit;
+  font-size: .9em;
+  line-height: 1.2;
+}
+
+.archive-reset {
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 2.6rem;
+  min-height: 0;
+  padding: .35rem .7rem;
+  border: 1px solid #5862c2;
+  border-radius: 4px;
+  background: transparent;
+  color: #3d4487;
+  font: 700 .75em Inter, Helvetica, Arial, sans-serif;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.archive-reset:hover,
+.archive-reset:focus-visible {
+  background: #3d4487;
+  color: #fff;
+}
+
+.archive-results,
+.archive-empty {
+  margin: .65rem 0;
+  color: #5e5e5e;
+  font: .78em Inter, Helvetica, Arial, sans-serif;
+}
+
+.archive-results[hidden],
+.archive-jump[hidden],
+.archive-empty[hidden],
+.archive-year[hidden] {
+  display: none;
+}
+
+.archive-jump {
+  display: inline-block;
+  margin: 0 0 .5rem;
+  font: 700 .8em Inter, Helvetica, Arial, sans-serif;
+}
+
+.archive-year {
+  border-top: 1px solid #e2e1dc;
+}
+
+.archive-year:last-child {
+  border-bottom: 1px solid #e2e1dc;
+}
+
+.archive-year > summary {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  padding: .8rem .25rem;
+  color: #202020;
+  cursor: pointer;
+  font-family: Inter, Helvetica, Arial, sans-serif;
+  list-style: none;
+}
+
+.archive-year > summary::-webkit-details-marker {
+  display: none;
+}
+
+.archive-year > summary::after {
+  content: "";
+  flex: 0 0 .45rem;
+  width: .45rem;
+  height: .45rem;
+  margin: 0 .25rem .2rem 0;
+  border-right: 2px solid #5862c2;
+  border-bottom: 2px solid #5862c2;
+  transform: rotate(45deg);
+  transition: transform .15s ease;
+}
+
+.archive-year[open] > summary::after {
+  margin-bottom: -.15rem;
+  transform: rotate(225deg);
+}
+
+.archive-year > summary:focus-visible {
+  outline: 3px solid #b34f2f;
+  outline-offset: 2px;
+}
+
+.archive-year-title {
+  margin-right: auto;
+  font-size: 1.25em;
+  font-weight: 800;
+}
+
+.archive-year-count {
+  color: #666;
+  font-size: .75em;
+}
+
+.archive-year .posts {
+  margin: 0;
+  padding: .75rem 0 0;
+}
+
+.archive-year .posts > li {
+  margin-bottom: 2rem;
+  padding: 0 0 1.25rem;
+  border-bottom: 1px solid #e8e7e3;
+}
+
+.archive-year .posts > li:before {
+  display: none;
+}
+
+.archive-year .posts h3 {
+  margin: .35rem 0 .4rem;
+}
+
+.archive-year .posts h3 a {
+  color: #171717;
+}
+
+.archive-year .posts h3 a:hover,
+.archive-year .posts h3 a:focus-visible {
+  color: #3d4487;
+}
+
+.archive-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .35rem;
+  margin: 0;
+  color: #666;
+  font: .72em Inter, Helvetica, Arial, sans-serif;
+}
+
+.archive-year .archive-description {
+  margin: .25rem 0 .6rem;
+  font-size: .9em;
+}
+
+.archive-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+}
+
+.archive-chip {
+  display: inline-block;
+  padding: .16rem .5rem;
+  border: 1px solid #dedde8;
+  border-radius: 999px;
+  color: #3d4487;
+  font: .66em Inter, Helvetica, Arial, sans-serif;
+  text-decoration: none;
+}
+
+.archive-chip:hover,
+.archive-chip:focus-visible {
+  border-color: #5862c2;
+  background: #eeedf9;
+}
+
+.archive-category-chip {
+  border-color: #d6d5ec;
+  background: #f2f1fb;
+  font-weight: 700;
+}
+
+@media (min-width: 800px) and (max-width: 999px) {
+  .archive-controls {
+    grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr) minmax(0, .8fr);
+  }
+
+  .archive-search-field {
+    grid-column: span 2;
+  }
+
+  .archive-reset {
+    grid-column: 3;
+  }
+}
+
+@media (max-width: 799px) {
+  .archive-controls {
+    grid-template-columns: minmax(0, 1fr);
+    gap: .65rem;
+    padding: .8rem;
+  }
+
+  .archive-reset {
+    width: 100%;
+  }
+}
+
+.post > .postTitle {
+  max-width: 760px;
+  margin: 2rem auto 1rem;
+  line-height: 1.12;
+  text-wrap: balance;
+}
+
+.post > .meta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: .35rem .6rem;
+  max-width: 760px;
+  margin: 0 auto 2.5rem;
+  line-height: 1.6;
+}
+
+.post .metaItem {
+  margin: 0;
+}
+
+.post p,
+.post li {
+  line-height: 1.8;
+}
+
+.post p {
+  max-width: 740px;
+}
+
+.post h2,
+.post h3,
+.post h4 {
+  max-width: 760px;
+  line-height: 1.2;
+  text-wrap: balance;
+}
+
+.post figure {
+  max-width: 880px;
+  margin: 3rem auto;
+}
+
+.post figure img,
+.post > img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.post figure figcaption {
+  max-width: 740px;
+  margin: .65rem auto 0;
+  line-height: 1.6;
+}
+
+.post blockquote {
+  max-width: 740px;
+}
+
+.post-return {
+  margin: 2.5rem auto 1.5rem;
+  font-family: Inter, Helvetica, Arial, sans-serif;
+  font-size: .85em;
+  font-weight: 700;
+}
+
+.post-return a {
+  display: inline-block;
+  padding: .45rem .7rem;
+  border-radius: 4px;
+  color: #3d4487;
+  text-decoration: none;
+}
+
+.post-return a:hover,
+.post-return a:focus-visible {
+  background: #eeedf9;
+}
+
+
+@media (max-width: 799px) {
+  .post > .postTitle {
+    padding: 0 .5rem;
+  }
+
+  .post > .meta {
+    margin-bottom: 2rem;
+  }
+
+  .post figure {
+    margin: 2rem 0;
+  }
+}

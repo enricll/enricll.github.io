@@ -5,13 +5,116 @@ description: Arxiu d'articles d'Enric Llonch sobre música, cinema, videojocs i 
 permalink: /blog/
 ---
 
-<div class="home" id="home">
+<div class="home archive" id="home" data-search-index="{{ '/search-index.json' | prepend: site.baseurl }}">
   <h1 class="pageTitle">Blog</h1>
-  <ul class="posts noList">
-    {% for post in site.posts %}
-      <li>
-        <span class="date">{{ post.date | date: '%d.%m.%Y' }}</span>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        {% if post.description %}<p>{{ post.description | strip_html }}</p>{% endif %}
-      </li>
+
+  {% assign archive_years_raw = '' %}
+  {% for post in site.posts %}
+    {% assign post_year = post.date | date: '%Y' %}
+    {% assign archive_years_raw = archive_years_raw | append: post_year | append: '|' %}
+  {% endfor %}
+  {% assign archive_years = archive_years_raw | split: '|' | uniq %}
+
+  <div class="archive-years" id="archive-list-start">
+    {% for year in archive_years %}
+      {% assign posts_in_year = 0 %}
+      {% for post in site.posts %}
+        {% assign post_year = post.date | date: '%Y' %}
+        {% if post_year == year %}{% assign posts_in_year = posts_in_year | plus: 1 %}{% endif %}
+      {% endfor %}
+      <details class="archive-year" data-archive-group data-year="{{ year }}" open>
+        <summary>
+          <span class="archive-year-title">{{ year }}</span>
+          <span class="archive-year-count">{{ posts_in_year }} {% if posts_in_year == 1 %}article{% else %}articles{% endif %}</span>
+        </summary>
+        <ul class="posts noList">
+          {% for post in site.posts %}
+            {% assign post_year = post.date | date: '%Y' %}
+            {% if post_year == year %}
+              {% assign archive_categories_raw = '' %}
+              {% for tag in post.tags %}
+                {% assign normalized_tag = tag | downcase %}
+                {% if normalized_tag contains 'músic' or normalized_tag contains 'music' or normalized_tag contains 'album' or normalized_tag == 'track review' or normalized_tag == 'spotify' %}
+                  {% assign archive_categories_raw = archive_categories_raw | append: 'musica|' %}
+                {% endif %}
+                {% if normalized_tag contains 'cinema' or normalized_tag contains 'sèrie' or normalized_tag contains 'series' or normalized_tag contains 'pel·lícul' or normalized_tag contains 'film' %}
+                  {% assign archive_categories_raw = archive_categories_raw | append: 'cinema|' %}
+                {% endif %}
+                {% if normalized_tag contains 'videojoc' or normalized_tag contains 'game' or normalized_tag contains 'gaming' %}
+                  {% assign archive_categories_raw = archive_categories_raw | append: 'videojocs|' %}
+                {% endif %}
+                {% if normalized_tag contains 'tecnolog' or normalized_tag contains 'tech' or normalized_tag contains 'disseny' or normalized_tag contains 'mitjans' or normalized_tag contains 'internet' or normalized_tag contains 'digital' or normalized_tag contains 'web' %}
+                  {% assign archive_categories_raw = archive_categories_raw | append: 'tecnologia|' %}
+                {% endif %}
+              {% endfor %}
+              {% assign archive_categories = archive_categories_raw | split: '|' | uniq %}
+              {% if archive_categories == empty %}{% assign archive_categories = 'altres' | split: '|' %}{% endif %}
+              {% assign archive_reading_time = post.content | strip_html | number_of_words | plus: 199 | divided_by: 200 %}
+              {% capture searchable_text %}{{ post.title }} {{ post.description }} {% for tag in post.tags %}{{ tag }} {% endfor %}{% endcapture %}
+              <li data-archive-post data-year="{{ year }}" data-categories="{{ archive_categories | join: ' ' }}" data-search="{{ searchable_text | strip_html | normalize_whitespace | escape }}">
+                <p class="archive-meta">
+                  <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%d.%m.%Y' }}</time>
+                  <span aria-hidden="true">·</span>
+                  <span>{{ archive_reading_time }} min de lectura</span>
+                </p>
+                <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+                {% assign archive_description = post.description | default: post.excerpt %}
+                {% if archive_description %}<p class="archive-description">{{ archive_description | strip_html | normalize_whitespace | truncatewords: 30 }}</p>{% endif %}
+                <div class="archive-tags" aria-label="Temàtiques i etiquetes">
+                  {% for category in archive_categories %}
+                    <span class="archive-chip archive-category-chip">
+                      {% case category %}
+                        {% when 'musica' %}Música
+                        {% when 'cinema' %}Cinema i sèries
+                        {% when 'videojocs' %}Videojocs
+                        {% when 'tecnologia' %}Tecnologia
+                        {% else %}Altres
+                      {% endcase %}
+                    </span>
+                  {% endfor %}
+                  {% for tag in post.tags limit: 3 %}
+                    <a class="archive-chip" href="{{ '/tags/#' | prepend: site.baseurl }}{{ tag | slugify }}">{{ tag }}</a>
+                  {% endfor %}
+                </div>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </details>
     {% endfor %}
+  </div>
+  <section class="archive-tools" aria-labelledby="archive-tools-title">
+    <h2 id="archive-tools-title">Cerca a l’arxiu</h2>
+    <form class="archive-controls" role="search" aria-label="Cerca i filtres del blog">
+      <div class="archive-field archive-search-field">
+        <label for="archive-search">Cerca</label>
+        <input id="archive-search" type="search" autocomplete="off" placeholder="Títol, etiqueta o paraula">
+      </div>
+      <div class="archive-field">
+        <label for="archive-category">Temàtica</label>
+        <select id="archive-category">
+          <option value="">Totes</option>
+          <option value="musica">Música</option>
+          <option value="cinema">Cinema i sèries</option>
+          <option value="videojocs">Videojocs</option>
+          <option value="tecnologia">Tecnologia</option>
+          <option value="altres">Altres</option>
+        </select>
+      </div>
+      <div class="archive-field">
+        <label for="archive-year">Any</label>
+        <select id="archive-year">
+          <option value="">Tots</option>
+          {% for year in archive_years %}
+            <option value="{{ year }}">{{ year }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <button type="reset" class="archive-reset">Esborra filtres</button>
+    </form>
+    <p class="archive-results" id="archive-results" aria-live="polite" aria-atomic="true" hidden></p>
+    <a class="archive-jump" href="#archive-list-start" hidden>Ves als resultats</a>
+    <p class="archive-empty" id="archive-empty" hidden>No s'han trobat articles amb aquests filtres.</p>
+  </section>
+</div>
+<script src="{{ '/assets/js/archive-search.js' | prepend: site.baseurl }}" defer></script>
