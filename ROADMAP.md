@@ -17,15 +17,21 @@ Mejorar la experiencia de lectura y exploración del blog, simplificar su manten
 - Titular genérico de la portada retirado y pie simplificado para evitar repetir el nombre.
 - El subdominio `blog.enricllonch.com` redirige a la portada del dominio principal. El proveedor no permite conservar la ruta con la configuración actual; se acepta que los enlaces antiguos profundos del subdominio acaben en la portada y no se prioriza cambiar de servicio para resolverlo.
 
-## Pendiente de publicación
+## Implementado y visible en el sitio
 
-Los cambios siguientes están implementados y compilados en local; falta publicarlos en GitHub:
 - Archivo del blog agrupado por años, con recuento de entradas y filtros de año y temática.
 - Búsqueda local en títulos, etiquetas y texto completo de los artículos. El índice se descarga solo al empezar a buscar.
 - Categorías iniciales derivadas de las etiquetas existentes; conviene revisar las entradas que quedan en «Altres».
 - Plantilla Jekyll aplicada por defecto a las entradas, con fecha, tiempo de lectura y enlace para volver al archivo.
 - Ajustes de legibilidad en títulos, metadatos, párrafos, imágenes, pies de foto y citas.
+- Revisado en el preview móvil: navegación anual, controles de filtro con alturas coherentes, búsqueda con resultados y estado sin resultados.
+- Comprobado que el site público sirve el nuevo archivo y la búsqueda.
 
+## Pendiente inmediato
+
+- Se ha detectado una diferencia de agrupación entre el site público y el build local: ambos tienen 311 entradas, pero en el site público hay 4 en 2012 y 39 en 2013; localmente había 3 y 40. La entrada «2013» tiene fecha `2012-12-31T23:00:00+00:00`, por lo que cambia de año según la zona horaria del servidor.
+- Añadido `timezone: Europe/Madrid` en `_config.yml`. El build local mantiene el agrupamiento 3/40 incluso al ejecutarse con `TZ=UTC`; falta subir este ajuste y comprobar el resultado en GitHub Pages.
+- Revisar las entradas clasificadas en «Altres» y confirmar si las categorías actuales son suficientes.
 ## Próximas fases
 
 ### 1. Pulir el lenguaje visual compartido
